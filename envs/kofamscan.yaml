@@ -1,0 +1,25 @@
+name: kofamscan
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - ca-certificates=2021.10.8
+  - gdbm=1.18
+  - gmp=6.2.1
+  - hmmer=3.3.2
+  - libffi=3.4.2
+  - libgcc-ng=11.2.0
+  - libgomp=11.2.0
+  - libnsl=2.0.0
+  - libstdcxx-ng=11.2.0
+  - libzlib=1.2.11
+  - ncurses=6.3
+  - openssl=3.0.0
+  - parallel=20220222
+  - perl=5.32.1
+  - readline=8.1
+  - ruby=3.1.1
+  - yaml=0.2.5

@@ -1,0 +1,43 @@
+name: blast_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - blast=2.6.0
+  - boost=1.64.0
+  - boost-cpp=1.64.0
+  - bzip2=1.0.8
+  - ca-certificates=2022.9.24
+  - certifi=2016.9.26
+  - icu=58.2
+  - ld_impl_linux-64=2.39
+  - libblas=3.9.0
+  - libcblas=3.9.0
+  - libffi=3.4.2
+  - libgcc=7.2.0
+  - libgcc-ng=12.2.0
+  - libgfortran-ng=12.2.0
+  - libgfortran5=12.2.0
+  - libgomp=12.2.0
+  - liblapack=3.9.0
+  - libnsl=2.0.0
+  - libopenblas=0.3.21
+  - libsqlite=3.39.4
+  - libstdcxx-ng=12.2.0
+  - libzlib=1.2.13
+  - ncurses=6.3
+  - numpy=1.19.5
+  - openssl=1.1.1q
+  - pip=21.2.4
+  - python=3.6.15
+  - python_abi=3.6
+  - readline=8.1.2
+  - setuptools=49.6.0
+  - sqlite=3.39.4
+  - tk=8.6.12
+  - wheel=0.37.1
+  - xz=5.2.6
+  - zlib=1.2.13
