@@ -1,0 +1,462 @@
+ANPAHHCN_00007 hypothetical protein	156
+ANPAHHCN_00011 hypothetical protein	336
+ANPAHHCN_00015 Staphostatin B	109
+ANPAHHCN_00033 hypothetical protein	58
+ANPAHHCN_00044 hypothetical protein	83
+ANPAHHCN_00059 Putative triphosphatase YjbK	197
+ANPAHHCN_00077 hypothetical protein	123
+ANPAHHCN_00086 HTH-type transcriptional activator AmpR	289
+ANPAHHCN_00088 O-acetyltransferase OatA	604
+ANPAHHCN_00093 putative protein	300
+ANPAHHCN_00117 Putative esterase	124
+ANPAHHCN_00124 hypothetical protein	107
+ANPAHHCN_00130 hypothetical protein	50
+ANPAHHCN_00133 hypothetical protein	144
+ANPAHHCN_00134 hypothetical protein	88
+ANPAHHCN_00135 hypothetical protein	127
+ANPAHHCN_00139 hypothetical protein	282
+ANPAHHCN_00142 hypothetical protein	104
+ANPAHHCN_00143 hypothetical protein	61
+ANPAHHCN_00150 hypothetical protein	412
+ANPAHHCN_00153 hypothetical protein	57
+ANPAHHCN_00156 hypothetical protein	636
+ANPAHHCN_00158 hypothetical protein	315
+ANPAHHCN_00160 hypothetical protein	114
+ANPAHHCN_00163 hypothetical protein	127
+ANPAHHCN_00165 hypothetical protein	100
+ANPAHHCN_00166 hypothetical protein	110
+ANPAHHCN_00168 hypothetical protein	324
+ANPAHHCN_00172 hypothetical protein	512
+ANPAHHCN_00177 hypothetical protein	57
+ANPAHHCN_00180 hypothetical protein	68
+ANPAHHCN_00183 hypothetical protein	83
+ANPAHHCN_00184 hypothetical protein	123
+ANPAHHCN_00185 hypothetical protein	80
+ANPAHHCN_00186 hypothetical protein	118
+ANPAHHCN_00188 hypothetical protein	61
+ANPAHHCN_00189 hypothetical protein	134
+ANPAHHCN_00191 hypothetical protein	52
+ANPAHHCN_00193 hypothetical protein	256
+ANPAHHCN_00194 hypothetical protein	93
+ANPAHHCN_00196 hypothetical protein	224
+ANPAHHCN_00199 hypothetical protein	178
+ANPAHHCN_00200 hypothetical protein	86
+ANPAHHCN_00202 hypothetical protein	72
+ANPAHHCN_00203 hypothetical protein	149
+ANPAHHCN_00204 hypothetical protein	74
+ANPAHHCN_00206 hypothetical protein	64
+ANPAHHCN_00208 hypothetical protein	224
+ANPAHHCN_00209 hypothetical protein	241
+ANPAHHCN_00219 hypothetical protein	64
+ANPAHHCN_00225 putative protein YwqG	292
+ANPAHHCN_00230 hypothetical protein	179
+ANPAHHCN_00233 hypothetical protein	164
+ANPAHHCN_00236 hypothetical protein	78
+ANPAHHCN_00238 hypothetical protein	86
+ANPAHHCN_00239 hypothetical protein	62
+ANPAHHCN_00240 hypothetical protein	189
+ANPAHHCN_00241 hypothetical protein	94
+ANPAHHCN_00242 hypothetical protein	72
+ANPAHHCN_00247 hypothetical protein	469
+ANPAHHCN_00250 hypothetical protein	173
+ANPAHHCN_00251 hypothetical protein	242
+ANPAHHCN_00252 hypothetical protein	107
+ANPAHHCN_00258 hypothetical protein	152
+ANPAHHCN_00265 hypothetical protein	209
+ANPAHHCN_00270 Gluconeogenesis factor	331
+ANPAHHCN_00273 hypothetical protein	479
+ANPAHHCN_00288 DegV domain-containing protein	288
+ANPAHHCN_00291 hypothetical protein	356
+ANPAHHCN_00293 hypothetical protein	164
+ANPAHHCN_00296 hypothetical protein	106
+ANPAHHCN_00297 hypothetical protein	292
+ANPAHHCN_00298 hypothetical protein	172
+ANPAHHCN_00327 hypothetical protein	194
+ANPAHHCN_00340 hypothetical protein	154
+ANPAHHCN_00344 hypothetical protein	94
+ANPAHHCN_00347 hypothetical protein	95
+ANPAHHCN_00354 hypothetical protein	227
+ANPAHHCN_00358 hypothetical protein	99
+ANPAHHCN_00359 hypothetical protein	131
+ANPAHHCN_00367 putative transcriptional regulatory protein	238
+ANPAHHCN_00378 hypothetical protein	307
+ANPAHHCN_00380 hypothetical protein	142
+ANPAHHCN_00383 hypothetical protein	165
+ANPAHHCN_00414 hypothetical protein	67
+ANPAHHCN_00415 hypothetical protein	74
+ANPAHHCN_00419 hypothetical protein	238
+ANPAHHCN_00420 hypothetical protein	168
+ANPAHHCN_00430 hypothetical protein	168
+ANPAHHCN_00432 hypothetical protein	158
+ANPAHHCN_00436 hypothetical protein	81
+ANPAHHCN_00440 hypothetical protein	209
+ANPAHHCN_00441 hypothetical protein	210
+ANPAHHCN_00445 hypothetical protein	213
+ANPAHHCN_00448 hypothetical protein	146
+ANPAHHCN_00449 putative pyridine nucleotide-disulfide oxidoreductase RclA	440
+ANPAHHCN_00461 hypothetical protein	126
+ANPAHHCN_00464 hypothetical protein	55
+ANPAHHCN_00465 hypothetical protein	78
+ANPAHHCN_00466 hypothetical protein	121
+ANPAHHCN_00474 putative protein YojF	120
+ANPAHHCN_00489 putative epimerase/dehydratase	321
+ANPAHHCN_00564 Protein Veg	87
+ANPAHHCN_00573 hypothetical protein	267
+ANPAHHCN_00594 hypothetical protein	161
+ANPAHHCN_00595 hypothetical protein	131
+ANPAHHCN_00596 hypothetical protein	89
+ANPAHHCN_00607 hypothetical protein	120
+ANPAHHCN_00612 hypothetical protein	104
+ANPAHHCN_00613 hypothetical protein	107
+ANPAHHCN_00616 putative lipoprotein	261
+ANPAHHCN_00618 putative protein	258
+ANPAHHCN_00620 putative lipoprotein	256
+ANPAHHCN_00622 putative lipoprotein	157
+ANPAHHCN_00623 putative lipoprotein	262
+ANPAHHCN_00625 hypothetical protein	102
+ANPAHHCN_00626 hypothetical protein	502
+ANPAHHCN_00627 Staphylococcal superantigen-like 5	225
+ANPAHHCN_00630 Staphylococcal superantigen-like 10	227
+ANPAHHCN_00631 Staphylococcal superantigen-like 7	232
+ANPAHHCN_00632 Staphylococcal superantigen-like 7	232
+ANPAHHCN_00633 Staphylococcal superantigen-like 7	231
+ANPAHHCN_00634 Staphylococcal superantigen-like 4	231
+ANPAHHCN_00635 Staphylococcal superantigen-like 5	234
+ANPAHHCN_00636 Staphylococcal superantigen-like 4	308
+ANPAHHCN_00637 Staphylococcal superantigen-like 3	356
+ANPAHHCN_00638 Staphylococcal superantigen-like 4	231
+ANPAHHCN_00640 Quinone oxidoreductase 2	281
+ANPAHHCN_00642 hypothetical protein	50
+ANPAHHCN_00645 hypothetical protein	178
+ANPAHHCN_00650 hypothetical protein	135
+ANPAHHCN_00651 hypothetical protein	220
+ANPAHHCN_00658 hypothetical protein	208
+ANPAHHCN_00659 hypothetical protein	128
+ANPAHHCN_00661 hypothetical protein	83
+ANPAHHCN_00662 hypothetical protein	87
+ANPAHHCN_00664 hypothetical protein	122
+ANPAHHCN_00665 Enterotoxin-like toxin X	203
+ANPAHHCN_00667 hypothetical protein	324
+ANPAHHCN_00671 hypothetical protein	63
+ANPAHHCN_00673 hypothetical protein	67
+ANPAHHCN_00687 hypothetical protein	129
+ANPAHHCN_00694 hypothetical protein	331
+ANPAHHCN_00696 Alkanal monooxygenase alpha chain	353
+ANPAHHCN_00699 hypothetical protein	146
+ANPAHHCN_00706 UDP-glucose 4-epimerase	341
+ANPAHHCN_00709 Protein-ADP-ribose hydrolase	266
+ANPAHHCN_00711 hypothetical protein	333
+ANPAHHCN_00717 putative HTH-type transcriptional regulator YbbH	266
+ANPAHHCN_00718 Beta-glucoside kinase	286
+ANPAHHCN_00730 hypothetical protein	132
+ANPAHHCN_00732 Type VII secretion system protein EsaG	162
+ANPAHHCN_00733 Type VII secretion system protein EsaG	166
+ANPAHHCN_00734 Type VII secretion system protein EsaG	166
+ANPAHHCN_00735 Type VII secretion system protein EsaG	166
+ANPAHHCN_00736 Type VII secretion system protein EsaG	166
+ANPAHHCN_00737 Type VII secretion system protein EsaG	166
+ANPAHHCN_00738 Type VII secretion system protein EsaG	166
+ANPAHHCN_00740 Type VII secretion system protein EsaG	163
+ANPAHHCN_00741 Type VII secretion system protein EsaG	99
+ANPAHHCN_00742 Type VII secretion system protein EsaG	50
+ANPAHHCN_00743 Type VII secretion system protein EsaG	166
+ANPAHHCN_00744 Type VII secretion system protein EsaG	166
+ANPAHHCN_00745 hypothetical protein	72
+ANPAHHCN_00746 hypothetical protein	203
+ANPAHHCN_00748 Type VII secretion system protein EsaG	163
+ANPAHHCN_00749 Type VII secretion systems protein EssD	617
+ANPAHHCN_00751 Type VII secretion system protein EsaE	225
+ANPAHHCN_00756 Type VII secretion system accessory factor EsaB	80
+ANPAHHCN_00757 hypothetical protein	152
+ANPAHHCN_00759 Type VII secretion system extracellular protein A	97
+ANPAHHCN_00761 hypothetical protein	195
+ANPAHHCN_00762 hypothetical protein	217
+ANPAHHCN_00763 hypothetical protein	507
+ANPAHHCN_00770 hypothetical protein	130
+ANPAHHCN_00775 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	253
+ANPAHHCN_00793 hypothetical protein	48
+ANPAHHCN_00803 hypothetical protein	57
+ANPAHHCN_00806 hypothetical protein	409
+ANPAHHCN_00813 Staphylococcal complement inhibitor	114
+ANPAHHCN_00823 Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase	346
+ANPAHHCN_00831 putative lipoprotein	257
+ANPAHHCN_00837 hypothetical protein	370
+ANPAHHCN_00838 hypothetical protein	307
+ANPAHHCN_00839 hypothetical protein	280
+ANPAHHCN_00841 hypothetical protein	93
+ANPAHHCN_00842 putative HTH-type transcriptional regulator YbbH	292
+ANPAHHCN_00847 Indole-3-pyruvate decarboxylase	546
+ANPAHHCN_00856 Gramicidin S synthase 2	2391
+ANPAHHCN_00859 hypothetical protein	119
+ANPAHHCN_00860 hypothetical protein	344
+ANPAHHCN_00864 hypothetical protein	170
+ANPAHHCN_00865 hypothetical protein	67
+ANPAHHCN_00884 Tyrosine-protein kinase YwqD	228
+ANPAHHCN_00892 hypothetical protein	514
+ANPAHHCN_00902 putative protein	241
+ANPAHHCN_00905 hypothetical protein	412
+ANPAHHCN_00912 L-serine kinase SbnI	254
+ANPAHHCN_00915 2-[(L-alanin-3-ylcarbamoyl)methyl]-3-(2-aminoethylcarbamoyl)-2-hydroxypropanoate synthase	592
+ANPAHHCN_00916 L-2,3-diaminopropanoate--citrate ligase	578
+ANPAHHCN_00918 Staphyloferrin B synthase	584
+ANPAHHCN_00924 HTH-type transcriptional regulator SarS	250
+ANPAHHCN_00930 hypothetical protein	290
+ANPAHHCN_00936 putative lipoprotein	255
+ANPAHHCN_00937 putative lipoprotein	256
+ANPAHHCN_00938 putative lipoprotein	256
+ANPAHHCN_00942 hypothetical protein	200
+ANPAHHCN_00943 HTH-type transcriptional regulator YofA	244
+ANPAHHCN_00944 hypothetical protein	177
+ANPAHHCN_00945 HTH-type transcriptional regulator GltR	286
+ANPAHHCN_00956 hypothetical protein	581
+ANPAHHCN_00961 hypothetical protein	444
+ANPAHHCN_00969 Cyclic-di-AMP phosphodiesterase GdpP	655
+ANPAHHCN_00990 hypothetical protein	131
+ANPAHHCN_00993 hypothetical protein	63
+ANPAHHCN_00994 hypothetical protein	165
+ANPAHHCN_00996 hypothetical protein	63
+ANPAHHCN_01005 hypothetical protein	154
+ANPAHHCN_01007 hypothetical protein	255
+ANPAHHCN_01011 hypothetical protein	171
+ANPAHHCN_01017 hypothetical protein	374
+ANPAHHCN_01033 Capsular polysaccharide type 8 biosynthesis protein cap8A	220
+ANPAHHCN_01034 Tyrosine-protein kinase YwqD	230
+ANPAHHCN_01039 hypothetical protein	119
+ANPAHHCN_01040 hypothetical protein	100
+ANPAHHCN_01041 hypothetical protein	142
+ANPAHHCN_01043 Serine-rich adhesin for platelets	2271
+ANPAHHCN_01051 hypothetical protein	635
+ANPAHHCN_01052 N-carbamoylsarcosine amidase	186
+ANPAHHCN_01059 Immunodominant staphylococcal antigen B	175
+ANPAHHCN_01088 hypothetical protein	70
+ANPAHHCN_01093 hypothetical protein	138
+ANPAHHCN_01106 hypothetical protein	91
+ANPAHHCN_01108 putative ketoamine kinase	288
+ANPAHHCN_01109 hypothetical protein	92
+ANPAHHCN_01111 hypothetical protein	98
+ANPAHHCN_01115 putative hydrolase	276
+ANPAHHCN_01120 hypothetical protein	273
+ANPAHHCN_01122 hypothetical protein	76
+ANPAHHCN_01126 putative transglycosylase IsaA	233
+ANPAHHCN_01128 O-acetyltransferase OatA	603
+ANPAHHCN_01139 hypothetical protein	63
+ANPAHHCN_01153 hypothetical protein	72
+ANPAHHCN_01161 hypothetical protein	322
+ANPAHHCN_01163 hypothetical protein	67
+ANPAHHCN_01167 hypothetical protein	56
+ANPAHHCN_01189 hypothetical protein	138
+ANPAHHCN_01191 hypothetical protein	254
+ANPAHHCN_01198 HTH-type transcriptional regulator SarU	247
+ANPAHHCN_01207 UvrABC system protein B	953
+ANPAHHCN_01208 putative protein	258
+ANPAHHCN_01209 putative protein	261
+ANPAHHCN_01211 hypothetical protein	108
+ANPAHHCN_01212 hypothetical protein	95
+ANPAHHCN_01213 putative protein	264
+ANPAHHCN_01214 hypothetical protein	63
+ANPAHHCN_01215 hypothetical protein	93
+ANPAHHCN_01217 hypothetical protein	140
+ANPAHHCN_01223 hypothetical protein	121
+ANPAHHCN_01226 Staphylopine synthase	433
+ANPAHHCN_01236 hypothetical protein	85
+ANPAHHCN_01237 hypothetical protein	88
+ANPAHHCN_01241 Purine efflux pump PbuE	395
+ANPAHHCN_01252 Protein flp	498
+ANPAHHCN_01257 hypothetical protein	218
+ANPAHHCN_01258 hypothetical protein	157
+ANPAHHCN_01262 hypothetical protein	128
+ANPAHHCN_01270 hypothetical protein	155
+ANPAHHCN_01275 Manganese efflux system protein MneS	288
+ANPAHHCN_01277 hypothetical protein	34
+ANPAHHCN_01282 Aminoacyltransferase FemA	416
+ANPAHHCN_01288 hypothetical protein	155
+ANPAHHCN_01289 hypothetical protein	60
+ANPAHHCN_01303 HTH-type transcriptional activator mta	246
+ANPAHHCN_01304 hypothetical protein	68
+ANPAHHCN_01305 hypothetical protein	212
+ANPAHHCN_01308 HTH-type transcriptional regulator SarZ	148
+ANPAHHCN_01314 hypothetical protein	127
+ANPAHHCN_01324 putative lipoprotein	209
+ANPAHHCN_01339 hypothetical protein	183
+ANPAHHCN_01342 hypothetical protein	212
+ANPAHHCN_01343 hypothetical protein	306
+ANPAHHCN_01344 hypothetical protein	139
+ANPAHHCN_01350 hypothetical protein	215
+ANPAHHCN_01355 Protein YiiM	217
+ANPAHHCN_01360 HTH-type transcriptional regulator HdfR	294
+ANPAHHCN_01365 hypothetical protein	189
+ANPAHHCN_01367 hypothetical protein	168
+ANPAHHCN_01370 hypothetical protein	176
+ANPAHHCN_01373 hypothetical protein	63
+ANPAHHCN_01374 hypothetical protein	61
+ANPAHHCN_01375 hypothetical protein	118
+ANPAHHCN_01377 putative HTH-type transcriptional regulator YbbH	290
+ANPAHHCN_01385 hypothetical protein	77
+ANPAHHCN_01387 Aurachin C monooxygenase/isomerase	374
+ANPAHHCN_01395 hypothetical protein	247
+ANPAHHCN_01396 hypothetical protein	108
+ANPAHHCN_01424 HTH-type transcriptional regulator SarV	116
+ANPAHHCN_01426 putative HTH-type transcriptional regulator	146
+ANPAHHCN_01428 hypothetical protein	83
+ANPAHHCN_01431 hypothetical protein	105
+ANPAHHCN_01432 hypothetical protein	54
+ANPAHHCN_01435 hypothetical protein	295
+ANPAHHCN_01438 hypothetical protein	129
+ANPAHHCN_01474 hypothetical protein	365
+ANPAHHCN_01475 hypothetical protein	97
+ANPAHHCN_01476 hypothetical protein	263
+ANPAHHCN_01478 hypothetical protein	468
+ANPAHHCN_01485 HTH-type transcriptional regulator AdhR	138
+ANPAHHCN_01488 hypothetical protein	202
+ANPAHHCN_01503 hypothetical protein	79
+ANPAHHCN_01504 Alkaline shock protein 23	169
+ANPAHHCN_01508 hypothetical protein	658
+ANPAHHCN_01509 hypothetical protein	397
+ANPAHHCN_01510 hypothetical protein	585
+ANPAHHCN_01511 Ornithine racemase	356
+ANPAHHCN_01516 hypothetical protein	86
+ANPAHHCN_01536 CdaA regulatory protein CdaR	310
+ANPAHHCN_01538 hypothetical protein	2478
+ANPAHHCN_01546 hypothetical protein	378
+ANPAHHCN_01547 hypothetical protein	67
+ANPAHHCN_01548 hypothetical protein	363
+ANPAHHCN_01553 hypothetical protein	76
+ANPAHHCN_01555 hypothetical protein	137
+ANPAHHCN_01566 hypothetical protein	286
+ANPAHHCN_01569 hypothetical protein	173
+ANPAHHCN_01597 hypothetical protein	146
+ANPAHHCN_01599 putative transglycosylase SceD	231
+ANPAHHCN_01609 hypothetical protein	69
+ANPAHHCN_01610 hypothetical protein	45
+ANPAHHCN_01667 hypothetical protein	419
+ANPAHHCN_01672 hypothetical protein	147
+ANPAHHCN_01675 hypothetical protein	263
+ANPAHHCN_01683 hypothetical protein	58
+ANPAHHCN_01686 hypothetical protein	226
+ANPAHHCN_01690 hypothetical protein	174
+ANPAHHCN_01691 hypothetical protein	185
+ANPAHHCN_01692 hypothetical protein	280
+ANPAHHCN_01694 hypothetical protein	57
+ANPAHHCN_01695 hypothetical protein	133
+ANPAHHCN_01700 hypothetical protein	365
+ANPAHHCN_01706 hypothetical protein	200
+ANPAHHCN_01707 hypothetical protein	57
+ANPAHHCN_01708 hypothetical protein	108
+ANPAHHCN_01715 hypothetical protein	399
+ANPAHHCN_01722 hypothetical protein	176
+ANPAHHCN_01728 hypothetical protein	137
+ANPAHHCN_01731 hypothetical protein	128
+ANPAHHCN_01738 hypothetical protein	68
+ANPAHHCN_01741 hypothetical protein	383
+ANPAHHCN_01742 hypothetical protein	53
+ANPAHHCN_01791 hypothetical protein	38
+ANPAHHCN_01798 hypothetical protein	50
+ANPAHHCN_01799 hypothetical protein	131
+ANPAHHCN_01805 hypothetical protein	374
+ANPAHHCN_01806 hypothetical protein	114
+ANPAHHCN_01829 hypothetical protein	262
+ANPAHHCN_01830 hypothetical protein	151
+ANPAHHCN_01853 hypothetical protein	127
+ANPAHHCN_01855 hypothetical protein	213
+ANPAHHCN_01856 hypothetical protein	183
+ANPAHHCN_01857 hypothetical protein	114
+ANPAHHCN_01858 hypothetical protein	208
+ANPAHHCN_01871 Glyoxal reductase	277
+ANPAHHCN_01876 hypothetical protein	100
+ANPAHHCN_01879 hypothetical protein	147
+ANPAHHCN_01882 hypothetical protein	74
+ANPAHHCN_01902 hypothetical protein	2186
+ANPAHHCN_01906 hypothetical protein	140
+ANPAHHCN_01915 hypothetical protein	285
+ANPAHHCN_01927 Iron-regulated surface determinant protein H	895
+ANPAHHCN_01967 hypothetical protein	495
+ANPAHHCN_01980 hypothetical protein	202
+ANPAHHCN_01981 hypothetical protein	309
+ANPAHHCN_01997 hypothetical protein	94
+ANPAHHCN_01998 hypothetical protein	157
+ANPAHHCN_02022 hypothetical protein	60
+ANPAHHCN_02023 hypothetical protein	48
+ANPAHHCN_02024 hypothetical protein	337
+ANPAHHCN_02030 hypothetical protein	86
+ANPAHHCN_02055 Trans-aconitate 2-methyltransferase	238
+ANPAHHCN_02073 hypothetical protein	232
+ANPAHHCN_02081 Transcriptional repressor CcpN	179
+ANPAHHCN_02086 GTP cyclohydrolase 1 type 2 	366
+ANPAHHCN_02104 hypothetical protein	99
+ANPAHHCN_02112 hypothetical protein	72
+ANPAHHCN_02113 hypothetical protein	193
+ANPAHHCN_02129 hypothetical protein	145
+ANPAHHCN_02130 hypothetical protein	326
+ANPAHHCN_02137 hypothetical protein	288
+ANPAHHCN_02143 1-deoxyxylulose-5-phosphate synthase YajO	302
+ANPAHHCN_02153 hypothetical protein	309
+ANPAHHCN_02154 hypothetical protein	720
+ANPAHHCN_02156 hypothetical protein	296
+ANPAHHCN_02157 hypothetical protein	68
+ANPAHHCN_02158 hypothetical protein	304
+ANPAHHCN_02159 Riboflavin transporter RibU	181
+ANPAHHCN_02161 hypothetical protein	317
+ANPAHHCN_02171 hypothetical protein	190
+ANPAHHCN_02180 hypothetical protein	195
+ANPAHHCN_02181 hypothetical protein	195
+ANPAHHCN_02191 hypothetical protein	113
+ANPAHHCN_02195 hypothetical protein	187
+ANPAHHCN_02199 hypothetical protein	110
+ANPAHHCN_02201 GTPase Der	1146
+ANPAHHCN_02202 5'-3' exonuclease	292
+ANPAHHCN_02216 DegV domain-containing protein	279
+ANPAHHCN_02220 hypothetical protein	73
+ANPAHHCN_02231 hypothetical protein	67
+ANPAHHCN_02237 hypothetical protein	207
+ANPAHHCN_02239 hypothetical protein	102
+ANPAHHCN_02258 hypothetical protein	114
+ANPAHHCN_02287 putative protein	98
+ANPAHHCN_02297 hypothetical protein	79
+ANPAHHCN_02298 hypothetical protein	78
+ANPAHHCN_02300 hypothetical protein	287
+ANPAHHCN_02306 hypothetical protein	104
+ANPAHHCN_02312 hypothetical protein	194
+ANPAHHCN_02313 hypothetical protein	284
+ANPAHHCN_02315 hypothetical protein	62
+ANPAHHCN_02321 hypothetical protein	65
+ANPAHHCN_02323 hypothetical protein	63
+ANPAHHCN_02324 hypothetical protein	116
+ANPAHHCN_02325 hypothetical protein	64
+ANPAHHCN_02326 hypothetical protein	96
+ANPAHHCN_02328 hypothetical protein	88
+ANPAHHCN_02329 hypothetical protein	33
+ANPAHHCN_02330 hypothetical protein	82
+ANPAHHCN_02332 hypothetical protein	83
+ANPAHHCN_02334 hypothetical protein	61
+ANPAHHCN_02335 hypothetical protein	68
+ANPAHHCN_02336 hypothetical protein	70
+ANPAHHCN_02352 hypothetical protein	163
+ANPAHHCN_02359 hypothetical protein	71
+ANPAHHCN_02398 Aminoacyltransferase FemA	414
+ANPAHHCN_02404 hypothetical protein	868
+ANPAHHCN_02421 putative protein	124
+ANPAHHCN_02433 hypothetical protein	317
+ANPAHHCN_02438 Rqc2 RqcH	565
+ANPAHHCN_02470 putative N-acetyltransferase	146
+ANPAHHCN_02475 hypothetical protein	62
+ANPAHHCN_02477 hypothetical protein	75
+ANPAHHCN_02478 hypothetical protein	518
+ANPAHHCN_02481 Superantigen-like protein 13	241
+ANPAHHCN_02482 Superantigen-like protein 13	241
+ANPAHHCN_02483 Superantigen-like protein 13	238
+ANPAHHCN_02484 hypothetical protein	65
+ANPAHHCN_02486 hypothetical protein	77
+ANPAHHCN_02488 Staphylococcal complement inhibitor	116
+ANPAHHCN_02490 hypothetical protein	108
+ANPAHHCN_02514 Iron-regulated surface determinant protein C	227
+ANPAHHCN_02516 Iron-regulated surface determinant protein B	645
+ANPAHHCN_02522 hypothetical protein	129
+ANPAHHCN_02532 hypothetical protein	91
+ANPAHHCN_02533 hypothetical protein	160
+ANPAHHCN_02539 hypothetical protein	139
+ANPAHHCN_02540 hypothetical protein	339
+ANPAHHCN_02545 hypothetical protein	179
+ANPAHHCN_02546 hypothetical protein	91
+ANPAHHCN_02563 hypothetical protein	431
+ANPAHHCN_02575 Phosphoribosylformylglycinamidine synthase subunit PurS	87
+ANPAHHCN_02580 hypothetical protein	105

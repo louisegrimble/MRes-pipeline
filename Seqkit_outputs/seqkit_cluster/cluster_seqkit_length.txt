@@ -1,0 +1,367 @@
+JKJFLGDP_00002 hypothetical protein	74
+JKJFLGDP_00011 hypothetical protein	67
+JKJFLGDP_00072 hypothetical protein	177
+JKJFLGDP_00079 hypothetical protein	170
+JKJFLGDP_00083 hypothetical protein	110
+JKJFLGDP_00084 hypothetical protein	79
+JKJFLGDP_00085 ISNCY family transposase ISMac19	385
+JKJFLGDP_00086 hypothetical protein	73
+JKJFLGDP_00087 hypothetical protein	72
+JKJFLGDP_00093 hypothetical protein	79
+JKJFLGDP_00094 hypothetical protein	145
+JKJFLGDP_00103 hypothetical protein	93
+JKJFLGDP_00109 hypothetical protein	73
+JKJFLGDP_00110 hypothetical protein	151
+JKJFLGDP_00117 hypothetical protein	98
+JKJFLGDP_00118 hypothetical protein	48
+JKJFLGDP_00119 ISNCY family transposase ISMac19	187
+JKJFLGDP_00120 ISNCY family transposase ISMma11	111
+JKJFLGDP_00121 ISNCY family transposase ISMac19	187
+JKJFLGDP_00122 ISNCY family transposase ISMma11	207
+JKJFLGDP_00134 hypothetical protein	92
+JKJFLGDP_00138 hypothetical protein	410
+JKJFLGDP_00150 hypothetical protein	313
+JKJFLGDP_00151 hypothetical protein	375
+JKJFLGDP_00153 hypothetical protein	212
+JKJFLGDP_00154 hypothetical protein	401
+JKJFLGDP_00156 hypothetical protein	320
+JKJFLGDP_00157 hypothetical protein	425
+JKJFLGDP_00162 hypothetical protein	176
+JKJFLGDP_00167 hypothetical protein	172
+JKJFLGDP_00179 hypothetical protein	102
+JKJFLGDP_00185 hypothetical protein	273
+JKJFLGDP_00189 Tol-Pal system protein TolB	1163
+JKJFLGDP_00213 hypothetical protein	66
+JKJFLGDP_00221 hypothetical protein	108
+JKJFLGDP_00226 hypothetical protein	439
+JKJFLGDP_00254 hypothetical protein	284
+JKJFLGDP_00261 hypothetical protein	133
+JKJFLGDP_00263 hypothetical protein	75
+JKJFLGDP_00274 hypothetical protein	74
+JKJFLGDP_00277 hypothetical protein	101
+JKJFLGDP_00281 hypothetical protein	332
+JKJFLGDP_00285 Bifunctional F420 biosynthesis protein FbiB	384
+JKJFLGDP_00316 hypothetical protein	221
+JKJFLGDP_00322 PqqA peptide cyclase	381
+JKJFLGDP_00324 hypothetical protein	389
+JKJFLGDP_00328 hypothetical protein	907
+JKJFLGDP_00333 hypothetical protein	139
+JKJFLGDP_00337 hypothetical protein	350
+JKJFLGDP_00338 hypothetical protein	131
+JKJFLGDP_00339 hypothetical protein	114
+JKJFLGDP_00342 Lipoyl synthase, organellar chromatophore	323
+JKJFLGDP_00356 hypothetical protein	411
+JKJFLGDP_00375 Ion-translocating oxidoreductase complex subunit B	128
+JKJFLGDP_00376 Inosine-5'-monophosphate dehydrogenase	500
+JKJFLGDP_00384 Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	374
+JKJFLGDP_00389 hypothetical protein	233
+JKJFLGDP_00390 hypothetical protein	292
+JKJFLGDP_00394 hypothetical protein	274
+JKJFLGDP_00396 hypothetical protein	306
+JKJFLGDP_00404 hypothetical protein	84
+JKJFLGDP_00408 hypothetical protein	287
+JKJFLGDP_00412 hypothetical protein	204
+JKJFLGDP_00427 hypothetical protein	257
+JKJFLGDP_00431 hypothetical protein	487
+JKJFLGDP_00444 hypothetical protein	159
+JKJFLGDP_00447 hypothetical protein	120
+JKJFLGDP_00452 hypothetical protein	107
+JKJFLGDP_00467 Putative manganese exporter	195
+JKJFLGDP_00489 hypothetical protein	257
+JKJFLGDP_00509 hypothetical protein	142
+JKJFLGDP_00514 hypothetical protein	112
+JKJFLGDP_00527 IS1634 family transposase ISMth2	363
+JKJFLGDP_00528 hypothetical protein	482
+JKJFLGDP_00530 hypothetical protein	127
+JKJFLGDP_00531 hypothetical protein	69
+JKJFLGDP_00534 hypothetical protein	140
+JKJFLGDP_00539 hypothetical protein	342
+JKJFLGDP_00540 Rubrerythrin-2	179
+JKJFLGDP_00541 hypothetical protein	189
+JKJFLGDP_00544 hypothetical protein	337
+JKJFLGDP_00559 hypothetical protein	236
+JKJFLGDP_00572 hypothetical protein	68
+JKJFLGDP_00586 Protein archease	144
+JKJFLGDP_00629 hypothetical protein	209
+JKJFLGDP_00639 hypothetical protein	347
+JKJFLGDP_00646 ATP-dependent helicase/nuclease subunit A	1007
+JKJFLGDP_00653 hypothetical protein	76
+JKJFLGDP_00659 hypothetical protein	547
+JKJFLGDP_00672 hypothetical protein	209
+JKJFLGDP_00673 hypothetical protein	1055
+JKJFLGDP_00677 hypothetical protein	443
+JKJFLGDP_00678 hypothetical protein	647
+JKJFLGDP_00689 hypothetical protein	464
+JKJFLGDP_00692 hypothetical protein	98
+JKJFLGDP_00717 hypothetical protein	78
+JKJFLGDP_00718 hypothetical protein	711
+JKJFLGDP_00719 hypothetical protein	449
+JKJFLGDP_00723 hypothetical protein	516
+JKJFLGDP_00726 hypothetical protein	183
+JKJFLGDP_00727 hypothetical protein	264
+JKJFLGDP_00731 hypothetical protein	67
+JKJFLGDP_00738 hypothetical protein	125
+JKJFLGDP_00756 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	259
+JKJFLGDP_00759 hypothetical protein	124
+JKJFLGDP_00760 5,6-dimethylbenzimidazole synthase	187
+JKJFLGDP_00764 hypothetical protein	298
+JKJFLGDP_00766 hypothetical protein	70
+JKJFLGDP_00769 Bifunctional F420 biosynthesis protein FbiB	171
+JKJFLGDP_00773 hypothetical protein	444
+JKJFLGDP_00800 UTP--glucose-1-phosphate uridylyltransferase	420
+JKJFLGDP_00821 hypothetical protein	48
+JKJFLGDP_00822 hypothetical protein	84
+JKJFLGDP_00823 hypothetical protein	43
+JKJFLGDP_00825 hypothetical protein	106
+JKJFLGDP_00835 PqqA peptide cyclase	387
+JKJFLGDP_00839 hypothetical protein	164
+JKJFLGDP_00847 Epoxyqueuosine reductase	267
+JKJFLGDP_00848 putative hydrolase YcaC	152
+JKJFLGDP_00851 Bifunctional F420 biosynthesis protein FbiB	170
+JKJFLGDP_00853 hypothetical protein	223
+JKJFLGDP_00874 hypothetical protein	221
+JKJFLGDP_00878 hypothetical protein	124
+JKJFLGDP_00879 hypothetical protein	278
+JKJFLGDP_00889 hypothetical protein	693
+JKJFLGDP_00891 hypothetical protein	167
+JKJFLGDP_00925 hypothetical protein	61
+JKJFLGDP_00938 hypothetical protein	141
+JKJFLGDP_00940 hypothetical protein	168
+JKJFLGDP_00944 hypothetical protein	295
+JKJFLGDP_00951 hypothetical protein	332
+JKJFLGDP_00954 hypothetical protein	59
+JKJFLGDP_00957 hypothetical protein	654
+JKJFLGDP_00966 O-acetyl-ADP-ribose deacetylase	189
+JKJFLGDP_00982 hypothetical protein	107
+JKJFLGDP_00997 hypothetical protein	372
+JKJFLGDP_01000 hypothetical protein	140
+JKJFLGDP_01006 hypothetical protein	100
+JKJFLGDP_01013 hypothetical protein	1238
+JKJFLGDP_01022 hypothetical protein	187
+JKJFLGDP_01025 hypothetical protein	184
+JKJFLGDP_01029 hypothetical protein	202
+JKJFLGDP_01072 hypothetical protein	275
+JKJFLGDP_01076 Coenzyme A biosynthesis bifunctional protein CoaBC	195
+JKJFLGDP_01081 ISNCY family transposase ISMac19	447
+JKJFLGDP_01085 hypothetical protein	302
+JKJFLGDP_01093 hypothetical protein	113
+JKJFLGDP_01097 hypothetical protein	147
+JKJFLGDP_01099 hypothetical protein	358
+JKJFLGDP_01119 hypothetical protein	70
+JKJFLGDP_01121 IS701 family transposase ISMco3	118
+JKJFLGDP_01127 hypothetical protein	101
+JKJFLGDP_01131 hypothetical protein	79
+JKJFLGDP_01132 ISNCY family transposase ISMma11	207
+JKJFLGDP_01133 ISNCY family transposase ISMac19	184
+JKJFLGDP_01134 hypothetical protein	175
+JKJFLGDP_01135 hypothetical protein	70
+JKJFLGDP_01136 hypothetical protein	103
+JKJFLGDP_01137 Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	328
+JKJFLGDP_01145 hypothetical protein	162
+JKJFLGDP_01164 hypothetical protein	436
+JKJFLGDP_01167 hypothetical protein	214
+JKJFLGDP_01184 hypothetical protein	169
+JKJFLGDP_01187 hypothetical protein	76
+JKJFLGDP_01191 Ferredoxin	59
+JKJFLGDP_01208 hypothetical protein	295
+JKJFLGDP_01217 hypothetical protein	90
+JKJFLGDP_01221 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	255
+JKJFLGDP_01229 hypothetical protein	221
+JKJFLGDP_01231 hypothetical protein	125
+JKJFLGDP_01242 hypothetical protein	313
+JKJFLGDP_01248 hypothetical protein	309
+JKJFLGDP_01250 hypothetical protein	306
+JKJFLGDP_01251 hypothetical protein	391
+JKJFLGDP_01252 hypothetical protein	309
+JKJFLGDP_01262 hypothetical protein	139
+JKJFLGDP_01266 hypothetical protein	83
+JKJFLGDP_01268 hypothetical protein	530
+JKJFLGDP_01272 hypothetical protein	150
+JKJFLGDP_01275 hypothetical protein	247
+JKJFLGDP_01276 hypothetical protein	496
+JKJFLGDP_01279 ISNCY family transposase ISMac19	447
+JKJFLGDP_01280 hypothetical protein	114
+JKJFLGDP_01309 hypothetical protein	319
+JKJFLGDP_01328 hypothetical protein	247
+JKJFLGDP_01329 hypothetical protein	332
+JKJFLGDP_01341 hypothetical protein	319
+JKJFLGDP_01348 hypothetical protein	336
+JKJFLGDP_01354 hypothetical protein	265
+JKJFLGDP_01355 2,3-bisphosphoglycerate-independent phosphoglycerate mutase	433
+JKJFLGDP_01361 hypothetical protein	628
+JKJFLGDP_01364 hypothetical protein	436
+JKJFLGDP_01373 hypothetical protein	133
+JKJFLGDP_01385 hypothetical protein	155
+JKJFLGDP_01434 hypothetical protein	231
+JKJFLGDP_01435 hypothetical protein	292
+JKJFLGDP_01440 hypothetical protein	151
+JKJFLGDP_01441 hypothetical protein	1189
+JKJFLGDP_01450 hypothetical protein	647
+JKJFLGDP_01455 hypothetical protein	407
+JKJFLGDP_01463 hypothetical protein	168
+JKJFLGDP_01487 hypothetical protein	156
+JKJFLGDP_01497 hypothetical protein	493
+JKJFLGDP_01498 hypothetical protein	1141
+JKJFLGDP_01531 hypothetical protein	176
+JKJFLGDP_01543 hypothetical protein	87
+JKJFLGDP_01552 hypothetical protein	101
+JKJFLGDP_01577 hypothetical protein	156
+JKJFLGDP_01579 hypothetical protein	110
+JKJFLGDP_01585 hypothetical protein	90
+JKJFLGDP_01591 hypothetical protein	198
+JKJFLGDP_01597 hypothetical protein	59
+JKJFLGDP_01606 hypothetical protein	324
+JKJFLGDP_01632 hypothetical protein	644
+JKJFLGDP_01637 hypothetical protein	347
+JKJFLGDP_01641 Outer membrane protein assembly factor BamB	415
+JKJFLGDP_01642 Outer membrane protein assembly factor BamB	784
+JKJFLGDP_01643 Outer membrane protein assembly factor BamB	440
+JKJFLGDP_01661 hypothetical protein	62
+JKJFLGDP_01662 hypothetical protein	162
+JKJFLGDP_01697 hypothetical protein	187
+JKJFLGDP_01703 hypothetical protein	414
+JKJFLGDP_01704 hypothetical protein	1328
+JKJFLGDP_01713 hypothetical protein	594
+JKJFLGDP_01734 hypothetical protein	284
+JKJFLGDP_01746 hypothetical protein	136
+JKJFLGDP_01753 hypothetical protein	69
+JKJFLGDP_01776 hypothetical protein	375
+JKJFLGDP_01779 hypothetical protein	330
+JKJFLGDP_01780 hypothetical protein	249
+JKJFLGDP_01792 hypothetical protein	192
+JKJFLGDP_01802 hypothetical protein	182
+JKJFLGDP_01803 hypothetical protein	134
+JKJFLGDP_01806 hypothetical protein	147
+JKJFLGDP_01812 ISNCY family transposase ISMac19	447
+JKJFLGDP_01825 hypothetical protein	445
+JKJFLGDP_01834 Sensor histidine kinase RcsC	696
+JKJFLGDP_01857 hypothetical protein	134
+JKJFLGDP_01861 hypothetical protein	421
+JKJFLGDP_01866 hypothetical protein	259
+JKJFLGDP_01874 hypothetical protein	50
+JKJFLGDP_01875 hypothetical protein	155
+JKJFLGDP_01876 hypothetical protein	93
+JKJFLGDP_01877 hypothetical protein	440
+JKJFLGDP_01879 GTP 3',8-cyclase	323
+JKJFLGDP_01881 hypothetical protein	166
+JKJFLGDP_01887 hypothetical protein	154
+JKJFLGDP_01888 hypothetical protein	167
+JKJFLGDP_01899 tRNA 5-carboxymethoxyuridine methyltransferase	285
+JKJFLGDP_01906 hypothetical protein	74
+JKJFLGDP_01914 hypothetical protein	135
+JKJFLGDP_01930 hypothetical protein	285
+JKJFLGDP_01941 hypothetical protein	138
+JKJFLGDP_01943 GTP 3',8-cyclase	364
+JKJFLGDP_01948 hypothetical protein	152
+JKJFLGDP_01963 hypothetical protein	163
+JKJFLGDP_01970 hypothetical protein	985
+JKJFLGDP_01975 hypothetical protein	164
+JKJFLGDP_01976 hypothetical protein	119
+JKJFLGDP_01977 hypothetical protein	68
+JKJFLGDP_01979 hypothetical protein	385
+JKJFLGDP_01986 hypothetical protein	441
+JKJFLGDP_01991 hypothetical protein	303
+JKJFLGDP_02002 ISNCY family transposase ISMma11	207
+JKJFLGDP_02020 hypothetical protein	149
+JKJFLGDP_02023 hypothetical protein	130
+JKJFLGDP_02028 ISNCY family transposase ISMac19	447
+JKJFLGDP_02029 hypothetical protein	144
+JKJFLGDP_02037 hypothetical protein	86
+JKJFLGDP_02039 hypothetical protein	271
+JKJFLGDP_02045 hypothetical protein	274
+JKJFLGDP_02057 hypothetical protein	39
+JKJFLGDP_02069 hypothetical protein	100
+JKJFLGDP_02071 Sensor histidine kinase RcsC	874
+JKJFLGDP_02075 Sensor histidine kinase RcsC	947
+JKJFLGDP_02079 hypothetical protein	107
+JKJFLGDP_02080 hypothetical protein	363
+JKJFLGDP_02084 Signal transduction histidine-protein kinase BarA	259
+JKJFLGDP_02086 hypothetical protein	151
+JKJFLGDP_02088 hypothetical protein	130
+JKJFLGDP_02096 Lactate racemase	408
+JKJFLGDP_02112 hypothetical protein	1444
+JKJFLGDP_02135 hypothetical protein	155
+JKJFLGDP_02145 3-octaprenyl-4-hydroxybenzoate carboxy-lyase	419
+JKJFLGDP_02154 D-inositol-3-phosphate glycosyltransferase	391
+JKJFLGDP_02157 GDP-6-deoxy-D-mannose reductase	292
+JKJFLGDP_02160 hypothetical protein	499
+JKJFLGDP_02175 hypothetical protein	171
+JKJFLGDP_02186 hypothetical protein	98
+JKJFLGDP_02212 hypothetical protein	338
+JKJFLGDP_02217 hypothetical protein	155
+JKJFLGDP_02220 hypothetical protein	103
+JKJFLGDP_02227 hypothetical protein	175
+JKJFLGDP_02228 ISNCY family transposase ISMac19	270
+JKJFLGDP_02229 hypothetical protein	230
+JKJFLGDP_02247 tRNA-5-methyluridine(54) 2-sulfurtransferase	300
+JKJFLGDP_02251 hypothetical protein	115
+JKJFLGDP_02254 hypothetical protein	127
+JKJFLGDP_02255 hypothetical protein	149
+JKJFLGDP_02259 hypothetical protein	250
+JKJFLGDP_02270 hypothetical protein	136
+JKJFLGDP_02275 hypothetical protein	205
+JKJFLGDP_02288 hypothetical protein	268
+JKJFLGDP_02289 Metallo-beta-lactamase L1 type 3	227
+JKJFLGDP_02293 hypothetical protein	86
+JKJFLGDP_02295 hypothetical protein	262
+JKJFLGDP_02308 IS1634 family transposase ISMac12	521
+JKJFLGDP_02311 hypothetical protein	69
+JKJFLGDP_02321 Magnetosome protein MamM	306
+JKJFLGDP_02328 hypothetical protein	715
+JKJFLGDP_02332 hypothetical protein	251
+JKJFLGDP_02336 hypothetical protein	210
+JKJFLGDP_02339 hypothetical protein	246
+JKJFLGDP_02344 hypothetical protein	112
+JKJFLGDP_02351 hypothetical protein	156
+JKJFLGDP_02352 hypothetical protein	355
+JKJFLGDP_02368 hypothetical protein	198
+JKJFLGDP_02374 hypothetical protein	103
+JKJFLGDP_02376 hypothetical protein	69
+JKJFLGDP_02380 hypothetical protein	83
+JKJFLGDP_02384 hypothetical protein	78
+JKJFLGDP_02386 hypothetical protein	75
+JKJFLGDP_02387 hypothetical protein	69
+JKJFLGDP_02391 Antitoxin HicB	77
+JKJFLGDP_02393 hypothetical protein	136
+JKJFLGDP_02396 hypothetical protein	245
+JKJFLGDP_02401 hypothetical protein	209
+JKJFLGDP_02405 hypothetical protein	302
+JKJFLGDP_02415 hypothetical protein	153
+JKJFLGDP_02416 IS1634 family transposase ISMac12	521
+JKJFLGDP_02418 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	275
+JKJFLGDP_02419 hypothetical protein	135
+JKJFLGDP_02433 hypothetical protein	56
+JKJFLGDP_02444 putative protein YisK	238
+JKJFLGDP_02446 hypothetical protein	141
+JKJFLGDP_02453 hypothetical protein	523
+JKJFLGDP_02462 Rubrerythrin	191
+JKJFLGDP_02465 hypothetical protein	290
+JKJFLGDP_02477 hypothetical protein	130
+JKJFLGDP_02486 hypothetical protein	136
+JKJFLGDP_02488 hypothetical protein	354
+JKJFLGDP_02492 hypothetical protein	215
+JKJFLGDP_02494 hypothetical protein	128
+JKJFLGDP_02501 hypothetical protein	366
+JKJFLGDP_02504 Ubiquinone biosynthesis O-methyltransferase, mitochondrial	281
+JKJFLGDP_02505 hypothetical protein	260
+JKJFLGDP_02523 hypothetical protein	83
+JKJFLGDP_02526 hypothetical protein	91
+JKJFLGDP_02530 hypothetical protein	448
+JKJFLGDP_02543 hypothetical protein	312
+JKJFLGDP_02544 hypothetical protein	52
+JKJFLGDP_02571 hypothetical protein	92
+JKJFLGDP_02574 hypothetical protein	338
+JKJFLGDP_02575 hypothetical protein	93
+JKJFLGDP_02578 IS1634 family transposase ISMth2	110
+JKJFLGDP_02582 hypothetical protein	211
+JKJFLGDP_02594 hypothetical protein	152
+JKJFLGDP_02597 hypothetical protein	67
+JKJFLGDP_02600 hypothetical protein	125
+JKJFLGDP_02608 hypothetical protein	173
+JKJFLGDP_02625 hypothetical protein	218
+JKJFLGDP_02642 hypothetical protein	451
+JKJFLGDP_02644 hypothetical protein	330
+JKJFLGDP_02645 hypothetical protein	1119
+JKJFLGDP_02646 hypothetical protein	169
+JKJFLGDP_02647 hypothetical protein	135
+JKJFLGDP_02651 hypothetical protein	94

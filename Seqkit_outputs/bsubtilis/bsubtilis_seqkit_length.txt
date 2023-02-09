@@ -1,0 +1,787 @@
+KDKFJGNO_00005 hypothetical protein	81
+KDKFJGNO_00028 hypothetical protein	74
+KDKFJGNO_00035 Anti-sigma-G factor Gin	64
+KDKFJGNO_00044 Initiation-control protein YabA	119
+KDKFJGNO_00051 hypothetical protein	437
+KDKFJGNO_00055 Protein Veg	86
+KDKFJGNO_00065 Anti-sigma-F factor Fin	76
+KDKFJGNO_00071 Spore protein YabP	100
+KDKFJGNO_00093 hypothetical protein	69
+KDKFJGNO_00141 Putative aminoacrylate hydrolase RutD	318
+KDKFJGNO_00179 hypothetical protein	147
+KDKFJGNO_00184 hypothetical protein	254
+KDKFJGNO_00208 hypothetical protein	414
+KDKFJGNO_00212 putative HTH-type transcriptional regulator YbbH	283
+KDKFJGNO_00214 hypothetical protein	160
+KDKFJGNO_00215 hypothetical protein	151
+KDKFJGNO_00224 CdaA regulatory protein CdaR	483
+KDKFJGNO_00232 hypothetical protein	175
+KDKFJGNO_00233 hypothetical protein	96
+KDKFJGNO_00234 hypothetical protein	124
+KDKFJGNO_00238 Sporulation killing factor maturation protein SkfB	410
+KDKFJGNO_00241 Putative bacteriocin-SkfA transport system permease protein SkfF	447
+KDKFJGNO_00249 hypothetical protein	285
+KDKFJGNO_00252 Sigma-G-dependent sporulation-specific SASP protein	82
+KDKFJGNO_00253 hypothetical protein	63
+KDKFJGNO_00256 hypothetical protein	86
+KDKFJGNO_00274 hypothetical protein	92
+KDKFJGNO_00305 hypothetical protein	243
+KDKFJGNO_00310 putative cysteine desulfurase	370
+KDKFJGNO_00332 hypothetical protein	331
+KDKFJGNO_00346 hypothetical protein	477
+KDKFJGNO_00347 hypothetical protein	193
+KDKFJGNO_00352 hypothetical protein	154
+KDKFJGNO_00358 Tunicamycin resistance protein	197
+KDKFJGNO_00368 Proline-responsive transcriptional activator PutR	411
+KDKFJGNO_00380 Putative L,D-transpeptidase YciB	194
+KDKFJGNO_00389 DNA-entry nuclease inhibitor	132
+KDKFJGNO_00390 Sporulation-specific extracellular nuclease	149
+KDKFJGNO_00400 hypothetical protein	185
+KDKFJGNO_00401 hypothetical protein	312
+KDKFJGNO_00412 hypothetical protein	154
+KDKFJGNO_00416 hypothetical protein	73
+KDKFJGNO_00426 hypothetical protein	37
+KDKFJGNO_00432 Fatty acid resistance protein FarB	472
+KDKFJGNO_00445 putative protein YcnL	117
+KDKFJGNO_00461 HTH-type transcriptional regulator KipR	251
+KDKFJGNO_00464 hypothetical protein	95
+KDKFJGNO_00479 putative diguanylate cyclase DgcC	283
+KDKFJGNO_00481 Beta-monoglucosyldiacylglycerol synthase	420
+KDKFJGNO_00486 hypothetical protein	88
+KDKFJGNO_00490 hypothetical protein	272
+KDKFJGNO_00492 hypothetical protein	113
+KDKFJGNO_00495 C4-dicarboxylate-binding periplasmic protein DctP	350
+KDKFJGNO_00502 hypothetical protein	111
+KDKFJGNO_00503 Putative acyl-CoA dehydrogenase YdbM	381
+KDKFJGNO_00504 hypothetical protein	48
+KDKFJGNO_00505 hypothetical protein	54
+KDKFJGNO_00506 Manganese efflux system protein MneS	290
+KDKFJGNO_00513 Rhomboid protease GlpG	199
+KDKFJGNO_00530 hypothetical protein	146
+KDKFJGNO_00531 hypothetical protein	147
+KDKFJGNO_00542 Metallopeptidase ImmA	169
+KDKFJGNO_00544 ICEBs1 excisionase	64
+KDKFJGNO_00545 hypothetical protein	86
+KDKFJGNO_00547 hypothetical protein	126
+KDKFJGNO_00552 hypothetical protein	72
+KDKFJGNO_00554 hypothetical protein	82
+KDKFJGNO_00555 hypothetical protein	174
+KDKFJGNO_00557 hypothetical protein	108
+KDKFJGNO_00560 hypothetical protein	168
+KDKFJGNO_00561 hypothetical protein	126
+KDKFJGNO_00565 hypothetical protein	309
+KDKFJGNO_00566 hypothetical protein	339
+KDKFJGNO_00569 Streptothricin hydrolase	180
+KDKFJGNO_00570 hypothetical protein	254
+KDKFJGNO_00579 hypothetical protein	76
+KDKFJGNO_00585 hypothetical protein	124
+KDKFJGNO_00587 hypothetical protein	219
+KDKFJGNO_00590 hypothetical protein	141
+KDKFJGNO_00592 HTH-type transcriptional activator HxlR	109
+KDKFJGNO_00594 putative HTH-type transcriptional regulator YybR	128
+KDKFJGNO_00601 hypothetical protein	306
+KDKFJGNO_00612 hypothetical protein	270
+KDKFJGNO_00613 Manganese efflux system protein MneP	297
+KDKFJGNO_00618 hypothetical protein	78
+KDKFJGNO_00619 hypothetical protein	97
+KDKFJGNO_00621 hypothetical protein	225
+KDKFJGNO_00622 hypothetical protein	235
+KDKFJGNO_00627 hypothetical protein	114
+KDKFJGNO_00631 hypothetical protein	172
+KDKFJGNO_00632 hypothetical protein	170
+KDKFJGNO_00634 Putative NAD(P)H nitroreductase YodC	209
+KDKFJGNO_00635 Transcriptional regulator SlyA	144
+KDKFJGNO_00638 HTH-type transcriptional repressor RspR	224
+KDKFJGNO_00641 hypothetical protein	236
+KDKFJGNO_00676 hypothetical protein	63
+KDKFJGNO_00680 hypothetical protein	42
+KDKFJGNO_00686 Type-2 restriction enzyme BsuMI component YdjA	465
+KDKFJGNO_00687 hypothetical protein	111
+KDKFJGNO_00699 putative protein YdjM	123
+KDKFJGNO_00702 hypothetical protein	81
+KDKFJGNO_00707 Manganese efflux system protein MneS	290
+KDKFJGNO_00710 hypothetical protein	737
+KDKFJGNO_00715 hypothetical protein	184
+KDKFJGNO_00716 hypothetical protein	65
+KDKFJGNO_00731 hypothetical protein	75
+KDKFJGNO_00733 Putative lipoprotein YerB	331
+KDKFJGNO_00740 hypothetical protein	396
+KDKFJGNO_00741 Stress response kinase A	333
+KDKFJGNO_00755 hypothetical protein	382
+KDKFJGNO_00756 hypothetical protein	101
+KDKFJGNO_00757 hypothetical protein	68
+KDKFJGNO_00759 Putative ribonuclease YeeF	669
+KDKFJGNO_00763 putative transcriptional regulatory protein	239
+KDKFJGNO_00767 NAD(P)H azoreductase	286
+KDKFJGNO_00771 hypothetical protein	180
+KDKFJGNO_00782 putative protein YesU	220
+KDKFJGNO_00788 hypothetical protein	857
+KDKFJGNO_00796 hypothetical protein	164
+KDKFJGNO_00799 hypothetical protein	55
+KDKFJGNO_00802 hypothetical protein	167
+KDKFJGNO_00803 FAD-dependent urate hydroxylase	369
+KDKFJGNO_00826 Hercynine oxygenase	487
+KDKFJGNO_00831 putative protein YfmB	136
+KDKFJGNO_00843 Protein YiiM	221
+KDKFJGNO_00844 hypothetical protein	45
+KDKFJGNO_00845 hypothetical protein	51
+KDKFJGNO_00846 putative protein YflH	104
+KDKFJGNO_00850 hypothetical protein	130
+KDKFJGNO_00863 hypothetical protein	71
+KDKFJGNO_00867 hypothetical protein	35
+KDKFJGNO_00870 putative protein YfkD	263
+KDKFJGNO_00872 7-carboxy-7-deazaguanine synthase	373
+KDKFJGNO_00873 hypothetical protein	61
+KDKFJGNO_00879 hypothetical protein	88
+KDKFJGNO_00881 hypothetical protein	150
+KDKFJGNO_00882 hypothetical protein	229
+KDKFJGNO_00892 hypothetical protein	255
+KDKFJGNO_00893 hypothetical protein	407
+KDKFJGNO_00894 hypothetical protein	104
+KDKFJGNO_00900 Putative oxidoreductase CatD	134
+KDKFJGNO_00905 Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase	392
+KDKFJGNO_00915 putative HTH-type transcriptional regulator YfiR	205
+KDKFJGNO_00917 Putative metal-dependent hydrolase YfiT	178
+KDKFJGNO_00919 hypothetical protein	160
+KDKFJGNO_00926 hypothetical protein	63
+KDKFJGNO_00930 putative protein YfhH	104
+KDKFJGNO_00932 Inner membrane transport protein YdhP	397
+KDKFJGNO_00934 hypothetical protein	89
+KDKFJGNO_00939 hypothetical protein	861
+KDKFJGNO_00942 putative protein YfhS	74
+KDKFJGNO_00952 hypothetical protein	117
+KDKFJGNO_00974 hypothetical protein	65
+KDKFJGNO_00977 putative FAD-linked oxidoreductase YvdP	451
+KDKFJGNO_00986 hypothetical protein	157
+KDKFJGNO_00989 hypothetical protein	207
+KDKFJGNO_00991 hypothetical protein	307
+KDKFJGNO_00993 hypothetical protein	213
+KDKFJGNO_01002 hypothetical protein	124
+KDKFJGNO_01003 hypothetical protein	253
+KDKFJGNO_01012 hypothetical protein	151
+KDKFJGNO_01014 hypothetical protein	322
+KDKFJGNO_01019 hypothetical protein	131
+KDKFJGNO_01032 hypothetical protein	80
+KDKFJGNO_01033 hypothetical protein	107
+KDKFJGNO_01047 putative anti-sigma-M factor YhdK	96
+KDKFJGNO_01048 putative anti-sigma-M factor YhdL	357
+KDKFJGNO_01050 Aldo-keto reductase YhdN	331
+KDKFJGNO_01059 hypothetical protein	35
+KDKFJGNO_01062 Peptidoglycan-N-acetylglucosamine deacetylase	282
+KDKFJGNO_01070 hypothetical protein	69
+KDKFJGNO_01071 Endospore coat-associated protein YheD	453
+KDKFJGNO_01074 hypothetical protein	117
+KDKFJGNO_01075 putative protein YhaZ	357
+KDKFJGNO_01081 2,3-dehydroadipyl-CoA hydratase	255
+KDKFJGNO_01082 hypothetical protein	61
+KDKFJGNO_01088 Sporulation protein YhaL	70
+KDKFJGNO_01091 putative protein YhaI	110
+KDKFJGNO_01094 putative tryptophan transport protein	172
+KDKFJGNO_01099 hypothetical protein	236
+KDKFJGNO_01101 hypothetical protein	462
+KDKFJGNO_01102 hypothetical protein	104
+KDKFJGNO_01111 hypothetical protein	258
+KDKFJGNO_01113 hypothetical protein	135
+KDKFJGNO_01117 putative sugar epimerase YhfK	214
+KDKFJGNO_01119 hypothetical protein	131
+KDKFJGNO_01122 hypothetical protein	149
+KDKFJGNO_01135 hypothetical protein	89
+KDKFJGNO_01137 hypothetical protein	66
+KDKFJGNO_01138 hypothetical protein	120
+KDKFJGNO_01141 12-dehydrotetracycline 5-monooxygenase/anhydrotetracycline 6-monooxygenase	498
+KDKFJGNO_01142 HTH-type transcriptional regulator PchR	175
+KDKFJGNO_01150 HTH-type transcriptional regulator SgrR	575
+KDKFJGNO_01152 hypothetical protein	145
+KDKFJGNO_01166 putative protein YisK	301
+KDKFJGNO_01167 hypothetical protein	118
+KDKFJGNO_01169 hypothetical protein	187
+KDKFJGNO_01171 putative protein YizA	169
+KDKFJGNO_01177 hypothetical protein	169
+KDKFJGNO_01180 hypothetical protein	212
+KDKFJGNO_01195 Sporulation delaying protein C	194
+KDKFJGNO_01196 Sporulation-delaying protein SdpB	309
+KDKFJGNO_01197 hypothetical protein	178
+KDKFJGNO_01199 hypothetical protein	195
+KDKFJGNO_01200 hypothetical protein	97
+KDKFJGNO_01202 Fatty acid-binding protein	283
+KDKFJGNO_01204 hypothetical protein	151
+KDKFJGNO_01205 hypothetical protein	48
+KDKFJGNO_01210 Decaprenylphosphoryl-beta-D-ribose oxidase	476
+KDKFJGNO_01219 hypothetical protein	59
+KDKFJGNO_01222 hypothetical protein	185
+KDKFJGNO_01225 hypothetical protein	77
+KDKFJGNO_01228 hypothetical protein	261
+KDKFJGNO_01235 hypothetical protein	250
+KDKFJGNO_01249 hypothetical protein	55
+KDKFJGNO_01254 Putative triphosphatase YjbK	190
+KDKFJGNO_01255 hypothetical protein	122
+KDKFJGNO_01269 hypothetical protein	225
+KDKFJGNO_01275 Sporulation protein YjcA	118
+KDKFJGNO_01278 hypothetical protein	84
+KDKFJGNO_01280 hypothetical protein	84
+KDKFJGNO_01291 hypothetical protein	106
+KDKFJGNO_01295 hypothetical protein	167
+KDKFJGNO_01300 putative protein YjdB	115
+KDKFJGNO_01304 putative protein YjdF	137
+KDKFJGNO_01306 hypothetical protein	131
+KDKFJGNO_01308 hypothetical protein	64
+KDKFJGNO_01313 hypothetical protein	157
+KDKFJGNO_01314 putative protein YjfB	55
+KDKFJGNO_01315 hypothetical protein	299
+KDKFJGNO_01317 putative protein YjgB	191
+KDKFJGNO_01319 hypothetical protein	186
+KDKFJGNO_01325 hypothetical protein	62
+KDKFJGNO_01330 hypothetical protein	165
+KDKFJGNO_01350 hypothetical protein	125
+KDKFJGNO_01351 hypothetical protein	200
+KDKFJGNO_01353 hypothetical protein	198
+KDKFJGNO_01355 hypothetical protein	59
+KDKFJGNO_01360 hypothetical protein	68
+KDKFJGNO_01364 hypothetical protein	495
+KDKFJGNO_01365 putative protein YqbD	275
+KDKFJGNO_01366 Phage-like element PBSX protein XkdG	311
+KDKFJGNO_01367 putative protein YqbG	127
+KDKFJGNO_01368 Phage-like element PBSX protein XkdH	118
+KDKFJGNO_01369 hypothetical protein	161
+KDKFJGNO_01370 hypothetical protein	146
+KDKFJGNO_01371 hypothetical protein	466
+KDKFJGNO_01372 Phage-like element PBSX protein XkdM	147
+KDKFJGNO_01373 putative protein YqbN	148
+KDKFJGNO_01374 putative protein YqbO	1271
+KDKFJGNO_01375 hypothetical protein	219
+KDKFJGNO_01376 hypothetical protein	325
+KDKFJGNO_01377 hypothetical protein	88
+KDKFJGNO_01378 hypothetical protein	141
+KDKFJGNO_01379 hypothetical protein	348
+KDKFJGNO_01380 hypothetical protein	192
+KDKFJGNO_01381 hypothetical protein	90
+KDKFJGNO_01382 hypothetical protein	687
+KDKFJGNO_01383 Phage-like element PBSX protein XkdW	109
+KDKFJGNO_01384 hypothetical protein	54
+KDKFJGNO_01385 hypothetical protein	279
+KDKFJGNO_01387 hypothetical protein	87
+KDKFJGNO_01415 hypothetical protein	74
+KDKFJGNO_01416 hypothetical protein	243
+KDKFJGNO_01417 hypothetical protein	175
+KDKFJGNO_01425 Organic hydroperoxide resistance transcriptional regulator	147
+KDKFJGNO_01440 hypothetical protein	45
+KDKFJGNO_01443 HTH-type transcriptional regulator TnrA	110
+KDKFJGNO_01444 hypothetical protein	51
+KDKFJGNO_01445 Stress response protein YkoL	60
+KDKFJGNO_01448 hypothetical protein	183
+KDKFJGNO_01450 hypothetical protein	564
+KDKFJGNO_01460 hypothetical protein	233
+KDKFJGNO_01463 hypothetical protein	51
+KDKFJGNO_01464 hypothetical protein	58
+KDKFJGNO_01465 hypothetical protein	340
+KDKFJGNO_01479 hypothetical protein	143
+KDKFJGNO_01495 putative protein YkvR	96
+KDKFJGNO_01497 hypothetical protein	65
+KDKFJGNO_01502 hypothetical protein	67
+KDKFJGNO_01516 hypothetical protein	257
+KDKFJGNO_01520 hypothetical protein	53
+KDKFJGNO_01522 hypothetical protein	154
+KDKFJGNO_01524 Putative L,D-transpeptidase YkuD	167
+KDKFJGNO_01528 hypothetical protein	172
+KDKFJGNO_01533 putative protein YkzF	63
+KDKFJGNO_01537 hypothetical protein	297
+KDKFJGNO_01541 hypothetical protein	81
+KDKFJGNO_01545 Repressor Rok	191
+KDKFJGNO_01555 Membrane protein YknW	231
+KDKFJGNO_01563 hypothetical protein	89
+KDKFJGNO_01575 hypothetical protein	69
+KDKFJGNO_01586 hypothetical protein	88
+KDKFJGNO_01587 hypothetical protein	212
+KDKFJGNO_01588 hypothetical protein	81
+KDKFJGNO_01593 hypothetical protein	643
+KDKFJGNO_01594 hypothetical protein	89
+KDKFJGNO_01597 hypothetical protein	203
+KDKFJGNO_01598 hypothetical protein	62
+KDKFJGNO_01606 hypothetical protein	93
+KDKFJGNO_01616 hypothetical protein	120
+KDKFJGNO_01618 hypothetical protein	361
+KDKFJGNO_01619 hypothetical protein	132
+KDKFJGNO_01620 hypothetical protein	79
+KDKFJGNO_01621 hypothetical protein	149
+KDKFJGNO_01622 hypothetical protein	83
+KDKFJGNO_01625 Sporulation integral membrane protein YlbJ	408
+KDKFJGNO_01633 putative N-acetyltransferase YlbP	160
+KDKFJGNO_01659 putative sporulation protein YlmC	81
+KDKFJGNO_01688 Rqc2 RqcH	570
+KDKFJGNO_01690 hypothetical protein	291
+KDKFJGNO_01719 putative protein YlqB	161
+KDKFJGNO_01730 hypothetical protein	576
+KDKFJGNO_01771 hypothetical protein	167
+KDKFJGNO_01793 hypothetical protein	319
+KDKFJGNO_01795 hypothetical protein	85
+KDKFJGNO_01803 hypothetical protein	70
+KDKFJGNO_01810 putative protein YflH	85
+KDKFJGNO_01812 hypothetical protein	108
+KDKFJGNO_01848 hypothetical protein	118
+KDKFJGNO_01851 hypothetical protein	235
+KDKFJGNO_01856 hypothetical protein	134
+KDKFJGNO_01859 putative protein YmzC	90
+KDKFJGNO_01860 hypothetical protein	76
+KDKFJGNO_01864 hypothetical protein	206
+KDKFJGNO_01871 hypothetical protein	96
+KDKFJGNO_01872 hypothetical protein	114
+KDKFJGNO_01873 hypothetical protein	83
+KDKFJGNO_01874 hypothetical protein	144
+KDKFJGNO_01875 hypothetical protein	263
+KDKFJGNO_01877 hypothetical protein	213
+KDKFJGNO_01878 hypothetical protein	117
+KDKFJGNO_01881 hypothetical protein	156
+KDKFJGNO_01890 hypothetical protein	153
+KDKFJGNO_01892 hypothetical protein	57
+KDKFJGNO_01897 putative protein YncM	250
+KDKFJGNO_01898 hypothetical protein	118
+KDKFJGNO_01901 hypothetical protein	132
+KDKFJGNO_01909 hypothetical protein	205
+KDKFJGNO_01912 hypothetical protein	252
+KDKFJGNO_01917 Cell division suppressor protein YneA	103
+KDKFJGNO_01919 hypothetical protein	77
+KDKFJGNO_01921 Sporulation inhibitor of replication protein SirA	148
+KDKFJGNO_01927 hypothetical protein	142
+KDKFJGNO_01933 hypothetical protein	41
+KDKFJGNO_01937 hypothetical protein	99
+KDKFJGNO_01938 putative protein	95
+KDKFJGNO_01943 hypothetical protein	41
+KDKFJGNO_01944 hypothetical protein	117
+KDKFJGNO_01947 putative protein YnfE	87
+KDKFJGNO_01950 hypothetical protein	148
+KDKFJGNO_01963 hypothetical protein	130
+KDKFJGNO_01972 putative protein YoeB	181
+KDKFJGNO_01975 hypothetical protein	76
+KDKFJGNO_01987 hypothetical protein	256
+KDKFJGNO_01993 hypothetical protein	97
+KDKFJGNO_01995 hypothetical protein	40
+KDKFJGNO_01996 hypothetical protein	97
+KDKFJGNO_02000 hypothetical protein	225
+KDKFJGNO_02002 SOS response-associated protein YedK	227
+KDKFJGNO_02007 hypothetical protein	117
+KDKFJGNO_02008 hypothetical protein	165
+KDKFJGNO_02014 putative cystine transporter YijE	292
+KDKFJGNO_02015 hypothetical protein	143
+KDKFJGNO_02026 hypothetical protein	121
+KDKFJGNO_02027 SOS response-associated protein YedK	219
+KDKFJGNO_02028 hypothetical protein	305
+KDKFJGNO_02029 hypothetical protein	57
+KDKFJGNO_02037 hypothetical protein	97
+KDKFJGNO_02038 hypothetical protein	103
+KDKFJGNO_02039 hypothetical protein	1201
+KDKFJGNO_02040 hypothetical protein	280
+KDKFJGNO_02043 hypothetical protein	187
+KDKFJGNO_02045 hypothetical protein	806
+KDKFJGNO_02048 hypothetical protein	247
+KDKFJGNO_02049 hypothetical protein	191
+KDKFJGNO_02051 hypothetical protein	160
+KDKFJGNO_02052 hypothetical protein	313
+KDKFJGNO_02053 Protein csk22	181
+KDKFJGNO_02055 hypothetical protein	225
+KDKFJGNO_02057 hypothetical protein	260
+KDKFJGNO_02058 hypothetical protein	165
+KDKFJGNO_02067 hypothetical protein	110
+KDKFJGNO_02068 hypothetical protein	75
+KDKFJGNO_02070 hypothetical protein	87
+KDKFJGNO_02071 hypothetical protein	77
+KDKFJGNO_02072 hypothetical protein	114
+KDKFJGNO_02073 hypothetical protein	67
+KDKFJGNO_02092 hypothetical protein	92
+KDKFJGNO_02095 hypothetical protein	78
+KDKFJGNO_02097 hypothetical protein	129
+KDKFJGNO_02098 HTH-type transcriptional regulator YodB	112
+KDKFJGNO_02099 Putative NAD(P)H nitroreductase YodC	202
+KDKFJGNO_02106 hypothetical protein	83
+KDKFJGNO_02109 hypothetical protein	41
+KDKFJGNO_02112 hypothetical protein	58
+KDKFJGNO_02113 hypothetical protein	47
+KDKFJGNO_02114 hypothetical protein	226
+KDKFJGNO_02115 hypothetical protein	74
+KDKFJGNO_02116 hypothetical protein	92
+KDKFJGNO_02122 Putrescine--pyruvate aminotransferase	444
+KDKFJGNO_02152 hypothetical protein	173
+KDKFJGNO_02161 hypothetical protein	156
+KDKFJGNO_02180 hypothetical protein	219
+KDKFJGNO_02185 hypothetical protein	156
+KDKFJGNO_02186 hypothetical protein	323
+KDKFJGNO_02187 hypothetical protein	304
+KDKFJGNO_02193 hypothetical protein	274
+KDKFJGNO_02196 SOS response-associated protein YedK	224
+KDKFJGNO_02198 hypothetical protein	137
+KDKFJGNO_02205 hypothetical protein	92
+KDKFJGNO_02206 hypothetical protein	174
+KDKFJGNO_02207 hypothetical protein	171
+KDKFJGNO_02209 hypothetical protein	150
+KDKFJGNO_02212 hypothetical protein	54
+KDKFJGNO_02219 SPbeta prophage-derived uncharacterized protein YopX	134
+KDKFJGNO_02225 hypothetical protein	325
+KDKFJGNO_02226 hypothetical protein	460
+KDKFJGNO_02232 SPbeta prophage-derived uncharacterized protein YopK	386
+KDKFJGNO_02234 hypothetical protein	177
+KDKFJGNO_02241 hypothetical protein	442
+KDKFJGNO_02243 hypothetical protein	438
+KDKFJGNO_02245 hypothetical protein	410
+KDKFJGNO_02247 hypothetical protein	203
+KDKFJGNO_02251 DNA-directed RNA polymerase YonO	839
+KDKFJGNO_02254 hypothetical protein	405
+KDKFJGNO_02257 hypothetical protein	306
+KDKFJGNO_02258 hypothetical protein	589
+KDKFJGNO_02259 hypothetical protein	506
+KDKFJGNO_02260 hypothetical protein	478
+KDKFJGNO_02261 hypothetical protein	178
+KDKFJGNO_02262 hypothetical protein	338
+KDKFJGNO_02263 hypothetical protein	156
+KDKFJGNO_02264 hypothetical protein	131
+KDKFJGNO_02266 hypothetical protein	216
+KDKFJGNO_02267 hypothetical protein	168
+KDKFJGNO_02268 hypothetical protein	236
+KDKFJGNO_02269 hypothetical protein	265
+KDKFJGNO_02272 hypothetical protein	119
+KDKFJGNO_02273 hypothetical protein	405
+KDKFJGNO_02274 hypothetical protein	116
+KDKFJGNO_02275 hypothetical protein	63
+KDKFJGNO_02276 hypothetical protein	166
+KDKFJGNO_02277 hypothetical protein	142
+KDKFJGNO_02283 hypothetical protein	227
+KDKFJGNO_02285 hypothetical protein	252
+KDKFJGNO_02287 hypothetical protein	242
+KDKFJGNO_02289 hypothetical protein	274
+KDKFJGNO_02292 Bacteriocin UviB	70
+KDKFJGNO_02293 hypothetical protein	88
+KDKFJGNO_02295 SPbeta prophage-derived glycosyltransferase SunS	422
+KDKFJGNO_02299 Sublancin immunity protein SunI	105
+KDKFJGNO_02301 hypothetical protein	110
+KDKFJGNO_02302 hypothetical protein	103
+KDKFJGNO_02304 SPbeta prophage-derived uncharacterized protein YolA	155
+KDKFJGNO_02307 hypothetical protein	192
+KDKFJGNO_02310 hypothetical protein	162
+KDKFJGNO_02311 hypothetical protein	357
+KDKFJGNO_02313 hypothetical protein	160
+KDKFJGNO_02315 hypothetical protein	51
+KDKFJGNO_02317 hypothetical protein	171
+KDKFJGNO_02318 hypothetical protein	236
+KDKFJGNO_02323 hypothetical protein	141
+KDKFJGNO_02325 hypothetical protein	64
+KDKFJGNO_02329 hypothetical protein	83
+KDKFJGNO_02337 hypothetical protein	203
+KDKFJGNO_02338 Ribosomal RNA small subunit methyltransferase J	257
+KDKFJGNO_02347 Regulatory protein DegR	60
+KDKFJGNO_02348 hypothetical protein	89
+KDKFJGNO_02349 hypothetical protein	56
+KDKFJGNO_02354 5'-3' exonuclease	296
+KDKFJGNO_02355 hypothetical protein	48
+KDKFJGNO_02356 hypothetical protein	85
+KDKFJGNO_02357 GTPase Der	1193
+KDKFJGNO_02373 hypothetical protein	180
+KDKFJGNO_02378 hypothetical protein	125
+KDKFJGNO_02379 hypothetical protein	62
+KDKFJGNO_02383 hypothetical protein	320
+KDKFJGNO_02386 putative protein YpoC	164
+KDKFJGNO_02392 hypothetical protein	56
+KDKFJGNO_02411 hypothetical protein	179
+KDKFJGNO_02434 hypothetical protein	244
+KDKFJGNO_02438 hypothetical protein	64
+KDKFJGNO_02440 hypothetical protein	199
+KDKFJGNO_02441 hypothetical protein	43
+KDKFJGNO_02449 Protease PrsW	218
+KDKFJGNO_02460 Riboflavin transporter FmnP	190
+KDKFJGNO_02463 Anti-sigma-X factor RsiX	367
+KDKFJGNO_02474 hypothetical protein	179
+KDKFJGNO_02483 hypothetical protein	114
+KDKFJGNO_02490 putative protein YpuA	290
+KDKFJGNO_02506 hypothetical protein	75
+KDKFJGNO_02509 hypothetical protein	71
+KDKFJGNO_02517 Cell division inhibitor MciZ	40
+KDKFJGNO_02518 Aldo-keto reductase IolS	306
+KDKFJGNO_02521 hypothetical protein	79
+KDKFJGNO_02522 hypothetical protein	107
+KDKFJGNO_02523 hypothetical protein	343
+KDKFJGNO_02526 hypothetical protein	112
+KDKFJGNO_02528 hypothetical protein	68
+KDKFJGNO_02535 hypothetical protein	319
+KDKFJGNO_02544 Membrane protein insertion and folding monitor	93
+KDKFJGNO_02551 hypothetical protein	176
+KDKFJGNO_02556 hypothetical protein	145
+KDKFJGNO_02568 hypothetical protein	78
+KDKFJGNO_02577 hypothetical protein	97
+KDKFJGNO_02591 hypothetical protein	135
+KDKFJGNO_02607 hypothetical protein	318
+KDKFJGNO_02608 hypothetical protein	131
+KDKFJGNO_02623 putative protein YqzG	125
+KDKFJGNO_02624 hypothetical protein	59
+KDKFJGNO_02642 hypothetical protein	351
+KDKFJGNO_02648 hypothetical protein	57
+KDKFJGNO_02653 hypothetical protein	117
+KDKFJGNO_02664 hypothetical protein	255
+KDKFJGNO_02665 Cell wall-binding protein YqgA	142
+KDKFJGNO_02672 hypothetical protein	84
+KDKFJGNO_02677 GTP cyclohydrolase 1 type 2 	373
+KDKFJGNO_02684 Transcriptional repressor CcpN	213
+KDKFJGNO_02688 hypothetical protein	47
+KDKFJGNO_02697 hypothetical protein	93
+KDKFJGNO_02698 hypothetical protein	139
+KDKFJGNO_02699 hypothetical protein	331
+KDKFJGNO_02723 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	247
+KDKFJGNO_02736 hypothetical protein	239
+KDKFJGNO_02737 Sporulation-specific extracellular nuclease	136
+KDKFJGNO_02751 hypothetical protein	120
+KDKFJGNO_02754 hypothetical protein	140
+KDKFJGNO_02755 hypothetical protein	297
+KDKFJGNO_02756 hypothetical protein	54
+KDKFJGNO_02757 Phage-like element PBSX protein XkdW	111
+KDKFJGNO_02758 hypothetical protein	366
+KDKFJGNO_02759 hypothetical protein	90
+KDKFJGNO_02761 hypothetical protein	348
+KDKFJGNO_02762 hypothetical protein	141
+KDKFJGNO_02763 hypothetical protein	87
+KDKFJGNO_02765 hypothetical protein	235
+KDKFJGNO_02767 putative protein YqbN	149
+KDKFJGNO_02769 Phage-like element PBSX protein XkdM	147
+KDKFJGNO_02770 hypothetical protein	466
+KDKFJGNO_02771 hypothetical protein	62
+KDKFJGNO_02772 hypothetical protein	145
+KDKFJGNO_02773 hypothetical protein	167
+KDKFJGNO_02774 Phage-like element PBSX protein XkdH	120
+KDKFJGNO_02775 putative protein YqbG	131
+KDKFJGNO_02776 putative protein YqbF	103
+KDKFJGNO_02777 Phage-like element PBSX protein XkdG	311
+KDKFJGNO_02778 putative protein YqbD	322
+KDKFJGNO_02779 hypothetical protein	217
+KDKFJGNO_02781 hypothetical protein	510
+KDKFJGNO_02786 hypothetical protein	309
+KDKFJGNO_02787 hypothetical protein	68
+KDKFJGNO_02794 putative protein YqaI	64
+KDKFJGNO_02796 hypothetical protein	85
+KDKFJGNO_02797 hypothetical protein	189
+KDKFJGNO_02803 hypothetical protein	172
+KDKFJGNO_02818 hypothetical protein	186
+KDKFJGNO_02820 hypothetical protein	273
+KDKFJGNO_02824 hypothetical protein	47
+KDKFJGNO_02826 HTH-type transcriptional regulator GltR	288
+KDKFJGNO_02829 hypothetical protein	129
+KDKFJGNO_02834 hypothetical protein	254
+KDKFJGNO_02838 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB	187
+KDKFJGNO_02840 hypothetical protein	167
+KDKFJGNO_02844 putative protein YncM	236
+KDKFJGNO_02848 1-deoxyxylulose-5-phosphate synthase YajO	326
+KDKFJGNO_02854 hypothetical protein	87
+KDKFJGNO_02855 putative hydrolase	271
+KDKFJGNO_02876 hypothetical protein	275
+KDKFJGNO_02878 Anti-sigma-V factor RsiV	285
+KDKFJGNO_02879 O-acetyltransferase OatA	634
+KDKFJGNO_02880 hypothetical protein	96
+KDKFJGNO_02884 hypothetical protein	49
+KDKFJGNO_02890 hypothetical protein	76
+KDKFJGNO_02895 hypothetical protein	67
+KDKFJGNO_02896 hypothetical protein	233
+KDKFJGNO_02906 hypothetical protein	88
+KDKFJGNO_02914 hypothetical protein	63
+KDKFJGNO_02915 hypothetical protein	154
+KDKFJGNO_02925 hypothetical protein	56
+KDKFJGNO_02934 Post-transcriptional regulator ComN	98
+KDKFJGNO_02949 hypothetical protein	96
+KDKFJGNO_02951 putative transcriptional regulatory protein YebC	240
+KDKFJGNO_02980 hypothetical protein	63
+KDKFJGNO_02989 hypothetical protein	165
+KDKFJGNO_03005 Stress response protein YsnF	273
+KDKFJGNO_03012 putative HTH-type transcriptional regulator YusO	146
+KDKFJGNO_03057 hypothetical protein	89
+KDKFJGNO_03068 hypothetical protein	281
+KDKFJGNO_03077 putative oxidoreductase YtbE	280
+KDKFJGNO_03079 putative sporulation protein YtaF	210
+KDKFJGNO_03087 hypothetical protein	154
+KDKFJGNO_03096 Sporulation membrane protein YtrH	113
+KDKFJGNO_03097 Sporulation membrane protein YtrI	167
+KDKFJGNO_03098 hypothetical protein	63
+KDKFJGNO_03105 Putative monooxygenase MoxC	442
+KDKFJGNO_03107 hypothetical protein	334
+KDKFJGNO_03115 hypothetical protein	227
+KDKFJGNO_03124 putative spore protein YtfJ	151
+KDKFJGNO_03137 putative HTH-type transcriptional regulator YttP	207
+KDKFJGNO_03157 hypothetical protein	269
+KDKFJGNO_03165 hypothetical protein	92
+KDKFJGNO_03169 hypothetical protein	304
+KDKFJGNO_03181 Sporulation protein cse60	60
+KDKFJGNO_03184 Putative lipoprotein YteS	140
+KDKFJGNO_03205 hypothetical protein	112
+KDKFJGNO_03230 putative protein YtmB	80
+KDKFJGNO_03245 hypothetical protein	52
+KDKFJGNO_03296 hypothetical protein	173
+KDKFJGNO_03299 hypothetical protein	162
+KDKFJGNO_03300 Putative metal-sulfur cluster biosynthesis proteins YuaD	192
+KDKFJGNO_03304 Biofilm-surface layer protein A	181
+KDKFJGNO_03309 hypothetical protein	511
+KDKFJGNO_03325 hypothetical protein	84
+KDKFJGNO_03326 hypothetical protein	132
+KDKFJGNO_03330 hypothetical protein	87
+KDKFJGNO_03331 Protein mistic	110
+KDKFJGNO_03333 hypothetical protein	134
+KDKFJGNO_03351 hypothetical protein	137
+KDKFJGNO_03360 hypothetical protein	71
+KDKFJGNO_03368 Putative esterase	126
+KDKFJGNO_03373 Degradation enzyme regulation protein DegQ	46
+KDKFJGNO_03374 hypothetical protein	122
+KDKFJGNO_03378 putative protein YueI	132
+KDKFJGNO_03379 hypothetical protein	82
+KDKFJGNO_03382 hypothetical protein	129
+KDKFJGNO_03390 ESX secretion system protein YukD	79
+KDKFJGNO_03391 Protein YukE	97
+KDKFJGNO_03392 Proline-responsive transcriptional activator PutR	409
+KDKFJGNO_03408 hypothetical protein	106
+KDKFJGNO_03429 hypothetical protein	144
+KDKFJGNO_03430 putative protein YutD	91
+KDKFJGNO_03434 Sporulation protein YunB	254
+KDKFJGNO_03435 hypothetical protein	101
+KDKFJGNO_03438 hypothetical protein	282
+KDKFJGNO_03439 hypothetical protein	115
+KDKFJGNO_03465 hypothetical protein	91
+KDKFJGNO_03485 hypothetical protein	48
+KDKFJGNO_03487 hypothetical protein	81
+KDKFJGNO_03489 putative HTH-type transcriptional regulator YusO	155
+KDKFJGNO_03491 hypothetical protein	127
+KDKFJGNO_03507 hypothetical protein	61
+KDKFJGNO_03526 Sigma-O factor regulatory protein RsoA	79
+KDKFJGNO_03546 Glyoxal reductase	276
+KDKFJGNO_03547 Stress response protein YvgO	161
+KDKFJGNO_03562 hypothetical protein	133
+KDKFJGNO_03572 hypothetical protein	80
+KDKFJGNO_03582 Sporulation-delaying protein SdpA	158
+KDKFJGNO_03583 Sporulation-delaying protein SdpB	323
+KDKFJGNO_03584 Sporulation delaying protein C	203
+KDKFJGNO_03585 Immunity protein SdpI	207
+KDKFJGNO_03593 hypothetical protein	204
+KDKFJGNO_03594 hypothetical protein	232
+KDKFJGNO_03607 putative amino-acid metabolite efflux pump	305
+KDKFJGNO_03628 putative protein YvfG	72
+KDKFJGNO_03648 hypothetical protein	103
+KDKFJGNO_03650 Penicillin-binding protein 4*	451
+KDKFJGNO_03658 putative FAD-linked oxidoreductase YvdP	447
+KDKFJGNO_03659 Putative sporulation hydrolase CotR	320
+KDKFJGNO_03672 hypothetical protein	106
+KDKFJGNO_03678 Adaptive-response sensory-kinase SasA	356
+KDKFJGNO_03680 hypothetical protein	69
+KDKFJGNO_03684 Gluconeogenesis factor	331
+KDKFJGNO_03689 hypothetical protein	484
+KDKFJGNO_03692 hypothetical protein	636
+KDKFJGNO_03693 Putative lipoprotein YvcA	241
+KDKFJGNO_03713 hypothetical protein	157
+KDKFJGNO_03720 hypothetical protein	365
+KDKFJGNO_03721 hypothetical protein	108
+KDKFJGNO_03722 hypothetical protein	76
+KDKFJGNO_03731 hypothetical protein	111
+KDKFJGNO_03740 hypothetical protein	125
+KDKFJGNO_03748 putative protein YviE	191
+KDKFJGNO_03757 Protein DegV	281
+KDKFJGNO_03773 Membrane-bound protein LytA	102
+KDKFJGNO_03788 hypothetical protein	442
+KDKFJGNO_03797 Gamma-DL-glutamyl hydrolase	453
+KDKFJGNO_03798 hypothetical protein	55
+KDKFJGNO_03809 hypothetical protein	98
+KDKFJGNO_03810 General stress protein 14	175
+KDKFJGNO_03813 Hca operon transcriptional activator HcaR	302
+KDKFJGNO_03815 hypothetical protein	225
+KDKFJGNO_03818 Spore coat protein G	195
+KDKFJGNO_03829 Putative antitoxin YwqK	154
+KDKFJGNO_03830 Putative ribonuclease YwqJ	602
+KDKFJGNO_03831 hypothetical protein	86
+KDKFJGNO_03833 putative protein YwqG	261
+KDKFJGNO_03838 hypothetical protein	47
+KDKFJGNO_03839 hypothetical protein	536
+KDKFJGNO_03844 putative protein YwpG	127
+KDKFJGNO_03845 hypothetical protein	136
+KDKFJGNO_03847 hypothetical protein	289
+KDKFJGNO_03857 hypothetical protein	468
+KDKFJGNO_03861 hypothetical protein	153
+KDKFJGNO_03868 hypothetical protein	172
+KDKFJGNO_03872 hypothetical protein	127
+KDKFJGNO_03874 Putative HTH-type transcriptional regulator YwnA	133
+KDKFJGNO_03879 Stress response protein CsbD	62
+KDKFJGNO_03880 hypothetical protein	212
+KDKFJGNO_03891 hypothetical protein	157
+KDKFJGNO_03903 hypothetical protein	180
+KDKFJGNO_03906 putative manganese efflux pump MntP	185
+KDKFJGNO_03926 hypothetical protein	173
+KDKFJGNO_03929 Acyl-CoA dehydrogenase	62
+KDKFJGNO_03931 putative iron-sulfur-binding oxidoreductase FadF	705
+KDKFJGNO_03934 hypothetical protein	90
+KDKFJGNO_03935 IS1595 family transposase ISCac2	174
+KDKFJGNO_03943 hypothetical protein	239
+KDKFJGNO_03944 Anaerobic regulatory protein	238
+KDKFJGNO_03948 Subtilosin-A	43
+KDKFJGNO_03965 hypothetical protein	172
+KDKFJGNO_03968 putative HTH-type transcriptional regulator YusO	139
+KDKFJGNO_03972 hypothetical protein	156
+KDKFJGNO_03989 Purine efflux pump PbuE	412
+KDKFJGNO_03994 putative biofilm-surface layer protein B	154
+KDKFJGNO_03999 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	339
+KDKFJGNO_04004 hypothetical protein	459
+KDKFJGNO_04008 Putative purine permease YwdJ	440
+KDKFJGNO_04012 hypothetical protein	268
+KDKFJGNO_04014 hypothetical protein	211
+KDKFJGNO_04017 hypothetical protein	82
+KDKFJGNO_04024 hypothetical protein	333
+KDKFJGNO_04032 hypothetical protein	82
+KDKFJGNO_04038 hypothetical protein	102
+KDKFJGNO_04050 hypothetical protein	65
+KDKFJGNO_04059 hypothetical protein	237
+KDKFJGNO_04060 hypothetical protein	171
+KDKFJGNO_04077 hypothetical protein	52
+KDKFJGNO_04083 Negative regulatory protein YxlE	62
+KDKFJGNO_04084 Negative regulatory protein YxlD	68
+KDKFJGNO_04093 Citrate/malate transporter	450
+KDKFJGNO_04096 hypothetical protein	279
+KDKFJGNO_04101 putative protein YxkC	213
+KDKFJGNO_04104 HTH-type transcriptional regulator CysL	291
+KDKFJGNO_04110 hypothetical protein	87
+KDKFJGNO_04111 hypothetical protein	162
+KDKFJGNO_04121 hypothetical protein	96
+KDKFJGNO_04126 hypothetical protein	226
+KDKFJGNO_04132 hypothetical protein	98
+KDKFJGNO_04133 hypothetical protein	162
+KDKFJGNO_04134 hypothetical protein	150
+KDKFJGNO_04135 hypothetical protein	109
+KDKFJGNO_04136 hypothetical protein	138
+KDKFJGNO_04137 hypothetical protein	122
+KDKFJGNO_04138 hypothetical protein	156
+KDKFJGNO_04139 Immunity protein WapI	142
+KDKFJGNO_04140 tRNA nuclease WapA	2334
+KDKFJGNO_04145 hypothetical protein	102
+KDKFJGNO_04149 hypothetical protein	121
+KDKFJGNO_04163 hypothetical protein	445
+KDKFJGNO_04168 S-(2-succino)cysteine N-acetyltransferase	165
+KDKFJGNO_04169 Nitrilotriacetate monooxygenase component A	441
+KDKFJGNO_04175 putative protein YxeE	121
+KDKFJGNO_04176 hypothetical protein	117
+KDKFJGNO_04177 hypothetical protein	132
+KDKFJGNO_04179 putative protein YxeA	115
+KDKFJGNO_04197 hypothetical protein	102
+KDKFJGNO_04202 hypothetical protein	380
+KDKFJGNO_04208 hypothetical protein	160
+KDKFJGNO_04210 hypothetical protein	399
+KDKFJGNO_04212 hypothetical protein	141
+KDKFJGNO_04213 hypothetical protein	151
+KDKFJGNO_04218 hypothetical protein	143
+KDKFJGNO_04232 hypothetical protein	52
+KDKFJGNO_04237 Putative exported peptide YydF	49
+KDKFJGNO_04240 hypothetical protein	140
+KDKFJGNO_04243 hypothetical protein	56
+KDKFJGNO_04244 hypothetical protein	137
+KDKFJGNO_04248 hypothetical protein	387
+KDKFJGNO_04249 hypothetical protein	245
+KDKFJGNO_04250 putative N-acetyltransferase YycN	156
+KDKFJGNO_04270 hypothetical protein	66
+KDKFJGNO_04276 Cyclic-di-AMP phosphodiesterase GdpP	659
+KDKFJGNO_04280 putative HTH-type transcriptional regulator YybR	125
+KDKFJGNO_04282 hypothetical protein	148
+KDKFJGNO_04285 hypothetical protein	79
+KDKFJGNO_04287 hypothetical protein	251
+KDKFJGNO_04288 hypothetical protein	236
+KDKFJGNO_04289 hypothetical protein	251
+KDKFJGNO_04291 hypothetical protein	262
+KDKFJGNO_04293 hypothetical protein	279
+KDKFJGNO_04297 hypothetical protein	159
+KDKFJGNO_04303 hypothetical protein	118
+KDKFJGNO_04304 putative protein YyaP	188
+KDKFJGNO_04307 hypothetical protein	136
+KDKFJGNO_04308 hypothetical protein	305
+KDKFJGNO_04321 hypothetical protein	68

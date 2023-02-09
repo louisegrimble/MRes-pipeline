@@ -1,0 +1,379 @@
+PNEKIFPP_00006 hypothetical protein	38
+PNEKIFPP_00011 Putative manganese exporter	184
+PNEKIFPP_00012 hypothetical protein	85
+PNEKIFPP_00014 hypothetical protein	61
+PNEKIFPP_00022 putative acyltransferase YihG	294
+PNEKIFPP_00029 hypothetical protein	183
+PNEKIFPP_00044 hypothetical protein	91
+PNEKIFPP_00060 HTH-type transcriptional regulator YidZ	313
+PNEKIFPP_00062 hypothetical protein	94
+PNEKIFPP_00066 hypothetical protein	127
+PNEKIFPP_00081 hypothetical protein	270
+PNEKIFPP_00095 Cytochrome c4	205
+PNEKIFPP_00115 Pyridoxal phosphate phosphatase YigL	275
+PNEKIFPP_00121 hypothetical protein	122
+PNEKIFPP_00122 hypothetical protein	209
+PNEKIFPP_00136 hypothetical protein	251
+PNEKIFPP_00138 hypothetical protein	226
+PNEKIFPP_00139 hypothetical protein	224
+PNEKIFPP_00140 hypothetical protein	199
+PNEKIFPP_00143 hypothetical protein	846
+PNEKIFPP_00144 hypothetical protein	139
+PNEKIFPP_00146 hypothetical protein	75
+PNEKIFPP_00147 hypothetical protein	122
+PNEKIFPP_00148 hypothetical protein	244
+PNEKIFPP_00149 hypothetical protein	147
+PNEKIFPP_00150 hypothetical protein	145
+PNEKIFPP_00153 hypothetical protein	286
+PNEKIFPP_00156 Antitoxin SocA	155
+PNEKIFPP_00162 hypothetical protein	152
+PNEKIFPP_00179 hypothetical protein	196
+PNEKIFPP_00181 hypothetical protein	107
+PNEKIFPP_00208 hypothetical protein	156
+PNEKIFPP_00220 hypothetical protein	88
+PNEKIFPP_00255 hypothetical protein	119
+PNEKIFPP_00262 hypothetical protein	186
+PNEKIFPP_00281 hypothetical protein	86
+PNEKIFPP_00283 Hybrid peroxiredoxin hyPrx5	243
+PNEKIFPP_00305 hypothetical protein	263
+PNEKIFPP_00310 hypothetical protein	161
+PNEKIFPP_00350 hypothetical protein	158
+PNEKIFPP_00356 hypothetical protein	189
+PNEKIFPP_00367 hypothetical protein	96
+PNEKIFPP_00372 Gamma-glutamylcyclotransferase family protein YtfP	115
+PNEKIFPP_00417 Cyclic di-GMP phosphodiesterase	417
+PNEKIFPP_00425 hypothetical protein	263
+PNEKIFPP_00447 hypothetical protein	114
+PNEKIFPP_00526 hypothetical protein	160
+PNEKIFPP_00535 hypothetical protein	121
+PNEKIFPP_00544 hypothetical protein	127
+PNEKIFPP_00546 hypothetical protein	141
+PNEKIFPP_00588 hypothetical protein	61
+PNEKIFPP_00590 hypothetical protein	134
+PNEKIFPP_00636 hypothetical protein	127
+PNEKIFPP_00660 hypothetical protein	281
+PNEKIFPP_00676 hypothetical protein	46
+PNEKIFPP_00680 hypothetical protein	146
+PNEKIFPP_00684 hypothetical protein	232
+PNEKIFPP_00688 hypothetical protein	377
+PNEKIFPP_00689 hypothetical protein	211
+PNEKIFPP_00755 hypothetical protein	95
+PNEKIFPP_00757 hypothetical protein	122
+PNEKIFPP_00790 hypothetical protein	175
+PNEKIFPP_00801 hypothetical protein	73
+PNEKIFPP_00806 GTP cyclohydrolase 1 type 2 	252
+PNEKIFPP_00851 hypothetical protein	167
+PNEKIFPP_00856 Acetoin utilization protein AcuC	195
+PNEKIFPP_00858 hypothetical protein	187
+PNEKIFPP_00862 hypothetical protein	232
+PNEKIFPP_00864 hypothetical protein	321
+PNEKIFPP_00865 hypothetical protein	532
+PNEKIFPP_00866 hypothetical protein	459
+PNEKIFPP_00867 hypothetical protein	362
+PNEKIFPP_00870 hypothetical protein	140
+PNEKIFPP_00872 hypothetical protein	858
+PNEKIFPP_00873 hypothetical protein	197
+PNEKIFPP_00874 hypothetical protein	175
+PNEKIFPP_00876 hypothetical protein	201
+PNEKIFPP_00877 hypothetical protein	164
+PNEKIFPP_00878 hypothetical protein	181
+PNEKIFPP_00879 hypothetical protein	168
+PNEKIFPP_00880 hypothetical protein	115
+PNEKIFPP_00881 hypothetical protein	288
+PNEKIFPP_00882 hypothetical protein	216
+PNEKIFPP_00883 hypothetical protein	412
+PNEKIFPP_00884 hypothetical protein	176
+PNEKIFPP_00888 hypothetical protein	711
+PNEKIFPP_00890 hypothetical protein	68
+PNEKIFPP_00893 hypothetical protein	265
+PNEKIFPP_00894 hypothetical protein	60
+PNEKIFPP_00896 hypothetical protein	159
+PNEKIFPP_00899 hypothetical protein	103
+PNEKIFPP_00900 hypothetical protein	99
+PNEKIFPP_00901 hypothetical protein	101
+PNEKIFPP_00903 hypothetical protein	182
+PNEKIFPP_00905 hypothetical protein	85
+PNEKIFPP_00906 hypothetical protein	83
+PNEKIFPP_00908 hypothetical protein	64
+PNEKIFPP_00923 7-methyl-GTP pyrophosphatase	193
+PNEKIFPP_00938 hypothetical protein	33
+PNEKIFPP_00946 hypothetical protein	118
+PNEKIFPP_00947 hypothetical protein	306
+PNEKIFPP_00953 hypothetical protein	274
+PNEKIFPP_00959 hypothetical protein	67
+PNEKIFPP_00962 hypothetical protein	101
+PNEKIFPP_00980 HTH-type transcriptional regulator SutR	181
+PNEKIFPP_00993 HTH-type transcriptional regulator DmlR	315
+PNEKIFPP_00998 hypothetical protein	608
+PNEKIFPP_00999 HTH-type transcriptional regulator DmlR	296
+PNEKIFPP_01001 hypothetical protein	282
+PNEKIFPP_01006 putative phosphatase	220
+PNEKIFPP_01011 hypothetical protein	230
+PNEKIFPP_01013 hypothetical protein	156
+PNEKIFPP_01014 hypothetical protein	33
+PNEKIFPP_01035 hypothetical protein	254
+PNEKIFPP_01044 hypothetical protein	383
+PNEKIFPP_01048 hypothetical protein	129
+PNEKIFPP_01055 hypothetical protein	254
+PNEKIFPP_01057 hypothetical protein	191
+PNEKIFPP_01084 hypothetical protein	70
+PNEKIFPP_01123 DNA-binding protein	71
+PNEKIFPP_01128 hypothetical protein	67
+PNEKIFPP_01133 hypothetical protein	533
+PNEKIFPP_01135 hypothetical protein	1275
+PNEKIFPP_01138 hypothetical protein	291
+PNEKIFPP_01140 hypothetical protein	248
+PNEKIFPP_01141 hypothetical protein	112
+PNEKIFPP_01143 hypothetical protein	171
+PNEKIFPP_01144 hypothetical protein	159
+PNEKIFPP_01146 hypothetical protein	155
+PNEKIFPP_01148 hypothetical protein	97
+PNEKIFPP_01152 hypothetical protein	435
+PNEKIFPP_01154 hypothetical protein	571
+PNEKIFPP_01155 hypothetical protein	157
+PNEKIFPP_01159 hypothetical protein	94
+PNEKIFPP_01163 hypothetical protein	222
+PNEKIFPP_01164 hypothetical protein	337
+PNEKIFPP_01165 hypothetical protein	94
+PNEKIFPP_01167 hypothetical protein	168
+PNEKIFPP_01170 hypothetical protein	57
+PNEKIFPP_01175 hypothetical protein	183
+PNEKIFPP_01178 hypothetical protein	150
+PNEKIFPP_01182 hypothetical protein	139
+PNEKIFPP_01190 hypothetical protein	196
+PNEKIFPP_01195 hypothetical protein	75
+PNEKIFPP_01196 hypothetical protein	278
+PNEKIFPP_01197 hypothetical protein	166
+PNEKIFPP_01199 hypothetical protein	212
+PNEKIFPP_01204 hypothetical protein	158
+PNEKIFPP_01211 hypothetical protein	123
+PNEKIFPP_01226 hypothetical protein	373
+PNEKIFPP_01228 hypothetical protein	274
+PNEKIFPP_01231 hypothetical protein	93
+PNEKIFPP_01233 hypothetical protein	208
+PNEKIFPP_01240 Protein YciN	82
+PNEKIFPP_01257 hypothetical protein	194
+PNEKIFPP_01261 hypothetical protein	228
+PNEKIFPP_01262 hypothetical protein	66
+PNEKIFPP_01271 hypothetical protein	276
+PNEKIFPP_01272 hypothetical protein	77
+PNEKIFPP_01278 hypothetical protein	243
+PNEKIFPP_01281 hypothetical protein	129
+PNEKIFPP_01282 hypothetical protein	256
+PNEKIFPP_01300 Inner membrane protein YnjF	206
+PNEKIFPP_01306 hypothetical protein	71
+PNEKIFPP_01319 HTH-type transcriptional regulator SgrR	587
+PNEKIFPP_01324 hypothetical protein	122
+PNEKIFPP_01325 Blue light- and temperature-regulated antirepressor BluF	257
+PNEKIFPP_01329 hypothetical protein	133
+PNEKIFPP_01333 hypothetical protein	219
+PNEKIFPP_01334 hypothetical protein	478
+PNEKIFPP_01348 HTH-type transcriptional regulator CynR	289
+PNEKIFPP_01352 hypothetical protein	74
+PNEKIFPP_01360 hypothetical protein	77
+PNEKIFPP_01367 hypothetical protein	353
+PNEKIFPP_01381 Inner membrane protein RclC	146
+PNEKIFPP_01389 hypothetical protein	78
+PNEKIFPP_01390 hypothetical protein	273
+PNEKIFPP_01395 hypothetical protein	126
+PNEKIFPP_01404 HTH-type transcriptional regulator SyrM 1	309
+PNEKIFPP_01423 hypothetical protein	327
+PNEKIFPP_01426 putative ketoamine kinase	288
+PNEKIFPP_01427 hypothetical protein	113
+PNEKIFPP_01428 hypothetical protein	166
+PNEKIFPP_01430 hypothetical protein	263
+PNEKIFPP_01433 hypothetical protein	91
+PNEKIFPP_01443 hypothetical protein	188
+PNEKIFPP_01444 hypothetical protein	201
+PNEKIFPP_01445 Ferredoxin-type protein NapF	553
+PNEKIFPP_01446 Chaperone protein TorD	228
+PNEKIFPP_01447 hypothetical protein	65
+PNEKIFPP_01451 hypothetical protein	140
+PNEKIFPP_01456 hypothetical protein	449
+PNEKIFPP_01466 hypothetical protein	223
+PNEKIFPP_01468 hypothetical protein	72
+PNEKIFPP_01476 hypothetical protein	570
+PNEKIFPP_01481 hypothetical protein	107
+PNEKIFPP_01482 hypothetical protein	103
+PNEKIFPP_01483 hypothetical protein	709
+PNEKIFPP_01484 hypothetical protein	106
+PNEKIFPP_01487 hypothetical protein	395
+PNEKIFPP_01490 hypothetical protein	709
+PNEKIFPP_01491 hypothetical protein	106
+PNEKIFPP_01494 hypothetical protein	395
+PNEKIFPP_01497 hypothetical protein	129
+PNEKIFPP_01499 hypothetical protein	93
+PNEKIFPP_01501 hypothetical protein	74
+PNEKIFPP_01504 hypothetical protein	115
+PNEKIFPP_01509 hypothetical protein	405
+PNEKIFPP_01510 hypothetical protein	118
+PNEKIFPP_01522 hypothetical protein	219
+PNEKIFPP_01524 hypothetical protein	268
+PNEKIFPP_01531 hypothetical protein	244
+PNEKIFPP_01532 hypothetical protein	52
+PNEKIFPP_01535 hypothetical protein	244
+PNEKIFPP_01536 hypothetical protein	709
+PNEKIFPP_01537 hypothetical protein	262
+PNEKIFPP_01546 ATP-dependent RNA helicase RhlE	397
+PNEKIFPP_01556 hypothetical protein	86
+PNEKIFPP_01567 hypothetical protein	116
+PNEKIFPP_01569 hypothetical protein	42
+PNEKIFPP_01570 hypothetical protein	176
+PNEKIFPP_01572 hypothetical protein	210
+PNEKIFPP_01575 hypothetical protein	385
+PNEKIFPP_01576 hypothetical protein	226
+PNEKIFPP_01579 hypothetical protein	74
+PNEKIFPP_01580 Photosystem I assembly protein Ycf3	648
+PNEKIFPP_01595 Hybrid peroxiredoxin hyPrx5	157
+PNEKIFPP_01596 Sensor histidine kinase RcsC	1331
+PNEKIFPP_01604 hypothetical protein	158
+PNEKIFPP_01610 putative D-xylose utilization operon transcriptional repressor	234
+PNEKIFPP_01614 hypothetical protein	265
+PNEKIFPP_01619 hypothetical protein	160
+PNEKIFPP_01632 hypothetical protein	157
+PNEKIFPP_01637 hypothetical protein	61
+PNEKIFPP_01640 putative Nudix hydrolase NudL	204
+PNEKIFPP_01662 hypothetical protein	159
+PNEKIFPP_01666 hypothetical protein	177
+PNEKIFPP_01667 Monocarboxylate 2-oxoacid-binding periplasmic protein	372
+PNEKIFPP_01669 hypothetical protein	224
+PNEKIFPP_01678 hypothetical protein	58
+PNEKIFPP_01687 hypothetical protein	84
+PNEKIFPP_01692 hypothetical protein	116
+PNEKIFPP_01693 hypothetical protein	191
+PNEKIFPP_01740 hypothetical protein	227
+PNEKIFPP_01743 hypothetical protein	60
+PNEKIFPP_01746 hypothetical protein	116
+PNEKIFPP_01748 hypothetical protein	109
+PNEKIFPP_01751 Cysteine desulfurase SufS	413
+PNEKIFPP_01768 hypothetical protein	289
+PNEKIFPP_01775 hypothetical protein	421
+PNEKIFPP_01777 Hydrogenase transcriptional regulatory protein hupR1	165
+PNEKIFPP_01778 hypothetical protein	182
+PNEKIFPP_01781 Lysine exporter LysO	301
+PNEKIFPP_01782 hypothetical protein	169
+PNEKIFPP_01785 hypothetical protein	407
+PNEKIFPP_01807 hypothetical protein	175
+PNEKIFPP_01808 hypothetical protein	178
+PNEKIFPP_01816 hypothetical protein	56
+PNEKIFPP_01831 hypothetical protein	136
+PNEKIFPP_01843 Sensor histidine kinase RcsC	445
+PNEKIFPP_01852 hypothetical protein	162
+PNEKIFPP_01857 hypothetical protein	409
+PNEKIFPP_01858 hypothetical protein	165
+PNEKIFPP_01861 hypothetical protein	306
+PNEKIFPP_01862 hypothetical protein	282
+PNEKIFPP_01863 hypothetical protein	343
+PNEKIFPP_01873 hypothetical protein	608
+PNEKIFPP_01874 hypothetical protein	203
+PNEKIFPP_01879 Transcriptional regulator VspR	175
+PNEKIFPP_01884 hypothetical protein	247
+PNEKIFPP_01899 hypothetical protein	43
+PNEKIFPP_01915 hypothetical protein	271
+PNEKIFPP_01925 Putative gluconeogenesis factor	296
+PNEKIFPP_01938 hypothetical protein	145
+PNEKIFPP_01953 Putative cation/proton antiporter YbaL	528
+PNEKIFPP_01968 Protein QmcA	306
+PNEKIFPP_01986 hypothetical protein	156
+PNEKIFPP_01999 hypothetical protein	108
+PNEKIFPP_02008 hypothetical protein	199
+PNEKIFPP_02009 hypothetical protein	438
+PNEKIFPP_02011 hypothetical protein	408
+PNEKIFPP_02035 hypothetical protein	258
+PNEKIFPP_02042 hypothetical protein	128
+PNEKIFPP_02051 putative protein YqcC	103
+PNEKIFPP_02053 hypothetical protein	100
+PNEKIFPP_02055 hypothetical protein	99
+PNEKIFPP_02063 hypothetical protein	67
+PNEKIFPP_02064 hypothetical protein	63
+PNEKIFPP_02067 hypothetical protein	43
+PNEKIFPP_02069 p-aminobenzoyl-glutamate transport protein	519
+PNEKIFPP_02082 Persistence and stress-resistance toxin PasT	144
+PNEKIFPP_02110 hypothetical protein	312
+PNEKIFPP_02111 hypothetical protein	1539
+PNEKIFPP_02114 hypothetical protein	98
+PNEKIFPP_02115 hypothetical protein	187
+PNEKIFPP_02117 hypothetical protein	198
+PNEKIFPP_02122 hypothetical protein	314
+PNEKIFPP_02134 hypothetical protein	412
+PNEKIFPP_02137 hypothetical protein	142
+PNEKIFPP_02138 hypothetical protein	148
+PNEKIFPP_02140 hypothetical protein	213
+PNEKIFPP_02141 hypothetical protein	112
+PNEKIFPP_02142 hypothetical protein	130
+PNEKIFPP_02145 hypothetical protein	155
+PNEKIFPP_02146 hypothetical protein	192
+PNEKIFPP_02147 UvrABC system protein B	978
+PNEKIFPP_02149 hypothetical protein	169
+PNEKIFPP_02151 hypothetical protein	65
+PNEKIFPP_02152 hypothetical protein	227
+PNEKIFPP_02163 Citrate-sodium symporter	448
+PNEKIFPP_02169 hypothetical protein	90
+PNEKIFPP_02171 HTH-type transcriptional regulator DsdC	302
+PNEKIFPP_02195 hypothetical protein	77
+PNEKIFPP_02199 hypothetical protein	204
+PNEKIFPP_02206 Protein IscX	64
+PNEKIFPP_02239 Ferredoxin YfhL	84
+PNEKIFPP_02259 Cyclic diguanosine monophosphate-binding protein	123
+PNEKIFPP_02268 hypothetical protein	107
+PNEKIFPP_02287 hypothetical protein	83
+PNEKIFPP_02297 hypothetical protein	289
+PNEKIFPP_02298 hypothetical protein	220
+PNEKIFPP_02306 hypothetical protein	1909
+PNEKIFPP_02307 hypothetical protein	235
+PNEKIFPP_02309 hypothetical protein	113
+PNEKIFPP_02312 hypothetical protein	146
+PNEKIFPP_02313 hypothetical protein	317
+PNEKIFPP_02314 hypothetical protein	255
+PNEKIFPP_02317 hypothetical protein	47
+PNEKIFPP_02318 hypothetical protein	272
+PNEKIFPP_02320 hypothetical protein	108
+PNEKIFPP_02321 hypothetical protein	200
+PNEKIFPP_02324 hypothetical protein	304
+PNEKIFPP_02329 hypothetical protein	115
+PNEKIFPP_02333 hypothetical protein	277
+PNEKIFPP_02342 hypothetical protein	186
+PNEKIFPP_02345 hypothetical protein	157
+PNEKIFPP_02346 hypothetical protein	93
+PNEKIFPP_02351 hypothetical protein	311
+PNEKIFPP_02352 hypothetical protein	99
+PNEKIFPP_02356 hypothetical protein	141
+PNEKIFPP_02358 hypothetical protein	89
+PNEKIFPP_02360 hypothetical protein	70
+PNEKIFPP_02366 hypothetical protein	175
+PNEKIFPP_02369 hypothetical protein	292
+PNEKIFPP_02508 Monocarboxylate 2-oxoacid-binding periplasmic protein	359
+PNEKIFPP_02512 hypothetical protein	43
+PNEKIFPP_02521 HTH-type transcriptional regulator HdfR	298
+PNEKIFPP_02538 hypothetical protein	143
+PNEKIFPP_02544 putative Fe(2+)-trafficking protein	90
+PNEKIFPP_02564 hypothetical protein	157
+PNEKIFPP_02629 hypothetical protein	76
+PNEKIFPP_02635 putative protein	393
+PNEKIFPP_02637 hypothetical protein	139
+PNEKIFPP_02654 Transcriptional regulator DauR	240
+PNEKIFPP_02656 hypothetical protein	326
+PNEKIFPP_02683 Murein hydrolase activator EnvC	382
+PNEKIFPP_02716 hypothetical protein	329
+PNEKIFPP_02750 Glyoxylate/hydroxypyruvate reductase A	307
+PNEKIFPP_02753 hypothetical protein	136
+PNEKIFPP_02759 Putative acetyltransferase EpsM	215
+PNEKIFPP_02763 putative sugar transferase EpsL	205
+PNEKIFPP_02769 hypothetical protein	378
+PNEKIFPP_02777 hypothetical protein	590
+PNEKIFPP_02782 hypothetical protein	260
+PNEKIFPP_02784 hypothetical protein	126
+PNEKIFPP_02785 hypothetical protein	527
+PNEKIFPP_02787 hypothetical protein	314
+PNEKIFPP_02788 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase	232
+PNEKIFPP_02789 hypothetical protein	664
+PNEKIFPP_02796 hypothetical protein	160
+PNEKIFPP_02809 hypothetical protein	92
+PNEKIFPP_02812 hypothetical protein	802
+PNEKIFPP_02813 hypothetical protein	228
+PNEKIFPP_02815 hypothetical protein	265
+PNEKIFPP_02822 hypothetical protein	162
+PNEKIFPP_02831 hypothetical protein	120
+PNEKIFPP_02832 hypothetical protein	99
+PNEKIFPP_02842 hypothetical protein	315
+PNEKIFPP_02875 IMPACT family member YigZ	210

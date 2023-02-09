@@ -1,0 +1,1408 @@
+AAJNHDNO_00010 hypothetical protein	433
+AAJNHDNO_00012 hypothetical protein	234
+AAJNHDNO_00019 hypothetical protein	118
+AAJNHDNO_00020 hypothetical protein	379
+AAJNHDNO_00021 hypothetical protein	317
+AAJNHDNO_00034 hypothetical protein	88
+AAJNHDNO_00042 hypothetical protein	341
+AAJNHDNO_00048 hypothetical protein	328
+AAJNHDNO_00050 hypothetical protein	200
+AAJNHDNO_00062 hypothetical protein	73
+AAJNHDNO_00077 putative protein	553
+AAJNHDNO_00081 hypothetical protein	142
+AAJNHDNO_00082 hypothetical protein	56
+AAJNHDNO_00091 hypothetical protein	145
+AAJNHDNO_00092 hypothetical protein	138
+AAJNHDNO_00094 hypothetical protein	327
+AAJNHDNO_00099 hypothetical protein	352
+AAJNHDNO_00101 hypothetical protein	570
+AAJNHDNO_00122 hypothetical protein	77
+AAJNHDNO_00123 hypothetical protein	87
+AAJNHDNO_00124 hypothetical protein	181
+AAJNHDNO_00125 hypothetical protein	94
+AAJNHDNO_00127 hypothetical protein	144
+AAJNHDNO_00129 hypothetical protein	149
+AAJNHDNO_00130 hypothetical protein	370
+AAJNHDNO_00132 hypothetical protein	315
+AAJNHDNO_00133 hypothetical protein	304
+AAJNHDNO_00134 hypothetical protein	410
+AAJNHDNO_00137 hypothetical protein	212
+AAJNHDNO_00142 hypothetical protein	69
+AAJNHDNO_00144 hypothetical protein	192
+AAJNHDNO_00154 hypothetical protein	244
+AAJNHDNO_00155 hypothetical protein	136
+AAJNHDNO_00156 HTH-type transcriptional regulator DmlR	302
+AAJNHDNO_00158 hypothetical protein	75
+AAJNHDNO_00160 hypothetical protein	166
+AAJNHDNO_00195 HTH-type transcriptional regulator NimR	263
+AAJNHDNO_00202 putative protein	126
+AAJNHDNO_00203 hypothetical protein	180
+AAJNHDNO_00231 hypothetical protein	70
+AAJNHDNO_00249 hypothetical protein	145
+AAJNHDNO_00257 HTH-type transcriptional regulator SutR	179
+AAJNHDNO_00266 hypothetical protein	277
+AAJNHDNO_00268 Transcriptional repressor IclR	259
+AAJNHDNO_00269 Myo-inositol 2-dehydrogenase	347
+AAJNHDNO_00275 HTH-type transcriptional repressor NicS	222
+AAJNHDNO_00283 hypothetical protein	213
+AAJNHDNO_00290 hypothetical protein	61
+AAJNHDNO_00302 hypothetical protein	135
+AAJNHDNO_00303 hypothetical protein	94
+AAJNHDNO_00304 PCP degradation transcriptional activation protein	310
+AAJNHDNO_00306 hypothetical protein	256
+AAJNHDNO_00308 hypothetical protein	171
+AAJNHDNO_00311 hypothetical protein	232
+AAJNHDNO_00316 hypothetical protein	60
+AAJNHDNO_00321 hypothetical protein	320
+AAJNHDNO_00326 hypothetical protein	221
+AAJNHDNO_00339 hypothetical protein	167
+AAJNHDNO_00344 hypothetical protein	184
+AAJNHDNO_00346 hypothetical protein	164
+AAJNHDNO_00349 hypothetical protein	145
+AAJNHDNO_00353 putative protein YjiK	310
+AAJNHDNO_00354 Protein YgiW	116
+AAJNHDNO_00368 hypothetical protein	423
+AAJNHDNO_00371 putative phosphatase	217
+AAJNHDNO_00375 hypothetical protein	251
+AAJNHDNO_00382 hypothetical protein	120
+AAJNHDNO_00384 hypothetical protein	364
+AAJNHDNO_00385 hypothetical protein	346
+AAJNHDNO_00395 hypothetical protein	114
+AAJNHDNO_00400 putative GMC-type oxidoreductase	531
+AAJNHDNO_00401 hypothetical protein	182
+AAJNHDNO_00406 hypothetical protein	188
+AAJNHDNO_00414 hypothetical protein	201
+AAJNHDNO_00420 putative protein	448
+AAJNHDNO_00421 hypothetical protein	85
+AAJNHDNO_00425 hypothetical protein	139
+AAJNHDNO_00426 Bifunctional methionine biosynthesis protein MetXA/MetW	206
+AAJNHDNO_00428 hypothetical protein	655
+AAJNHDNO_00456 hypothetical protein	457
+AAJNHDNO_00461 Protein YceI	191
+AAJNHDNO_00467 hypothetical protein	356
+AAJNHDNO_00473 hypothetical protein	492
+AAJNHDNO_00488 hypothetical protein	263
+AAJNHDNO_00490 Inner membrane protein YccS	733
+AAJNHDNO_00495 putative transport protein HsrA	477
+AAJNHDNO_00497 hypothetical protein	192
+AAJNHDNO_00498 putative acyltransferase YihG	295
+AAJNHDNO_00503 hypothetical protein	100
+AAJNHDNO_00512 hypothetical protein	133
+AAJNHDNO_00513 putative HTH-type transcriptional regulator YxaF	189
+AAJNHDNO_00515 PCP degradation transcriptional activation protein	308
+AAJNHDNO_00521 hypothetical protein	147
+AAJNHDNO_00528 hypothetical protein	97
+AAJNHDNO_00534 5-oxoprolinase subunit C	325
+AAJNHDNO_00542 hypothetical protein	76
+AAJNHDNO_00546 Nitrite reductase	493
+AAJNHDNO_00549 hypothetical protein	171
+AAJNHDNO_00550 hypothetical protein	147
+AAJNHDNO_00551 hypothetical protein	174
+AAJNHDNO_00552 hypothetical protein	150
+AAJNHDNO_00563 hypothetical protein	64
+AAJNHDNO_00565 HTH-type transcriptional regulator CynR	292
+AAJNHDNO_00566 Protein YiiM	233
+AAJNHDNO_00567 hypothetical protein	78
+AAJNHDNO_00573 hypothetical protein	184
+AAJNHDNO_00580 Protein YqjC	139
+AAJNHDNO_00585 Ubiquinone biosynthesis O-methyltransferase, mitochondrial	333
+AAJNHDNO_00587 hypothetical protein	354
+AAJNHDNO_00591 hypothetical protein	66
+AAJNHDNO_00592 hypothetical protein	113
+AAJNHDNO_00594 hypothetical protein	160
+AAJNHDNO_00596 putative methyltransferase	255
+AAJNHDNO_00603 hypothetical protein	171
+AAJNHDNO_00604 hypothetical protein	52
+AAJNHDNO_00605 hypothetical protein	152
+AAJNHDNO_00606 hypothetical protein	156
+AAJNHDNO_00607 hypothetical protein	115
+AAJNHDNO_00608 hypothetical protein	204
+AAJNHDNO_00615 hypothetical protein	255
+AAJNHDNO_00617 hypothetical protein	230
+AAJNHDNO_00618 hypothetical protein	179
+AAJNHDNO_00619 hypothetical protein	306
+AAJNHDNO_00620 hypothetical protein	236
+AAJNHDNO_00622 hypothetical protein	174
+AAJNHDNO_00623 hypothetical protein	390
+AAJNHDNO_00626 hypothetical protein	95
+AAJNHDNO_00630 hypothetical protein	69
+AAJNHDNO_00631 hypothetical protein	149
+AAJNHDNO_00633 hypothetical protein	221
+AAJNHDNO_00634 hypothetical protein	145
+AAJNHDNO_00635 hypothetical protein	153
+AAJNHDNO_00636 hypothetical protein	245
+AAJNHDNO_00637 hypothetical protein	340
+AAJNHDNO_00639 hypothetical protein	682
+AAJNHDNO_00640 hypothetical protein	235
+AAJNHDNO_00641 hypothetical protein	86
+AAJNHDNO_00645 hypothetical protein	71
+AAJNHDNO_00646 hypothetical protein	137
+AAJNHDNO_00647 hypothetical protein	118
+AAJNHDNO_00651 hypothetical protein	80
+AAJNHDNO_00664 hypothetical protein	168
+AAJNHDNO_00689 hypothetical protein	104
+AAJNHDNO_00693 hypothetical protein	119
+AAJNHDNO_00695 hypothetical protein	171
+AAJNHDNO_00696 hypothetical protein	185
+AAJNHDNO_00699 hypothetical protein	177
+AAJNHDNO_00700 hypothetical protein	702
+AAJNHDNO_00701 hypothetical protein	146
+AAJNHDNO_00704 hypothetical protein	114
+AAJNHDNO_00705 hypothetical protein	745
+AAJNHDNO_00707 hypothetical protein	68
+AAJNHDNO_00710 hypothetical protein	120
+AAJNHDNO_00711 hypothetical protein	85
+AAJNHDNO_00720 ATP-dependent zinc metalloprotease FtsH	493
+AAJNHDNO_00726 hypothetical protein	239
+AAJNHDNO_00727 hypothetical protein	137
+AAJNHDNO_00744 hypothetical protein	432
+AAJNHDNO_00745 hypothetical protein	200
+AAJNHDNO_00746 hypothetical protein	348
+AAJNHDNO_00747 hypothetical protein	339
+AAJNHDNO_00748 hypothetical protein	178
+AAJNHDNO_00749 hypothetical protein	265
+AAJNHDNO_00751 hypothetical protein	412
+AAJNHDNO_00756 hypothetical protein	233
+AAJNHDNO_00757 hypothetical protein	111
+AAJNHDNO_00758 hypothetical protein	90
+AAJNHDNO_00759 hypothetical protein	144
+AAJNHDNO_00761 hypothetical protein	83
+AAJNHDNO_00763 hypothetical protein	430
+AAJNHDNO_00767 hypothetical protein	430
+AAJNHDNO_00769 hypothetical protein	145
+AAJNHDNO_00786 hypothetical protein	318
+AAJNHDNO_00791 hypothetical protein	315
+AAJNHDNO_00795 hypothetical protein	177
+AAJNHDNO_00796 hypothetical protein	182
+AAJNHDNO_00801 hypothetical protein	161
+AAJNHDNO_00802 hypothetical protein	96
+AAJNHDNO_00806 hypothetical protein	68
+AAJNHDNO_00807 hypothetical protein	92
+AAJNHDNO_00810 hypothetical protein	87
+AAJNHDNO_00812 hypothetical protein	204
+AAJNHDNO_00816 hypothetical protein	147
+AAJNHDNO_00817 Putative manganese exporter	192
+AAJNHDNO_00821 hypothetical protein	1913
+AAJNHDNO_00823 hypothetical protein	129
+AAJNHDNO_00827 Alcohol dehydrogenase (quinone), cytochrome c subunit	415
+AAJNHDNO_00839 Cyclic diguanosine monophosphate-binding protein	125
+AAJNHDNO_00840 hypothetical protein	168
+AAJNHDNO_00842 hypothetical protein	67
+AAJNHDNO_00844 hypothetical protein	124
+AAJNHDNO_00857 hypothetical protein	125
+AAJNHDNO_00861 hypothetical protein	381
+AAJNHDNO_00865 hypothetical protein	618
+AAJNHDNO_00866 hypothetical protein	162
+AAJNHDNO_00869 hypothetical protein	113
+AAJNHDNO_00870 hypothetical protein	162
+AAJNHDNO_00874 hypothetical protein	74
+AAJNHDNO_00907 Tn3 family transposase TnAs2	202
+AAJNHDNO_00912 hypothetical protein	115
+AAJNHDNO_00913 hypothetical protein	460
+AAJNHDNO_00918 hypothetical protein	94
+AAJNHDNO_00923 hypothetical protein	219
+AAJNHDNO_00926 hypothetical protein	49
+AAJNHDNO_00928 hypothetical protein	101
+AAJNHDNO_00932 hypothetical protein	89
+AAJNHDNO_00933 hypothetical protein	166
+AAJNHDNO_00935 hypothetical protein	251
+AAJNHDNO_00936 hypothetical protein	232
+AAJNHDNO_00937 hypothetical protein	444
+AAJNHDNO_00939 hypothetical protein	396
+AAJNHDNO_00942 hypothetical protein	481
+AAJNHDNO_00943 hypothetical protein	201
+AAJNHDNO_00944 hypothetical protein	86
+AAJNHDNO_00945 hypothetical protein	120
+AAJNHDNO_00948 hypothetical protein	116
+AAJNHDNO_00949 hypothetical protein	122
+AAJNHDNO_00950 hypothetical protein	65
+AAJNHDNO_00952 hypothetical protein	162
+AAJNHDNO_00955 hypothetical protein	188
+AAJNHDNO_00958 hypothetical protein	145
+AAJNHDNO_00964 hypothetical protein	177
+AAJNHDNO_00965 hypothetical protein	441
+AAJNHDNO_00966 hypothetical protein	569
+AAJNHDNO_00968 hypothetical protein	99
+AAJNHDNO_00969 hypothetical protein	96
+AAJNHDNO_00972 hypothetical protein	629
+AAJNHDNO_00973 hypothetical protein	250
+AAJNHDNO_00977 hypothetical protein	280
+AAJNHDNO_00978 hypothetical protein	182
+AAJNHDNO_00979 hypothetical protein	242
+AAJNHDNO_00981 hypothetical protein	443
+AAJNHDNO_00982 hypothetical protein	251
+AAJNHDNO_00984 hypothetical protein	89
+AAJNHDNO_00987 hypothetical protein	77
+AAJNHDNO_00990 hypothetical protein	175
+AAJNHDNO_00996 hypothetical protein	74
+AAJNHDNO_00997 hypothetical protein	235
+AAJNHDNO_00998 hypothetical protein	233
+AAJNHDNO_00999 hypothetical protein	383
+AAJNHDNO_01001 hypothetical protein	242
+AAJNHDNO_01004 hypothetical protein	952
+AAJNHDNO_01009 hypothetical protein	149
+AAJNHDNO_01010 hypothetical protein	209
+AAJNHDNO_01011 Acetyltransferase YpeA	141
+AAJNHDNO_01012 hypothetical protein	156
+AAJNHDNO_01037 5-oxoprolinase subunit B	225
+AAJNHDNO_01038 5-oxoprolinase subunit C	309
+AAJNHDNO_01048 HTH-type transcriptional regulator PuuR	187
+AAJNHDNO_01055 hypothetical protein	269
+AAJNHDNO_01056 hypothetical protein	589
+AAJNHDNO_01060 hypothetical protein	277
+AAJNHDNO_01076 hypothetical protein	131
+AAJNHDNO_01078 hypothetical protein	149
+AAJNHDNO_01103 GTP cyclohydrolase 1 type 2 	252
+AAJNHDNO_01111 hypothetical protein	320
+AAJNHDNO_01112 HTH-type transcriptional regulator CdhR	332
+AAJNHDNO_01143 hypothetical protein	153
+AAJNHDNO_01164 hypothetical protein	228
+AAJNHDNO_01167 hypothetical protein	264
+AAJNHDNO_01171 Protein InaA	234
+AAJNHDNO_01172 hypothetical protein	80
+AAJNHDNO_01181 hypothetical protein	300
+AAJNHDNO_01187 hypothetical protein	352
+AAJNHDNO_01189 hypothetical protein	87
+AAJNHDNO_01190 hypothetical protein	278
+AAJNHDNO_01203 hypothetical protein	371
+AAJNHDNO_01204 hypothetical protein	111
+AAJNHDNO_01205 hypothetical protein	196
+AAJNHDNO_01210 hypothetical protein	190
+AAJNHDNO_01212 hypothetical protein	426
+AAJNHDNO_01213 hypothetical protein	203
+AAJNHDNO_01215 hypothetical protein	102
+AAJNHDNO_01220 2,3-dehydroadipyl-CoA hydratase	257
+AAJNHDNO_01224 hypothetical protein	125
+AAJNHDNO_01229 hypothetical protein	423
+AAJNHDNO_01230 hypothetical protein	523
+AAJNHDNO_01232 hypothetical protein	249
+AAJNHDNO_01237 hypothetical protein	70
+AAJNHDNO_01253 hypothetical protein	94
+AAJNHDNO_01254 hypothetical protein	556
+AAJNHDNO_01257 hypothetical protein	154
+AAJNHDNO_01260 hypothetical protein	83
+AAJNHDNO_01263 HTH-type transcriptional regulator NimR	267
+AAJNHDNO_01265 hypothetical protein	227
+AAJNHDNO_01280 hypothetical protein	106
+AAJNHDNO_01281 hypothetical protein	238
+AAJNHDNO_01303 hypothetical protein	225
+AAJNHDNO_01304 hypothetical protein	159
+AAJNHDNO_01306 hypothetical protein	141
+AAJNHDNO_01309 hypothetical protein	301
+AAJNHDNO_01315 HTH-type transcriptional regulator GltR	284
+AAJNHDNO_01320 hypothetical protein	97
+AAJNHDNO_01323 hypothetical protein	67
+AAJNHDNO_01324 hypothetical protein	122
+AAJNHDNO_01328 hypothetical protein	83
+AAJNHDNO_01330 hypothetical protein	117
+AAJNHDNO_01333 hypothetical protein	77
+AAJNHDNO_01334 hypothetical protein	116
+AAJNHDNO_01336 hypothetical protein	166
+AAJNHDNO_01341 hypothetical protein	904
+AAJNHDNO_01342 hypothetical protein	109
+AAJNHDNO_01345 hypothetical protein	144
+AAJNHDNO_01346 hypothetical protein	605
+AAJNHDNO_01347 hypothetical protein	205
+AAJNHDNO_01348 hypothetical protein	305
+AAJNHDNO_01350 hypothetical protein	190
+AAJNHDNO_01351 hypothetical protein	152
+AAJNHDNO_01352 hypothetical protein	178
+AAJNHDNO_01353 hypothetical protein	153
+AAJNHDNO_01357 hypothetical protein	70
+AAJNHDNO_01358 hypothetical protein	153
+AAJNHDNO_01359 hypothetical protein	233
+AAJNHDNO_01360 hypothetical protein	338
+AAJNHDNO_01362 hypothetical protein	594
+AAJNHDNO_01363 hypothetical protein	351
+AAJNHDNO_01365 hypothetical protein	241
+AAJNHDNO_01368 hypothetical protein	245
+AAJNHDNO_01369 hypothetical protein	347
+AAJNHDNO_01372 hypothetical protein	271
+AAJNHDNO_01374 hypothetical protein	57
+AAJNHDNO_01379 Putative alkyl/aryl-sulfatase YjcS	658
+AAJNHDNO_01416 hypothetical protein	190
+AAJNHDNO_01429 hypothetical protein	67
+AAJNHDNO_01432 HTH-type transcriptional regulator NimR	262
+AAJNHDNO_01438 putative D-xylose utilization operon transcriptional repressor	240
+AAJNHDNO_01441 hypothetical protein	98
+AAJNHDNO_01443 hypothetical protein	107
+AAJNHDNO_01446 hypothetical protein	75
+AAJNHDNO_01447 hypothetical protein	131
+AAJNHDNO_01449 hypothetical protein	148
+AAJNHDNO_01454 Isopenicillin N epimerase	415
+AAJNHDNO_01461 hypothetical protein	362
+AAJNHDNO_01467 hypothetical protein	62
+AAJNHDNO_01470 hypothetical protein	343
+AAJNHDNO_01471 hypothetical protein	126
+AAJNHDNO_01472 hypothetical protein	278
+AAJNHDNO_01473 hypothetical protein	250
+AAJNHDNO_01474 hypothetical protein	361
+AAJNHDNO_01478 hypothetical protein	290
+AAJNHDNO_01479 hypothetical protein	226
+AAJNHDNO_01480 hypothetical protein	215
+AAJNHDNO_01481 hypothetical protein	215
+AAJNHDNO_01484 hypothetical protein	662
+AAJNHDNO_01486 hypothetical protein	161
+AAJNHDNO_01491 hypothetical protein	229
+AAJNHDNO_01492 hypothetical protein	595
+AAJNHDNO_01495 hypothetical protein	201
+AAJNHDNO_01496 hypothetical protein	116
+AAJNHDNO_01501 hypothetical protein	277
+AAJNHDNO_01504 hypothetical protein	101
+AAJNHDNO_01510 hypothetical protein	292
+AAJNHDNO_01511 hypothetical protein	227
+AAJNHDNO_01517 putative acyltransferase YihG	304
+AAJNHDNO_01524 hypothetical protein	319
+AAJNHDNO_01525 GDP-mannose-dependent alpha-mannosyltransferase	406
+AAJNHDNO_01538 hypothetical protein	339
+AAJNHDNO_01547 hypothetical protein	57
+AAJNHDNO_01548 HTH-type transcriptional regulator NimR	262
+AAJNHDNO_01551 Membrane-bound lysozyme inhibitor of C-type lysozyme	127
+AAJNHDNO_01558 hypothetical protein	88
+AAJNHDNO_01561 HTH-type transcriptional regulator GltC	298
+AAJNHDNO_01565 hypothetical protein	450
+AAJNHDNO_01578 hypothetical protein	86
+AAJNHDNO_01584 hypothetical protein	96
+AAJNHDNO_01594 hypothetical protein	176
+AAJNHDNO_01595 hypothetical protein	124
+AAJNHDNO_01597 hypothetical protein	167
+AAJNHDNO_01598 hypothetical protein	161
+AAJNHDNO_01599 hypothetical protein	171
+AAJNHDNO_01601 hypothetical protein	130
+AAJNHDNO_01602 hypothetical protein	153
+AAJNHDNO_01609 hypothetical protein	104
+AAJNHDNO_01614 hypothetical protein	141
+AAJNHDNO_01627 hypothetical protein	63
+AAJNHDNO_01631 hypothetical protein	186
+AAJNHDNO_01632 hypothetical protein	238
+AAJNHDNO_01641 hypothetical protein	64
+AAJNHDNO_01642 hypothetical protein	127
+AAJNHDNO_01645 hypothetical protein	318
+AAJNHDNO_01654 Transcriptional regulatory protein PmpR	248
+AAJNHDNO_01674 hypothetical protein	315
+AAJNHDNO_01676 hypothetical protein	365
+AAJNHDNO_01680 hypothetical protein	209
+AAJNHDNO_01681 hypothetical protein	409
+AAJNHDNO_01689 hypothetical protein	115
+AAJNHDNO_01690 hypothetical protein	460
+AAJNHDNO_01694 hypothetical protein	69
+AAJNHDNO_01698 putative hydrolase YcaC	195
+AAJNHDNO_01708 hypothetical protein	94
+AAJNHDNO_01713 hypothetical protein	219
+AAJNHDNO_01715 hypothetical protein	118
+AAJNHDNO_01716 hypothetical protein	49
+AAJNHDNO_01717 hypothetical protein	112
+AAJNHDNO_01718 hypothetical protein	103
+AAJNHDNO_01719 hypothetical protein	287
+AAJNHDNO_01720 hypothetical protein	248
+AAJNHDNO_01723 hypothetical protein	166
+AAJNHDNO_01725 hypothetical protein	251
+AAJNHDNO_01726 hypothetical protein	229
+AAJNHDNO_01730 hypothetical protein	228
+AAJNHDNO_01733 hypothetical protein	481
+AAJNHDNO_01734 hypothetical protein	201
+AAJNHDNO_01735 hypothetical protein	84
+AAJNHDNO_01736 hypothetical protein	120
+AAJNHDNO_01738 hypothetical protein	116
+AAJNHDNO_01739 hypothetical protein	235
+AAJNHDNO_01740 hypothetical protein	65
+AAJNHDNO_01742 hypothetical protein	162
+AAJNHDNO_01745 hypothetical protein	129
+AAJNHDNO_01746 hypothetical protein	145
+AAJNHDNO_01752 hypothetical protein	177
+AAJNHDNO_01753 hypothetical protein	441
+AAJNHDNO_01754 hypothetical protein	569
+AAJNHDNO_01758 hypothetical protein	629
+AAJNHDNO_01759 hypothetical protein	250
+AAJNHDNO_01765 hypothetical protein	176
+AAJNHDNO_01766 hypothetical protein	242
+AAJNHDNO_01768 hypothetical protein	441
+AAJNHDNO_01769 hypothetical protein	251
+AAJNHDNO_01771 hypothetical protein	84
+AAJNHDNO_01773 hypothetical protein	77
+AAJNHDNO_01776 hypothetical protein	175
+AAJNHDNO_01781 hypothetical protein	72
+AAJNHDNO_01782 hypothetical protein	211
+AAJNHDNO_01783 hypothetical protein	233
+AAJNHDNO_01784 hypothetical protein	228
+AAJNHDNO_01785 hypothetical protein	251
+AAJNHDNO_01787 hypothetical protein	245
+AAJNHDNO_01791 hypothetical protein	207
+AAJNHDNO_01797 hypothetical protein	137
+AAJNHDNO_01799 hypothetical protein	186
+AAJNHDNO_01826 HTH-type transcriptional repressor AllR	266
+AAJNHDNO_01830 hypothetical protein	288
+AAJNHDNO_01834 2,3-dehydroadipyl-CoA hydratase	253
+AAJNHDNO_01839 hypothetical protein	91
+AAJNHDNO_01844 hypothetical protein	251
+AAJNHDNO_01852 hypothetical protein	105
+AAJNHDNO_01854 hypothetical protein	165
+AAJNHDNO_01857 hypothetical protein	269
+AAJNHDNO_01861 Putative D-alanyl-D-alanine carboxypeptidase	381
+AAJNHDNO_01862 Peptidoglycan-associated lipoprotein	293
+AAJNHDNO_01867 hypothetical protein	80
+AAJNHDNO_01877 hypothetical protein	173
+AAJNHDNO_01878 hypothetical protein	83
+AAJNHDNO_01880 hypothetical protein	132
+AAJNHDNO_01882 HTH-type transcriptional regulator DmlR	304
+AAJNHDNO_01884 hypothetical protein	764
+AAJNHDNO_01890 hypothetical protein	105
+AAJNHDNO_01891 hypothetical protein	120
+AAJNHDNO_01921 hypothetical protein	237
+AAJNHDNO_01924 HTH-type transcriptional regulator NimR	259
+AAJNHDNO_01926 hypothetical protein	207
+AAJNHDNO_01928 DNA-binding protein	73
+AAJNHDNO_01929 hypothetical protein	63
+AAJNHDNO_01931 hypothetical protein	111
+AAJNHDNO_01934 hypothetical protein	124
+AAJNHDNO_01935 hypothetical protein	184
+AAJNHDNO_01936 Peptidoglycan-associated lipoprotein	168
+AAJNHDNO_01938 hypothetical protein	190
+AAJNHDNO_01940 hypothetical protein	106
+AAJNHDNO_01943 hypothetical protein	195
+AAJNHDNO_01949 hypothetical protein	259
+AAJNHDNO_01950 hypothetical protein	116
+AAJNHDNO_01951 hypothetical protein	137
+AAJNHDNO_01956 hypothetical protein	282
+AAJNHDNO_01958 HTH-type transcriptional regulator HdfR	300
+AAJNHDNO_01960 Phosphoserine phosphatase SerB1	217
+AAJNHDNO_01964 hypothetical protein	496
+AAJNHDNO_01966 hypothetical protein	122
+AAJNHDNO_01968 Pyocin-S1 immunity protein	87
+AAJNHDNO_01978 hypothetical protein	127
+AAJNHDNO_01985 Alginate lyase	223
+AAJNHDNO_01986 hypothetical protein	106
+AAJNHDNO_02020 putative hydrolase YcaC	205
+AAJNHDNO_02024 hypothetical protein	157
+AAJNHDNO_02034 Trans-aconitate 2-methyltransferase	248
+AAJNHDNO_02041 HTH-type transcriptional regulator SyrM 1	297
+AAJNHDNO_02044 hypothetical protein	202
+AAJNHDNO_02046 hypothetical protein	116
+AAJNHDNO_02047 HTH-type transcriptional regulator NimR	268
+AAJNHDNO_02048 hypothetical protein	62
+AAJNHDNO_02049 p-hydroxybenzoic acid efflux pump subunit AaeA	302
+AAJNHDNO_02051 hypothetical protein	85
+AAJNHDNO_02053 HTH-type transcriptional regulator NimR	260
+AAJNHDNO_02057 hypothetical protein	51
+AAJNHDNO_02060 putative HTH-type transcriptional regulator YxaF	186
+AAJNHDNO_02062 Sensor histidine kinase RcsC	858
+AAJNHDNO_02063 hypothetical protein	104
+AAJNHDNO_02064 hypothetical protein	414
+AAJNHDNO_02069 Proteinase inhibitor	131
+AAJNHDNO_02074 putative trans-3-hydroxy-L-proline dehydratase	344
+AAJNHDNO_02081 hypothetical protein	287
+AAJNHDNO_02083 hypothetical protein	300
+AAJNHDNO_02084 Hydrogen cyanide synthase subunit HcnB	417
+AAJNHDNO_02088 HTH-type transcriptional repressor GlaR	222
+AAJNHDNO_02102 hypothetical protein	186
+AAJNHDNO_02104 hypothetical protein	137
+AAJNHDNO_02108 hypothetical protein	159
+AAJNHDNO_02114 hypothetical protein	601
+AAJNHDNO_02118 hypothetical protein	416
+AAJNHDNO_02119 hypothetical protein	261
+AAJNHDNO_02121 hypothetical protein	292
+AAJNHDNO_02122 D-inositol-3-phosphate glycosyltransferase	415
+AAJNHDNO_02128 hypothetical protein	138
+AAJNHDNO_02132 PCP degradation transcriptional activation protein	306
+AAJNHDNO_02134 hypothetical protein	135
+AAJNHDNO_02137 hypothetical protein	75
+AAJNHDNO_02144 hypothetical protein	303
+AAJNHDNO_02145 hypothetical protein	397
+AAJNHDNO_02146 HTH-type transcriptional regulator GltR	290
+AAJNHDNO_02147 hypothetical protein	44
+AAJNHDNO_02155 HTH-type transcriptional regulator ArgP	297
+AAJNHDNO_02158 hypothetical protein	111
+AAJNHDNO_02160 hypothetical protein	529
+AAJNHDNO_02166 hypothetical protein	650
+AAJNHDNO_02167 hypothetical protein	237
+AAJNHDNO_02200 hypothetical protein	95
+AAJNHDNO_02201 hypothetical protein	382
+AAJNHDNO_02202 hypothetical protein	735
+AAJNHDNO_02203 hypothetical protein	72
+AAJNHDNO_02204 hypothetical protein	79
+AAJNHDNO_02206 hypothetical protein	567
+AAJNHDNO_02207 hypothetical protein	307
+AAJNHDNO_02208 hypothetical protein	318
+AAJNHDNO_02211 hypothetical protein	168
+AAJNHDNO_02212 hypothetical protein	250
+AAJNHDNO_02214 hypothetical protein	151
+AAJNHDNO_02216 hypothetical protein	108
+AAJNHDNO_02218 hypothetical protein	309
+AAJNHDNO_02219 hypothetical protein	125
+AAJNHDNO_02221 hypothetical protein	190
+AAJNHDNO_02222 hypothetical protein	416
+AAJNHDNO_02223 hypothetical protein	492
+AAJNHDNO_02224 hypothetical protein	567
+AAJNHDNO_02226 hypothetical protein	102
+AAJNHDNO_02227 hypothetical protein	129
+AAJNHDNO_02228 hypothetical protein	205
+AAJNHDNO_02230 Membrane-bound lytic murein transglycosylase F	209
+AAJNHDNO_02235 hypothetical protein	69
+AAJNHDNO_02237 hypothetical protein	162
+AAJNHDNO_02238 hypothetical protein	86
+AAJNHDNO_02239 hypothetical protein	99
+AAJNHDNO_02240 hypothetical protein	318
+AAJNHDNO_02242 hypothetical protein	389
+AAJNHDNO_02243 hypothetical protein	113
+AAJNHDNO_02244 hypothetical protein	101
+AAJNHDNO_02245 hypothetical protein	203
+AAJNHDNO_02247 hypothetical protein	207
+AAJNHDNO_02248 hypothetical protein	229
+AAJNHDNO_02249 hypothetical protein	72
+AAJNHDNO_02251 hypothetical protein	187
+AAJNHDNO_02252 hypothetical protein	119
+AAJNHDNO_02254 hypothetical protein	323
+AAJNHDNO_02255 hypothetical protein	138
+AAJNHDNO_02258 hypothetical protein	117
+AAJNHDNO_02271 hypothetical protein	147
+AAJNHDNO_02280 hypothetical protein	118
+AAJNHDNO_02282 hypothetical protein	551
+AAJNHDNO_02291 hypothetical protein	143
+AAJNHDNO_02296 hypothetical protein	86
+AAJNHDNO_02297 hypothetical protein	379
+AAJNHDNO_02301 hypothetical protein	425
+AAJNHDNO_02304 Uric acid degradation bifunctional protein	171
+AAJNHDNO_02308 hypothetical protein	259
+AAJNHDNO_02312 Glyoxylate/hydroxypyruvate reductase A	310
+AAJNHDNO_02313 Cadmium, cobalt and zinc/H(+)-K(+) antiporter	327
+AAJNHDNO_02314 Transcriptional repressor RcnR	91
+AAJNHDNO_02340 hypothetical protein	170
+AAJNHDNO_02345 hypothetical protein	138
+AAJNHDNO_02349 hypothetical protein	68
+AAJNHDNO_02359 hypothetical protein	152
+AAJNHDNO_02365 hypothetical protein	116
+AAJNHDNO_02367 hypothetical protein	249
+AAJNHDNO_02373 hypothetical protein	368
+AAJNHDNO_02376 hypothetical protein	201
+AAJNHDNO_02380 hypothetical protein	100
+AAJNHDNO_02381 hypothetical protein	281
+AAJNHDNO_02382 hypothetical protein	736
+AAJNHDNO_02383 hypothetical protein	76
+AAJNHDNO_02384 hypothetical protein	272
+AAJNHDNO_02385 hypothetical protein	568
+AAJNHDNO_02386 hypothetical protein	307
+AAJNHDNO_02387 hypothetical protein	318
+AAJNHDNO_02390 hypothetical protein	168
+AAJNHDNO_02391 hypothetical protein	250
+AAJNHDNO_02393 hypothetical protein	151
+AAJNHDNO_02395 hypothetical protein	108
+AAJNHDNO_02397 hypothetical protein	309
+AAJNHDNO_02398 hypothetical protein	125
+AAJNHDNO_02400 hypothetical protein	190
+AAJNHDNO_02401 hypothetical protein	416
+AAJNHDNO_02402 hypothetical protein	492
+AAJNHDNO_02403 hypothetical protein	567
+AAJNHDNO_02405 hypothetical protein	102
+AAJNHDNO_02406 hypothetical protein	129
+AAJNHDNO_02407 hypothetical protein	203
+AAJNHDNO_02409 Membrane-bound lytic murein transglycosylase F	209
+AAJNHDNO_02414 hypothetical protein	69
+AAJNHDNO_02417 hypothetical protein	162
+AAJNHDNO_02418 hypothetical protein	86
+AAJNHDNO_02419 hypothetical protein	99
+AAJNHDNO_02420 hypothetical protein	318
+AAJNHDNO_02422 hypothetical protein	389
+AAJNHDNO_02423 hypothetical protein	113
+AAJNHDNO_02424 hypothetical protein	101
+AAJNHDNO_02425 hypothetical protein	203
+AAJNHDNO_02427 hypothetical protein	207
+AAJNHDNO_02428 hypothetical protein	229
+AAJNHDNO_02429 hypothetical protein	72
+AAJNHDNO_02431 hypothetical protein	187
+AAJNHDNO_02432 hypothetical protein	119
+AAJNHDNO_02437 hypothetical protein	86
+AAJNHDNO_02439 hypothetical protein	397
+AAJNHDNO_02442 putative HTH-type transcriptional regulator	168
+AAJNHDNO_02451 hypothetical protein	219
+AAJNHDNO_02455 hypothetical protein	125
+AAJNHDNO_02471 hypothetical protein	155
+AAJNHDNO_02487 hypothetical protein	385
+AAJNHDNO_02498 hypothetical protein	59
+AAJNHDNO_02502 hypothetical protein	183
+AAJNHDNO_02507 hypothetical protein	202
+AAJNHDNO_02519 hypothetical protein	254
+AAJNHDNO_02520 hypothetical protein	78
+AAJNHDNO_02522 hypothetical protein	148
+AAJNHDNO_02523 hypothetical protein	410
+AAJNHDNO_02527 HTH-type transcriptional regulator NimR	260
+AAJNHDNO_02535 putative HTH-type transcriptional regulator	146
+AAJNHDNO_02543 hypothetical protein	113
+AAJNHDNO_02549 hypothetical protein	270
+AAJNHDNO_02552 hypothetical protein	268
+AAJNHDNO_02569 hypothetical protein	92
+AAJNHDNO_02572 hypothetical protein	115
+AAJNHDNO_02574 hypothetical protein	135
+AAJNHDNO_02581 hypothetical protein	211
+AAJNHDNO_02582 hypothetical protein	158
+AAJNHDNO_02593 hypothetical protein	46
+AAJNHDNO_02605 hypothetical protein	106
+AAJNHDNO_02606 Streptothricin hydrolase	198
+AAJNHDNO_02608 hypothetical protein	259
+AAJNHDNO_02615 hypothetical protein	63
+AAJNHDNO_02618 hypothetical protein	289
+AAJNHDNO_02630 Chaperone protein SycN	123
+AAJNHDNO_02634 hypothetical protein	144
+AAJNHDNO_02635 hypothetical protein	98
+AAJNHDNO_02637 Chaperone protein IpgC	168
+AAJNHDNO_02638 Protein YopB	390
+AAJNHDNO_02639 Protein YopD	295
+AAJNHDNO_02640 Exoenzyme S synthesis protein C	145
+AAJNHDNO_02658 hypothetical protein	113
+AAJNHDNO_02661 hypothetical protein	317
+AAJNHDNO_02662 putative protein	266
+AAJNHDNO_02671 hypothetical protein	332
+AAJNHDNO_02674 hypothetical protein	79
+AAJNHDNO_02675 hypothetical protein	72
+AAJNHDNO_02676 hypothetical protein	162
+AAJNHDNO_02677 hypothetical protein	168
+AAJNHDNO_02686 hypothetical protein	115
+AAJNHDNO_02692 hypothetical protein	145
+AAJNHDNO_02694 hypothetical protein	341
+AAJNHDNO_02705 hypothetical protein	82
+AAJNHDNO_02713 Serine/threonine-protein kinase PknD	555
+AAJNHDNO_02732 hypothetical protein	73
+AAJNHDNO_02735 D-aminopeptidase	614
+AAJNHDNO_02764 hypothetical protein	214
+AAJNHDNO_02765 HTH-type transcriptional regulator BenM	301
+AAJNHDNO_02768 hypothetical protein	356
+AAJNHDNO_02770 hypothetical protein	236
+AAJNHDNO_02776 hypothetical protein	165
+AAJNHDNO_02778 hypothetical protein	38
+AAJNHDNO_02781 hypothetical protein	100
+AAJNHDNO_02785 hypothetical protein	154
+AAJNHDNO_02786 hypothetical protein	172
+AAJNHDNO_02791 HTH-type transcriptional activator RhaS	334
+AAJNHDNO_02793 hypothetical protein	91
+AAJNHDNO_02794 HTH-type transcriptional regulator HdfR	287
+AAJNHDNO_02796 hypothetical protein	73
+AAJNHDNO_02802 hypothetical protein	275
+AAJNHDNO_02807 Fanconi-associated nuclease 1 	559
+AAJNHDNO_02809 hypothetical protein	69
+AAJNHDNO_02813 hypothetical protein	141
+AAJNHDNO_02815 hypothetical protein	263
+AAJNHDNO_02822 hypothetical protein	184
+AAJNHDNO_02827 hypothetical protein	183
+AAJNHDNO_02828 Acetyltransferase	177
+AAJNHDNO_02832 hypothetical protein	95
+AAJNHDNO_02833 hypothetical protein	127
+AAJNHDNO_02835 hypothetical protein	129
+AAJNHDNO_02836 hypothetical protein	245
+AAJNHDNO_02839 hypothetical protein	424
+AAJNHDNO_02840 hypothetical protein	389
+AAJNHDNO_02854 hypothetical protein	62
+AAJNHDNO_02859 hypothetical protein	226
+AAJNHDNO_02860 hypothetical protein	408
+AAJNHDNO_02867 hypothetical protein	48
+AAJNHDNO_02869 Trans-aconitate 2-methyltransferase	269
+AAJNHDNO_02877 hypothetical protein	98
+AAJNHDNO_02882 hypothetical protein	126
+AAJNHDNO_02883 hypothetical protein	376
+AAJNHDNO_02888 hypothetical protein	44
+AAJNHDNO_02898 hypothetical protein	250
+AAJNHDNO_02900 hypothetical protein	340
+AAJNHDNO_02901 hypothetical protein	189
+AAJNHDNO_02902 hypothetical protein	162
+AAJNHDNO_02907 HTH-type transcriptional regulator DmlR	311
+AAJNHDNO_02913 hypothetical protein	166
+AAJNHDNO_02914 hypothetical protein	77
+AAJNHDNO_02915 hypothetical protein	115
+AAJNHDNO_02916 hypothetical protein	79
+AAJNHDNO_02920 hypothetical protein	399
+AAJNHDNO_02921 hypothetical protein	387
+AAJNHDNO_02923 hypothetical protein	287
+AAJNHDNO_02928 Secreted effector protein PipB2	215
+AAJNHDNO_02938 1,3-propanediol dehydrogenase	387
+AAJNHDNO_02942 hypothetical protein	118
+AAJNHDNO_02957 Transcriptional regulator KdgR	267
+AAJNHDNO_02963 HTH-type transcriptional regulator CueR	134
+AAJNHDNO_02970 hypothetical protein	74
+AAJNHDNO_02976 hypothetical protein	130
+AAJNHDNO_02980 hypothetical protein	84
+AAJNHDNO_02986 hypothetical protein	486
+AAJNHDNO_02987 hypothetical protein	104
+AAJNHDNO_02995 hypothetical protein	451
+AAJNHDNO_03015 Copper resistance protein A	614
+AAJNHDNO_03016 hypothetical protein	212
+AAJNHDNO_03024 hypothetical protein	69
+AAJNHDNO_03025 HTH-type transcriptional regulator CatM	316
+AAJNHDNO_03036 hypothetical protein	218
+AAJNHDNO_03044 hypothetical protein	281
+AAJNHDNO_03056 hypothetical protein	132
+AAJNHDNO_03066 hypothetical protein	326
+AAJNHDNO_03068 hypothetical protein	79
+AAJNHDNO_03086 hypothetical protein	149
+AAJNHDNO_03087 hypothetical protein	174
+AAJNHDNO_03088 hypothetical protein	129
+AAJNHDNO_03090 hypothetical protein	71
+AAJNHDNO_03095 hypothetical protein	95
+AAJNHDNO_03097 hypothetical protein	132
+AAJNHDNO_03103 hypothetical protein	80
+AAJNHDNO_03110 hypothetical protein	245
+AAJNHDNO_03112 putative zinc-binding alcohol dehydrogenase	415
+AAJNHDNO_03115 hypothetical protein	101
+AAJNHDNO_03120 hypothetical protein	121
+AAJNHDNO_03121 hypothetical protein	365
+AAJNHDNO_03127 hypothetical protein	116
+AAJNHDNO_03128 hypothetical protein	73
+AAJNHDNO_03130 hypothetical protein	115
+AAJNHDNO_03132 Sensor histidine kinase RcsC	650
+AAJNHDNO_03138 hypothetical protein	140
+AAJNHDNO_03151 hypothetical protein	294
+AAJNHDNO_03155 hypothetical protein	158
+AAJNHDNO_03156 HTH-type transcriptional regulator GbpR	315
+AAJNHDNO_03163 Porin-like protein NicP	416
+AAJNHDNO_03166 hypothetical protein	331
+AAJNHDNO_03170 hypothetical protein	167
+AAJNHDNO_03173 hypothetical protein	118
+AAJNHDNO_03187 hypothetical protein	193
+AAJNHDNO_03190 hypothetical protein	220
+AAJNHDNO_03191 putative protein	474
+AAJNHDNO_03192 hypothetical protein	548
+AAJNHDNO_03194 Ycf48-like protein	320
+AAJNHDNO_03195 hypothetical protein	288
+AAJNHDNO_03200 hypothetical protein	191
+AAJNHDNO_03201 hypothetical protein	213
+AAJNHDNO_03205 hypothetical protein	206
+AAJNHDNO_03207 hypothetical protein	80
+AAJNHDNO_03210 hypothetical protein	242
+AAJNHDNO_03214 Protein YiiM	239
+AAJNHDNO_03215 hypothetical protein	198
+AAJNHDNO_03237 hypothetical protein	272
+AAJNHDNO_03240 hypothetical protein	328
+AAJNHDNO_03241 hypothetical protein	291
+AAJNHDNO_03243 Cytochrome c4	215
+AAJNHDNO_03244 HTH-type transcriptional regulator PgrR	312
+AAJNHDNO_03253 hypothetical protein	298
+AAJNHDNO_03261 hypothetical protein	125
+AAJNHDNO_03268 hypothetical protein	314
+AAJNHDNO_03269 hypothetical protein	142
+AAJNHDNO_03272 hypothetical protein	220
+AAJNHDNO_03274 hypothetical protein	211
+AAJNHDNO_03293 Cysteine/O-acetylserine efflux protein	205
+AAJNHDNO_03298 hypothetical protein	52
+AAJNHDNO_03299 HTH-type transcriptional regulator SutR	210
+AAJNHDNO_03300 hypothetical protein	167
+AAJNHDNO_03301 Purine ribonucleoside efflux pump NepI	417
+AAJNHDNO_03302 Esterase EstB	391
+AAJNHDNO_03312 Dibenzothiophene desulfurization enzyme C	411
+AAJNHDNO_03317 hypothetical protein	355
+AAJNHDNO_03319 HTH-type transcriptional regulator MtrA	301
+AAJNHDNO_03333 Dibenzothiophene desulfurization enzyme C	411
+AAJNHDNO_03334 Dibenzothiophene desulfurization enzyme C	407
+AAJNHDNO_03342 putative FMNH2-dependent monooxygenase SfnC	394
+AAJNHDNO_03345 hypothetical protein	88
+AAJNHDNO_03360 hypothetical protein	355
+AAJNHDNO_03362 hypothetical protein	178
+AAJNHDNO_03363 hypothetical protein	131
+AAJNHDNO_03368 hypothetical protein	78
+AAJNHDNO_03369 hypothetical protein	80
+AAJNHDNO_03380 putative efflux pump outer membrane protein TtgC	472
+AAJNHDNO_03385 Phosphoribosylglycinamide formyltransferase	275
+AAJNHDNO_03388 D-alanine--D-alanyl carrier protein ligase	4367
+AAJNHDNO_03389 Linear gramicidin synthase subunit D	1123
+AAJNHDNO_03390 Linear gramicidin synthase subunit B	3680
+AAJNHDNO_03393 hypothetical protein	179
+AAJNHDNO_03394 hypothetical protein	109
+AAJNHDNO_03395 hypothetical protein	186
+AAJNHDNO_03410 hypothetical protein	306
+AAJNHDNO_03412 hypothetical protein	170
+AAJNHDNO_03413 Linear gramicidin synthase subunit B	4342
+AAJNHDNO_03414 Linear gramicidin dehydrogenase LgrE	254
+AAJNHDNO_03419 p-hydroxybenzoic acid efflux pump subunit AaeA	334
+AAJNHDNO_03420 Protein AaeX	69
+AAJNHDNO_03423 putative protein	89
+AAJNHDNO_03426 hypothetical protein	144
+AAJNHDNO_03430 hypothetical protein	320
+AAJNHDNO_03431 hypothetical protein	234
+AAJNHDNO_03445 hypothetical protein	132
+AAJNHDNO_03447 hypothetical protein	201
+AAJNHDNO_03448 hypothetical protein	117
+AAJNHDNO_03452 hypothetical protein	174
+AAJNHDNO_03453 hypothetical protein	382
+AAJNHDNO_03462 hypothetical protein	303
+AAJNHDNO_03470 Cytochrome c4	217
+AAJNHDNO_03471 hypothetical protein	333
+AAJNHDNO_03474 hypothetical protein	64
+AAJNHDNO_03475 hypothetical protein	90
+AAJNHDNO_03476 HTH-type transcriptional regulator NimR	254
+AAJNHDNO_03484 hypothetical protein	171
+AAJNHDNO_03485 HTH-type transcriptional regulator YofA	292
+AAJNHDNO_03487 Guanine deaminase	151
+AAJNHDNO_03489 hypothetical protein	55
+AAJNHDNO_03490 hypothetical protein	446
+AAJNHDNO_03491 hypothetical protein	417
+AAJNHDNO_03492 hypothetical protein	205
+AAJNHDNO_03527 hypothetical protein	150
+AAJNHDNO_03533 hypothetical protein	210
+AAJNHDNO_03539 hypothetical protein	63
+AAJNHDNO_03541 PCP degradation transcriptional activation protein	310
+AAJNHDNO_03546 hypothetical protein	361
+AAJNHDNO_03550 hypothetical protein	180
+AAJNHDNO_03552 hypothetical protein	95
+AAJNHDNO_03558 hypothetical protein	135
+AAJNHDNO_03572 hypothetical protein	346
+AAJNHDNO_03584 HTH-type transcriptional regulator MalT	268
+AAJNHDNO_03586 hypothetical protein	190
+AAJNHDNO_03596 Thiosulfate sulfurtransferase GlpE	527
+AAJNHDNO_03597 hypothetical protein	214
+AAJNHDNO_03599 hypothetical protein	162
+AAJNHDNO_03600 hypothetical protein	87
+AAJNHDNO_03601 hypothetical protein	87
+AAJNHDNO_03602 hypothetical protein	122
+AAJNHDNO_03604 hypothetical protein	181
+AAJNHDNO_03605 hypothetical protein	190
+AAJNHDNO_03641 hypothetical protein	206
+AAJNHDNO_03671 hypothetical protein	297
+AAJNHDNO_03672 hypothetical protein	88
+AAJNHDNO_03674 hypothetical protein	85
+AAJNHDNO_03679 hypothetical protein	105
+AAJNHDNO_03680 hypothetical protein	194
+AAJNHDNO_03681 hypothetical protein	147
+AAJNHDNO_03690 Trans-aconitate 2-methyltransferase	250
+AAJNHDNO_03692 HTH-type transcriptional regulator DmlR	309
+AAJNHDNO_03695 hypothetical protein	63
+AAJNHDNO_03703 HTH-type transcriptional repressor NsrR	174
+AAJNHDNO_03706 hypothetical protein	367
+AAJNHDNO_03708 hypothetical protein	93
+AAJNHDNO_03709 putative hydrolase YcaC	226
+AAJNHDNO_03713 hypothetical protein	158
+AAJNHDNO_03714 hypothetical protein	77
+AAJNHDNO_03724 putative HTH-type transcriptional regulator	159
+AAJNHDNO_03729 hypothetical protein	162
+AAJNHDNO_03730 hypothetical protein	228
+AAJNHDNO_03731 hypothetical protein	212
+AAJNHDNO_03735 hypothetical protein	179
+AAJNHDNO_03740 hypothetical protein	449
+AAJNHDNO_03750 hypothetical protein	723
+AAJNHDNO_03754 hypothetical protein	215
+AAJNHDNO_03755 hypothetical protein	214
+AAJNHDNO_03757 hypothetical protein	291
+AAJNHDNO_03759 hypothetical protein	235
+AAJNHDNO_03762 hypothetical protein	194
+AAJNHDNO_03768 hypothetical protein	334
+AAJNHDNO_03769 hypothetical protein	255
+AAJNHDNO_03771 hypothetical protein	299
+AAJNHDNO_03772 Clamp-binding protein CrfC	799
+AAJNHDNO_03776 hypothetical protein	207
+AAJNHDNO_03778 hypothetical protein	332
+AAJNHDNO_03780 ATP-dependent zinc metalloprotease FtsH	715
+AAJNHDNO_03781 hypothetical protein	178
+AAJNHDNO_03785 hypothetical protein	220
+AAJNHDNO_03787 hypothetical protein	559
+AAJNHDNO_03793 hypothetical protein	481
+AAJNHDNO_03794 hypothetical protein	1473
+AAJNHDNO_03808 2'-hydroxybiphenyl-2-sulfinate desulfinase	351
+AAJNHDNO_03813 hypothetical protein	322
+AAJNHDNO_03817 hypothetical protein	334
+AAJNHDNO_03818 hypothetical protein	307
+AAJNHDNO_03825 hypothetical protein	327
+AAJNHDNO_03829 hypothetical protein	80
+AAJNHDNO_03831 hypothetical protein	352
+AAJNHDNO_03833 hypothetical protein	245
+AAJNHDNO_03834 hypothetical protein	499
+AAJNHDNO_03850 hypothetical protein	174
+AAJNHDNO_03867 hypothetical protein	73
+AAJNHDNO_03870 hypothetical protein	76
+AAJNHDNO_03871 hypothetical protein	77
+AAJNHDNO_03873 hypothetical protein	105
+AAJNHDNO_03875 hypothetical protein	124
+AAJNHDNO_03877 hypothetical protein	65
+AAJNHDNO_03878 hypothetical protein	76
+AAJNHDNO_03880 hypothetical protein	128
+AAJNHDNO_03881 hypothetical protein	147
+AAJNHDNO_03882 HTH-type transcriptional regulator YhaJ	295
+AAJNHDNO_03883 hypothetical protein	104
+AAJNHDNO_03885 hypothetical protein	123
+AAJNHDNO_03893 hypothetical protein	193
+AAJNHDNO_03895 hypothetical protein	160
+AAJNHDNO_03898 hypothetical protein	88
+AAJNHDNO_03900 hypothetical protein	73
+AAJNHDNO_03901 hypothetical protein	56
+AAJNHDNO_03902 hypothetical protein	168
+AAJNHDNO_03903 hypothetical protein	195
+AAJNHDNO_03909 hypothetical protein	132
+AAJNHDNO_03912 hypothetical protein	219
+AAJNHDNO_03913 hypothetical protein	599
+AAJNHDNO_03914 hypothetical protein	185
+AAJNHDNO_03919 hypothetical protein	359
+AAJNHDNO_03921 hypothetical protein	125
+AAJNHDNO_03922 hypothetical protein	643
+AAJNHDNO_03924 hypothetical protein	344
+AAJNHDNO_03925 hypothetical protein	218
+AAJNHDNO_03927 Isochorismatase family protein YecD	197
+AAJNHDNO_03932 hypothetical protein	99
+AAJNHDNO_03938 hypothetical protein	87
+AAJNHDNO_03947 hypothetical protein	223
+AAJNHDNO_03950 hypothetical protein	136
+AAJNHDNO_03955 hypothetical protein	257
+AAJNHDNO_03960 hypothetical protein	163
+AAJNHDNO_03964 hypothetical protein	150
+AAJNHDNO_03966 hypothetical protein	375
+AAJNHDNO_03969 PCP degradation transcriptional activation protein	310
+AAJNHDNO_03980 hypothetical protein	77
+AAJNHDNO_03983 HTH-type transcriptional regulator DmlR	318
+AAJNHDNO_03984 Organic hydroperoxide resistance transcriptional regulator	151
+AAJNHDNO_03987 hypothetical protein	376
+AAJNHDNO_03991 hypothetical protein	92
+AAJNHDNO_03996 hypothetical protein	105
+AAJNHDNO_03999 Lipase chaperone	340
+AAJNHDNO_04005 hypothetical protein	119
+AAJNHDNO_04009 hypothetical protein	256
+AAJNHDNO_04011 hypothetical protein	317
+AAJNHDNO_04018 hypothetical protein	303
+AAJNHDNO_04023 hypothetical protein	600
+AAJNHDNO_04031 hypothetical protein	140
+AAJNHDNO_04032 hypothetical protein	254
+AAJNHDNO_04047 putative manganese efflux pump MntP	189
+AAJNHDNO_04056 hypothetical protein	85
+AAJNHDNO_04065 hypothetical protein	502
+AAJNHDNO_04070 Purine efflux pump PbuE	392
+AAJNHDNO_04075 hypothetical protein	82
+AAJNHDNO_04084 hypothetical protein	60
+AAJNHDNO_04094 hypothetical protein	210
+AAJNHDNO_04097 Cysteine desulfurase	377
+AAJNHDNO_04129 hypothetical protein	102
+AAJNHDNO_04143 hypothetical protein	209
+AAJNHDNO_04146 hypothetical protein	233
+AAJNHDNO_04149 hypothetical protein	77
+AAJNHDNO_04150 hypothetical protein	172
+AAJNHDNO_04152 hypothetical protein	124
+AAJNHDNO_04155 hypothetical protein	267
+AAJNHDNO_04156 hypothetical protein	144
+AAJNHDNO_04158 hypothetical protein	228
+AAJNHDNO_04161 hypothetical protein	128
+AAJNHDNO_04167 HTH-type transcriptional activator RhaS	343
+AAJNHDNO_04171 hypothetical protein	73
+AAJNHDNO_04174 hypothetical protein	79
+AAJNHDNO_04175 putative HTH-type transcriptional regulator YxaF	185
+AAJNHDNO_04183 hypothetical protein	107
+AAJNHDNO_04192 hypothetical protein	93
+AAJNHDNO_04193 hypothetical protein	293
+AAJNHDNO_04198 hypothetical protein	76
+AAJNHDNO_04207 hypothetical protein	328
+AAJNHDNO_04208 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB	190
+AAJNHDNO_04211 hypothetical protein	256
+AAJNHDNO_04214 hypothetical protein	164
+AAJNHDNO_04217 hypothetical protein	543
+AAJNHDNO_04222 Ycf48-like protein	365
+AAJNHDNO_04223 putative protein	455
+AAJNHDNO_04224 hypothetical protein	654
+AAJNHDNO_04235 hypothetical protein	372
+AAJNHDNO_04272 hypothetical protein	267
+AAJNHDNO_04278 hypothetical protein	180
+AAJNHDNO_04316 Pectin degradation repressor protein KdgR	242
+AAJNHDNO_04320 hypothetical protein	125
+AAJNHDNO_04339 hypothetical protein	176
+AAJNHDNO_04346 hypothetical protein	119
+AAJNHDNO_04350 hypothetical protein	159
+AAJNHDNO_04351 Putative NAD(P)H nitroreductase YdjA	186
+AAJNHDNO_04359 hypothetical protein	105
+AAJNHDNO_04361 GDP-mannose-dependent alpha-mannosyltransferase	351
+AAJNHDNO_04367 hypothetical protein	105
+AAJNHDNO_04372 hypothetical protein	88
+AAJNHDNO_04398 putative phosphatase	216
+AAJNHDNO_04403 hypothetical protein	119
+AAJNHDNO_04417 hypothetical protein	189
+AAJNHDNO_04420 hypothetical protein	127
+AAJNHDNO_04421 hypothetical protein	95
+AAJNHDNO_04423 hypothetical protein	140
+AAJNHDNO_04425 hypothetical protein	99
+AAJNHDNO_04428 hypothetical protein	196
+AAJNHDNO_04431 hypothetical protein	104
+AAJNHDNO_04437 hypothetical protein	137
+AAJNHDNO_04438 hypothetical protein	684
+AAJNHDNO_04439 hypothetical protein	271
+AAJNHDNO_04448 (R)-specific enoyl-CoA hydratase	156
+AAJNHDNO_04451 hypothetical protein	67
+AAJNHDNO_04453 hypothetical protein	37
+AAJNHDNO_04454 hypothetical protein	53
+AAJNHDNO_04456 hypothetical protein	102
+AAJNHDNO_04466 hypothetical protein	242
+AAJNHDNO_04467 hypothetical protein	166
+AAJNHDNO_04470 PCP degradation transcriptional activation protein	304
+AAJNHDNO_04478 hypothetical protein	441
+AAJNHDNO_04484 hypothetical protein	270
+AAJNHDNO_04491 hypothetical protein	338
+AAJNHDNO_04507 hypothetical protein	292
+AAJNHDNO_04516 hypothetical protein	112
+AAJNHDNO_04518 hypothetical protein	77
+AAJNHDNO_04520 hypothetical protein	382
+AAJNHDNO_04539 hypothetical protein	108
+AAJNHDNO_04553 hypothetical protein	113
+AAJNHDNO_04558 hypothetical protein	95
+AAJNHDNO_04567 hypothetical protein	89
+AAJNHDNO_04577 putative protein	456
+AAJNHDNO_04578 hypothetical protein	585
+AAJNHDNO_04584 hypothetical protein	97
+AAJNHDNO_04586 L-fuculose phosphate aldolase	259
+AAJNHDNO_04596 hypothetical protein	112
+AAJNHDNO_04606 Peroxiredoxin	212
+AAJNHDNO_04607 hypothetical protein	69
+AAJNHDNO_04611 Polyphosphate:AMP phosphotransferase	496
+AAJNHDNO_04614 hypothetical protein	157
+AAJNHDNO_04620 hypothetical protein	441
+AAJNHDNO_04625 putative protein YyaP	180
+AAJNHDNO_04630 Biotin transporter	286
+AAJNHDNO_04640 hypothetical protein	408
+AAJNHDNO_04644 hypothetical protein	232
+AAJNHDNO_04652 hypothetical protein	59
+AAJNHDNO_04653 hypothetical protein	405
+AAJNHDNO_04656 hypothetical protein	339
+AAJNHDNO_04657 hypothetical protein	72
+AAJNHDNO_04658 hypothetical protein	105
+AAJNHDNO_04664 Pca regulon regulatory protein	277
+AAJNHDNO_04671 Ubiquinone biosynthesis O-methyltransferase, mitochondrial	357
+AAJNHDNO_04724 HTH-type transcriptional regulator DmlR	306
+AAJNHDNO_04731 hypothetical protein	58
+AAJNHDNO_04736 hypothetical protein	140
+AAJNHDNO_04753 HTH-type transcriptional regulator BenM	295
+AAJNHDNO_04770 hypothetical protein	136
+AAJNHDNO_04820 hypothetical protein	119
+AAJNHDNO_04829 hypothetical protein	615
+AAJNHDNO_04834 hypothetical protein	226
+AAJNHDNO_04838 hypothetical protein	425
+AAJNHDNO_04840 hypothetical protein	231
+AAJNHDNO_04842 hypothetical protein	288
+AAJNHDNO_04843 hypothetical protein	115
+AAJNHDNO_04847 hypothetical protein	114
+AAJNHDNO_04852 O-acetyl-ADP-ribose deacetylase	173
+AAJNHDNO_04853 hypothetical protein	107
+AAJNHDNO_04855 putative protein	248
+AAJNHDNO_04856 hypothetical protein	431
+AAJNHDNO_04857 hypothetical protein	183
+AAJNHDNO_04858 hypothetical protein	237
+AAJNHDNO_04870 HTH-type transcriptional regulator HdfR	301
+AAJNHDNO_04874 hypothetical protein	267
+AAJNHDNO_04878 hypothetical protein	141
+AAJNHDNO_04880 hypothetical protein	116
+AAJNHDNO_04884 putative protein YaeQ	179
+AAJNHDNO_04885 hypothetical protein	230
+AAJNHDNO_04888 hypothetical protein	213
+AAJNHDNO_04892 hypothetical protein	94
+AAJNHDNO_04914 putative Nudix hydrolase NudL	203
+AAJNHDNO_04915 NADH pyrophosphatase	184
+AAJNHDNO_04916 hypothetical protein	166
+AAJNHDNO_04923 hypothetical protein	92
+AAJNHDNO_04934 hypothetical protein	385
+AAJNHDNO_04937 Hca operon transcriptional activator HcaR	302
+AAJNHDNO_04940 hypothetical protein	346
+AAJNHDNO_04941 hypothetical protein	164
+AAJNHDNO_04946 hypothetical protein	190
+AAJNHDNO_04948 hypothetical protein	129
+AAJNHDNO_04953 hypothetical protein	153
+AAJNHDNO_04955 hypothetical protein	110
+AAJNHDNO_04956 hypothetical protein	151
+AAJNHDNO_04958 hypothetical protein	195
+AAJNHDNO_04970 Protein IscX	66
+AAJNHDNO_04993 HTH-type transcriptional regulator NimR	270
+AAJNHDNO_04996 hypothetical protein	122
+AAJNHDNO_04998 hypothetical protein	137
+AAJNHDNO_05005 YopE regulator	116
+AAJNHDNO_05006 hypothetical protein	40
+AAJNHDNO_05010 hypothetical protein	156
+AAJNHDNO_05013 hypothetical protein	303
+AAJNHDNO_05014 hypothetical protein	250
+AAJNHDNO_05018 hypothetical protein	233
+AAJNHDNO_05039 hypothetical protein	131
+AAJNHDNO_05040 hypothetical protein	154
+AAJNHDNO_05041 hypothetical protein	249
+AAJNHDNO_05043 hypothetical protein	128
+AAJNHDNO_05046 hypothetical protein	81
+AAJNHDNO_05053 p-hydroxybenzoic acid efflux pump subunit AaeA	302
+AAJNHDNO_05054 Protein AaeX	66
+AAJNHDNO_05059 putative amino-acid metabolite efflux pump	300
+AAJNHDNO_05064 Inhibitor of vertebrate lysozyme	153
+AAJNHDNO_05066 hypothetical protein	131
+AAJNHDNO_05067 hypothetical protein	175
+AAJNHDNO_05068 hypothetical protein	127
+AAJNHDNO_05070 hypothetical protein	239
+AAJNHDNO_05073 Ubiquinone biosynthesis accessory factor UbiJ	171
+AAJNHDNO_05074 hypothetical protein	296
+AAJNHDNO_05084 putative protein	455
+AAJNHDNO_05085 hypothetical protein	641
+AAJNHDNO_05089 HTH-type transcriptional regulator NimR	262
+AAJNHDNO_05094 Sigma54-dependent transcriptional activator SfnR	324
+AAJNHDNO_05101 putative FMNH2-dependent monooxygenase SfnC	306
+AAJNHDNO_05109 Regulator of RpoS	392
+AAJNHDNO_05115 Streptothricin hydrolase	193
+AAJNHDNO_05119 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase	278
+AAJNHDNO_05120 hypothetical protein	379
+AAJNHDNO_05122 hypothetical protein	135
+AAJNHDNO_05124 hypothetical protein	138
+AAJNHDNO_05126 hypothetical protein	234
+AAJNHDNO_05131 hypothetical protein	361
+AAJNHDNO_05132 hypothetical protein	188
+AAJNHDNO_05134 Putative esterase	143
+AAJNHDNO_05142 hypothetical protein	110
+AAJNHDNO_05149 hypothetical protein	143
+AAJNHDNO_05156 Epoxide hydrolase A	296
+AAJNHDNO_05177 putative enoyl-CoA hydratase 1	151
+AAJNHDNO_05178 hypothetical protein	579
+AAJNHDNO_05180 hypothetical protein	97
+AAJNHDNO_05201 hypothetical protein	600
+AAJNHDNO_05202 hypothetical protein	335
+AAJNHDNO_05208 hypothetical protein	139
+AAJNHDNO_05221 Release factor glutamine methyltransferase	220
+AAJNHDNO_05223 hypothetical protein	118
+AAJNHDNO_05224 hypothetical protein	190
+AAJNHDNO_05233 hypothetical protein	192
+AAJNHDNO_05238 hypothetical protein	124
+AAJNHDNO_05249 Protein MoaF	274
+AAJNHDNO_05257 Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1	370
+AAJNHDNO_05266 hypothetical protein	86
+AAJNHDNO_05269 hypothetical protein	209
+AAJNHDNO_05273 hypothetical protein	155
+AAJNHDNO_05274 Cyclic di-GMP phosphodiesterase	414
+AAJNHDNO_05278 hypothetical protein	132
+AAJNHDNO_05279 Sensor histidine kinase RcsC	1417
+AAJNHDNO_05284 Bacteriophytochrome	728
+AAJNHDNO_05296 hypothetical protein	162
+AAJNHDNO_05301 hypothetical protein	80
+AAJNHDNO_05302 HTH-type transcriptional regulator FarR	140
+AAJNHDNO_05306 hypothetical protein	99
+AAJNHDNO_05322 Nitrilotriacetate monooxygenase component A	435
+AAJNHDNO_05324 hypothetical protein	272
+AAJNHDNO_05331 hypothetical protein	108
+AAJNHDNO_05333 hypothetical protein	152
+AAJNHDNO_05336 Putative HTH-type transcriptional regulator YwnA	142
+AAJNHDNO_05337 hypothetical protein	295
+AAJNHDNO_05345 hypothetical protein	247
+AAJNHDNO_05348 hypothetical protein	239
+AAJNHDNO_05351 HTH-type transcriptional regulator CdhR	340
+AAJNHDNO_05352 HTH-type transcriptional repressor RspR	242
+AAJNHDNO_05363 Response regulator protein TodT	214
+AAJNHDNO_05364 Adaptive-response sensory-kinase SasA	758
+AAJNHDNO_05370 HTH-type transcriptional regulator GltR	284
+AAJNHDNO_05387 hypothetical protein	93
+AAJNHDNO_05449 hypothetical protein	234
+AAJNHDNO_05465 hypothetical protein	259
+AAJNHDNO_05468 hypothetical protein	115
+AAJNHDNO_05471 hypothetical protein	295
+AAJNHDNO_05480 hypothetical protein	149
+AAJNHDNO_05488 Aspartate aminotransferase	390
+AAJNHDNO_05491 hypothetical protein	58
+AAJNHDNO_05501 hypothetical protein	293
+AAJNHDNO_05503 hypothetical protein	97
+AAJNHDNO_05505 hypothetical protein	65
+AAJNHDNO_05522 hypothetical protein	135
+AAJNHDNO_05535 Ribosome association toxin RatA	144
+AAJNHDNO_05543 hypothetical protein	286
+AAJNHDNO_05552 putative inner membrane transporter YedA	296
+AAJNHDNO_05557 hypothetical protein	285
+AAJNHDNO_05566 hypothetical protein	242
+AAJNHDNO_05569 hypothetical protein	146
+AAJNHDNO_05572 hypothetical protein	275
+AAJNHDNO_05574 hypothetical protein	71
+AAJNHDNO_05575 hypothetical protein	174
+AAJNHDNO_05576 hypothetical protein	80
+AAJNHDNO_05577 hypothetical protein	144
+AAJNHDNO_05579 hypothetical protein	83
+AAJNHDNO_05581 hypothetical protein	380
+AAJNHDNO_05585 hypothetical protein	430
+AAJNHDNO_05588 hypothetical protein	205
+AAJNHDNO_05602 hypothetical protein	411
+AAJNHDNO_05611 hypothetical protein	258
+AAJNHDNO_05618 hypothetical protein	179
+AAJNHDNO_05623 Pseudopaline synthase	433
+AAJNHDNO_05630 hypothetical protein	356
+AAJNHDNO_05638 hypothetical protein	288
+AAJNHDNO_05663 hypothetical protein	138
+AAJNHDNO_05673 hypothetical protein	207
+AAJNHDNO_05687 Porin-like protein NicP	417
+AAJNHDNO_05691 Nodulation protein D 2	298
+AAJNHDNO_05715 putative protein	311
+AAJNHDNO_05749 Cyclic-di-GMP receptor FimW	607
+AAJNHDNO_05757 hypothetical protein	337
+AAJNHDNO_05763 hypothetical protein	248
+AAJNHDNO_05778 Metal reductase	648
+AAJNHDNO_05779 HTH-type transcriptional regulator PuuR	199
+AAJNHDNO_05781 HTH-type transcriptional regulator YhaJ	294
+AAJNHDNO_05785 hypothetical protein	306
+AAJNHDNO_05787 Acryloyl-CoA reductase (NADH)	427
+AAJNHDNO_05790 hypothetical protein	216
+AAJNHDNO_05791 hypothetical protein	401
+AAJNHDNO_05794 hypothetical protein	472
+AAJNHDNO_05798 hypothetical protein	492
+AAJNHDNO_05821 HTH-type transcriptional regulator BenM	301
+AAJNHDNO_05823 hypothetical protein	309
+AAJNHDNO_05825 hypothetical protein	326
+AAJNHDNO_05851 hypothetical protein	205
+AAJNHDNO_05852 hypothetical protein	314
+AAJNHDNO_05853 hypothetical protein	138
+AAJNHDNO_05854 hypothetical protein	91
+AAJNHDNO_05865 hypothetical protein	153
+AAJNHDNO_05904 hypothetical protein	464
+AAJNHDNO_05906 hypothetical protein	194
+AAJNHDNO_05907 hypothetical protein	97
+AAJNHDNO_05913 hypothetical protein	173
+AAJNHDNO_05914 hypothetical protein	190
+AAJNHDNO_05917 hypothetical protein	116
+AAJNHDNO_05924 Murein hydrolase activator EnvC	478
+AAJNHDNO_05927 hypothetical protein	493
+AAJNHDNO_05933 hypothetical protein	86
+AAJNHDNO_05937 hypothetical protein	78
+AAJNHDNO_05941 putative Fe(2+)-trafficking protein	90
+AAJNHDNO_05950 hypothetical protein	406
+AAJNHDNO_05957 hypothetical protein	341
+AAJNHDNO_05962 hypothetical protein	188
+AAJNHDNO_05989 hypothetical protein	171
+AAJNHDNO_05997 Nodulation protein D 2	302
+AAJNHDNO_05998 Protein DrgA	200
+AAJNHDNO_06020 hypothetical protein	109
+AAJNHDNO_06026 HTH-type transcriptional regulator BenM	304
+AAJNHDNO_06028 hypothetical protein	273
+AAJNHDNO_06037 hypothetical protein	43
+AAJNHDNO_06038 hypothetical protein	152
+AAJNHDNO_06047 hypothetical protein	662
+AAJNHDNO_06055 hypothetical protein	157
+AAJNHDNO_06074 hypothetical protein	207
+AAJNHDNO_06075 hypothetical protein	1089
+AAJNHDNO_06079 hypothetical protein	91
+AAJNHDNO_06081 hypothetical protein	77
+AAJNHDNO_06086 Lipopeptide	46
+AAJNHDNO_06095 Transcriptional regulator SutA	105
+AAJNHDNO_06096 hypothetical protein	141
+AAJNHDNO_06109 butyrate:acetyl-CoA coenzyme A-transferase	642
+AAJNHDNO_06116 hypothetical protein	63
+AAJNHDNO_06117 hypothetical protein	855
+AAJNHDNO_06128 hypothetical protein	182
+AAJNHDNO_06134 putative HTH-type transcriptional regulator	356
+AAJNHDNO_06136 hypothetical protein	425
+AAJNHDNO_06140 hypothetical protein	205
+AAJNHDNO_06150 hypothetical protein	243
+AAJNHDNO_06157 hypothetical protein	130
+AAJNHDNO_06169 hypothetical protein	127
+AAJNHDNO_06196 hypothetical protein	82
+AAJNHDNO_06198 hypothetical protein	355
+AAJNHDNO_06217 hypothetical protein	189
+AAJNHDNO_06219 hypothetical protein	134
+AAJNHDNO_06221 hypothetical protein	77
+AAJNHDNO_06223 hypothetical protein	58
+AAJNHDNO_06228 hypothetical protein	813
+AAJNHDNO_06230 hypothetical protein	213
+AAJNHDNO_06248 hypothetical protein	149
+AAJNHDNO_06249 hypothetical protein	224
+AAJNHDNO_06254 hypothetical protein	71
+AAJNHDNO_06264 hypothetical protein	67
+AAJNHDNO_06273 hypothetical protein	542
+AAJNHDNO_06276 O-acetyltransferase OatA	380
+AAJNHDNO_06277 Ubiquinone biosynthesis O-methyltransferase, mitochondrial	278
+AAJNHDNO_06278 hypothetical protein	70
+AAJNHDNO_06280 hypothetical protein	97
+AAJNHDNO_06281 hypothetical protein	111
+AAJNHDNO_06282 hypothetical protein	652
+AAJNHDNO_06285 hypothetical protein	120
+AAJNHDNO_06298 Inhibitor of vertebrate lysozyme	155
+AAJNHDNO_06305 hypothetical protein	292
+AAJNHDNO_06307 Cytochrome c4	201
+AAJNHDNO_06311 hypothetical protein	96
+AAJNHDNO_06319 hypothetical protein	263
+AAJNHDNO_06323 hypothetical protein	285
+AAJNHDNO_06324 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB	217
+AAJNHDNO_06330 2-(acetamidomethylene)succinate hydrolase	292
+AAJNHDNO_06332 hypothetical protein	166
+AAJNHDNO_06334 hypothetical protein	400
+AAJNHDNO_06338 hypothetical protein	247
+AAJNHDNO_06343 HTH-type transcriptional regulator McbR	226
+AAJNHDNO_06345 hypothetical protein	133
+AAJNHDNO_06351 hypothetical protein	122
+AAJNHDNO_06352 hypothetical protein	213
+AAJNHDNO_06355 hypothetical protein	138
+AAJNHDNO_06361 hypothetical protein	132
+AAJNHDNO_06362 hypothetical protein	674
+AAJNHDNO_06365 hypothetical protein	207
+AAJNHDNO_06366 hypothetical protein	244
+AAJNHDNO_06369 hypothetical protein	476
+AAJNHDNO_06391 hypothetical protein	70
+AAJNHDNO_06408 hypothetical protein	417
+AAJNHDNO_06431 Tn3 family transposase TnAs1	988
+AAJNHDNO_06435 hypothetical protein	396
+AAJNHDNO_06436 hypothetical protein	219
+AAJNHDNO_06445 hypothetical protein	603
+AAJNHDNO_06476 hypothetical protein	269
+AAJNHDNO_06478 hypothetical protein	254
+AAJNHDNO_06479 hypothetical protein	100
+AAJNHDNO_06487 hypothetical protein	149
+AAJNHDNO_06492 Oligoribonuclease	189
+AAJNHDNO_06497 hypothetical protein	126
+AAJNHDNO_06511 hypothetical protein	251
+AAJNHDNO_06512 hypothetical protein	365
+AAJNHDNO_06519 hypothetical protein	633
+AAJNHDNO_06525 hypothetical protein	125
+AAJNHDNO_06529 hypothetical protein	70
+AAJNHDNO_06532 hypothetical protein	140
+AAJNHDNO_06534 hypothetical protein	130
+AAJNHDNO_06545 hypothetical protein	53
+AAJNHDNO_06547 hypothetical protein	73
+AAJNHDNO_06549 hypothetical protein	315
+AAJNHDNO_06552 hypothetical protein	209
+AAJNHDNO_06553 hypothetical protein	149
+AAJNHDNO_06555 hypothetical protein	885
+AAJNHDNO_06556 hypothetical protein	74
+AAJNHDNO_06558 hypothetical protein	138
+AAJNHDNO_06559 hypothetical protein	107
+AAJNHDNO_06569 hypothetical protein	141
+AAJNHDNO_06574 hypothetical protein	85
+AAJNHDNO_06591 hypothetical protein	142
+AAJNHDNO_06592 hypothetical protein	146
+AAJNHDNO_06593 hypothetical protein	237
+AAJNHDNO_06598 hypothetical protein	116
+AAJNHDNO_06600 hypothetical protein	77
+AAJNHDNO_06601 hypothetical protein	198
+AAJNHDNO_06611 hypothetical protein	284
+AAJNHDNO_06615 hypothetical protein	126
+AAJNHDNO_06625 hypothetical protein	128
+AAJNHDNO_06627 hypothetical protein	220
+AAJNHDNO_06630 hypothetical protein	52
+AAJNHDNO_06631 hypothetical protein	91
+AAJNHDNO_06648 hypothetical protein	395
+AAJNHDNO_06656 hypothetical protein	258
+AAJNHDNO_06659 hypothetical protein	70
+AAJNHDNO_06661 hypothetical protein	230
+AAJNHDNO_06702 hypothetical protein	370
+AAJNHDNO_06735 hypothetical protein	896
+AAJNHDNO_06736 RecBCD enzyme subunit RecB	1114
+AAJNHDNO_06747 hypothetical protein	108
+AAJNHDNO_06748 hypothetical protein	61
+AAJNHDNO_06752 hypothetical protein	194
+AAJNHDNO_06753 hypothetical protein	337
+AAJNHDNO_06757 hypothetical protein	188
+AAJNHDNO_06760 hypothetical protein	60
+AAJNHDNO_06765 Cysteine protease StiP	364
+AAJNHDNO_06767 hypothetical protein	242
+AAJNHDNO_06779 hypothetical protein	422
+AAJNHDNO_06787 hypothetical protein	282
+AAJNHDNO_06798 hypothetical protein	131
+AAJNHDNO_06799 hypothetical protein	221
+AAJNHDNO_06807 hypothetical protein	363
+AAJNHDNO_06813 hypothetical protein	433
+AAJNHDNO_06815 hypothetical protein	212
+AAJNHDNO_06818 hypothetical protein	144
+AAJNHDNO_06824 hypothetical protein	171
+AAJNHDNO_06825 hypothetical protein	518
+AAJNHDNO_06827 hypothetical protein	139
+AAJNHDNO_06829 hypothetical protein	118
+AAJNHDNO_06831 hypothetical protein	315
+AAJNHDNO_06835 hypothetical protein	264
+AAJNHDNO_06836 hypothetical protein	157
+AAJNHDNO_06846 hypothetical protein	98
+AAJNHDNO_06848 hypothetical protein	862
+AAJNHDNO_06849 hypothetical protein	978
+AAJNHDNO_06852 hypothetical protein	138
+AAJNHDNO_06864 hypothetical protein	227
+AAJNHDNO_06867 hypothetical protein	234
+AAJNHDNO_06872 hypothetical protein	460
+AAJNHDNO_06879 putative protein YjiK	93
+AAJNHDNO_06882 hypothetical protein	308
+AAJNHDNO_06895 Tn3 family transposase Tn2	839
+AAJNHDNO_06915 hypothetical protein	306
+AAJNHDNO_06916 hypothetical protein	120
+AAJNHDNO_06918 hypothetical protein	676
+AAJNHDNO_06920 hypothetical protein	118
+AAJNHDNO_06921 hypothetical protein	130
+AAJNHDNO_06927 hypothetical protein	110
+AAJNHDNO_06930 hypothetical protein	211
+AAJNHDNO_06935 hypothetical protein	67
+AAJNHDNO_06938 SOS response-associated protein YedK	224
+AAJNHDNO_06939 hypothetical protein	177
+AAJNHDNO_06940 hypothetical protein	80

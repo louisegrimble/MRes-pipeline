@@ -1,0 +1,942 @@
+NGEEOFDF_00011 hypothetical protein	134
+NGEEOFDF_00022 hypothetical protein	473
+NGEEOFDF_00058 hypothetical protein	250
+NGEEOFDF_00070 hypothetical protein	189
+NGEEOFDF_00115 hypothetical protein	617
+NGEEOFDF_00128 hypothetical protein	409
+NGEEOFDF_00161 hypothetical protein	128
+NGEEOFDF_00187 hypothetical protein	66
+NGEEOFDF_00207 hypothetical protein	259
+NGEEOFDF_00215 hypothetical protein	266
+NGEEOFDF_00217 hypothetical protein	149
+NGEEOFDF_00218 hypothetical protein	198
+NGEEOFDF_00241 ISAs1 family transposase ISEc1	378
+NGEEOFDF_00245 ISAs1 family transposase ISEc26	390
+NGEEOFDF_00247 Inhibitor of vertebrate lysozyme	148
+NGEEOFDF_00272 hypothetical protein	129
+NGEEOFDF_00277 hypothetical protein	124
+NGEEOFDF_00278 hypothetical protein	103
+NGEEOFDF_00279 hypothetical protein	264
+NGEEOFDF_00281 hypothetical protein	147
+NGEEOFDF_00282 hypothetical protein	136
+NGEEOFDF_00288 hypothetical protein	138
+NGEEOFDF_00289 hypothetical protein	205
+NGEEOFDF_00290 hypothetical protein	152
+NGEEOFDF_00295 hypothetical protein	183
+NGEEOFDF_00296 hypothetical protein	250
+NGEEOFDF_00298 hypothetical protein	185
+NGEEOFDF_00299 hypothetical protein	73
+NGEEOFDF_00302 hypothetical protein	318
+NGEEOFDF_00329 hypothetical protein	118
+NGEEOFDF_00340 hypothetical protein	138
+NGEEOFDF_00341 hypothetical protein	70
+NGEEOFDF_00342 hypothetical protein	364
+NGEEOFDF_00343 hypothetical protein	253
+NGEEOFDF_00356 hypothetical protein	100
+NGEEOFDF_00360 hypothetical protein	472
+NGEEOFDF_00361 hypothetical protein	106
+NGEEOFDF_00374 hypothetical protein	91
+NGEEOFDF_00390 HTH-type transcriptional regulator CdhR	317
+NGEEOFDF_00391 hypothetical protein	258
+NGEEOFDF_00403 Transcriptional repressor FrmR	91
+NGEEOFDF_00415 hypothetical protein	980
+NGEEOFDF_00425 Phosphate starvation-inducible protein PsiF	106
+NGEEOFDF_00430 putative protein YaiA	63
+NGEEOFDF_00433 hypothetical protein	759
+NGEEOFDF_00434 hypothetical protein	149
+NGEEOFDF_00454 hypothetical protein	115
+NGEEOFDF_00463 hypothetical protein	523
+NGEEOFDF_00490 HTH-type transcriptional regulator SgrR	566
+NGEEOFDF_00500 putative protein YbaA	117
+NGEEOFDF_00502 Inner membrane protein YlaC	156
+NGEEOFDF_00510 hypothetical protein	54
+NGEEOFDF_00533 hypothetical protein	1461
+NGEEOFDF_00538 hypothetical protein	67
+NGEEOFDF_00539 hypothetical protein	140
+NGEEOFDF_00540 hypothetical protein	338
+NGEEOFDF_00541 hypothetical protein	120
+NGEEOFDF_00543 Protein QmcA	305
+NGEEOFDF_00552 hypothetical protein	86
+NGEEOFDF_00564 Putative purine permease YbbY	433
+NGEEOFDF_00570 hypothetical protein	419
+NGEEOFDF_00589 hypothetical protein	296
+NGEEOFDF_00592 ISAs1 family transposase ISEc1	378
+NGEEOFDF_00596 hypothetical protein	1616
+NGEEOFDF_00597 hypothetical protein	153
+NGEEOFDF_00608 hypothetical protein	122
+NGEEOFDF_00609 hypothetical protein	82
+NGEEOFDF_00677 hypothetical protein	235
+NGEEOFDF_00680 hypothetical protein	235
+NGEEOFDF_00681 hypothetical protein	150
+NGEEOFDF_00682 hypothetical protein	278
+NGEEOFDF_00720 hypothetical protein	34
+NGEEOFDF_00728 hypothetical protein	180
+NGEEOFDF_00729 ISAs1 family transposase ISEc1	357
+NGEEOFDF_00730 hypothetical protein	169
+NGEEOFDF_00733 GTP cyclohydrolase 1 type 2 	247
+NGEEOFDF_00734 5-oxoprolinase subunit B	218
+NGEEOFDF_00740 Chaperone protein PapD	243
+NGEEOFDF_00741 hypothetical protein	49
+NGEEOFDF_00742 Outer membrane usher protein PapC	720
+NGEEOFDF_00758 hypothetical protein	105
+NGEEOFDF_00759 hypothetical protein	456
+NGEEOFDF_00801 Hydrogen peroxide-inducible genes activator	317
+NGEEOFDF_00802 Putative isomerase YbhH	350
+NGEEOFDF_00807 hypothetical protein	55
+NGEEOFDF_00808 hypothetical protein	200
+NGEEOFDF_00810 hypothetical protein	71
+NGEEOFDF_00812 hypothetical protein	60
+NGEEOFDF_00814 hypothetical protein	215
+NGEEOFDF_00818 hypothetical protein	229
+NGEEOFDF_00819 hypothetical protein	247
+NGEEOFDF_00821 hypothetical protein	71
+NGEEOFDF_00824 hypothetical protein	50
+NGEEOFDF_00826 hypothetical protein	700
+NGEEOFDF_00827 hypothetical protein	70
+NGEEOFDF_00831 hypothetical protein	107
+NGEEOFDF_00832 hypothetical protein	91
+NGEEOFDF_00833 hypothetical protein	192
+NGEEOFDF_00834 hypothetical protein	133
+NGEEOFDF_00836 hypothetical protein	128
+NGEEOFDF_00837 hypothetical protein	109
+NGEEOFDF_00838 hypothetical protein	1021
+NGEEOFDF_00839 hypothetical protein	109
+NGEEOFDF_00843 hypothetical protein	1137
+NGEEOFDF_00845 hypothetical protein	438
+NGEEOFDF_00846 hypothetical protein	89
+NGEEOFDF_00847 hypothetical protein	326
+NGEEOFDF_00848 hypothetical protein	339
+NGEEOFDF_00850 hypothetical protein	44
+NGEEOFDF_00851 hypothetical protein	232
+NGEEOFDF_00859 Putative gluconeogenesis factor	302
+NGEEOFDF_00869 hypothetical protein	253
+NGEEOFDF_00875 HTH-type transcriptional dual regulator CecR	223
+NGEEOFDF_00895 Small protein MntS	42
+NGEEOFDF_00915 hypothetical protein	442
+NGEEOFDF_00926 hypothetical protein	92
+NGEEOFDF_00929 HTH-type transcriptional regulator RcdA	178
+NGEEOFDF_00936 putative protein YbjN	158
+NGEEOFDF_00941 Inner membrane protein YbjO	162
+NGEEOFDF_00952 putative lipoprotein YbjP	171
+NGEEOFDF_00953 hypothetical protein	413
+NGEEOFDF_00954 hypothetical protein	96
+NGEEOFDF_00955 hypothetical protein	107
+NGEEOFDF_00958 hypothetical protein	476
+NGEEOFDF_00963 Lysine exporter LysO	299
+NGEEOFDF_00986 putative hydrolase YcaC	208
+NGEEOFDF_01048 Inner membrane protein YccS	720
+NGEEOFDF_01060 hypothetical protein	80
+NGEEOFDF_01062 hypothetical protein	63
+NGEEOFDF_01065 hypothetical protein	129
+NGEEOFDF_01066 putative protein YdfB	42
+NGEEOFDF_01067 hypothetical protein	51
+NGEEOFDF_01068 hypothetical protein	63
+NGEEOFDF_01073 hypothetical protein	363
+NGEEOFDF_01076 hypothetical protein	137
+NGEEOFDF_01079 hypothetical protein	70
+NGEEOFDF_01082 hypothetical protein	123
+NGEEOFDF_01084 hypothetical protein	79
+NGEEOFDF_01093 hypothetical protein	104
+NGEEOFDF_01098 hypothetical protein	68
+NGEEOFDF_01106 hypothetical protein	530
+NGEEOFDF_01108 hypothetical protein	115
+NGEEOFDF_01109 hypothetical protein	88
+NGEEOFDF_01111 hypothetical protein	143
+NGEEOFDF_01112 hypothetical protein	137
+NGEEOFDF_01113 hypothetical protein	859
+NGEEOFDF_01114 hypothetical protein	109
+NGEEOFDF_01115 hypothetical protein	232
+NGEEOFDF_01119 hypothetical protein	1157
+NGEEOFDF_01121 hypothetical protein	437
+NGEEOFDF_01122 hypothetical protein	89
+NGEEOFDF_01123 Secreted effector protein EspF(U)	236
+NGEEOFDF_01124 hypothetical protein	60
+NGEEOFDF_01138 hypothetical protein	698
+NGEEOFDF_01140 putative lipoprotein GfcB	214
+NGEEOFDF_01141 Threonine-rich inner membrane protein GfcA	101
+NGEEOFDF_01152 hypothetical protein	299
+NGEEOFDF_01153 hypothetical protein	82
+NGEEOFDF_01155 putative protein YccJ	75
+NGEEOFDF_01158 hypothetical protein	94
+NGEEOFDF_01159 hypothetical protein	99
+NGEEOFDF_01160 hypothetical protein	94
+NGEEOFDF_01161 hypothetical protein	207
+NGEEOFDF_01162 hypothetical protein	95
+NGEEOFDF_01163 hypothetical protein	72
+NGEEOFDF_01164 hypothetical protein	71
+NGEEOFDF_01165 hypothetical protein	62
+NGEEOFDF_01167 hypothetical protein	71
+NGEEOFDF_01169 hypothetical protein	60
+NGEEOFDF_01174 hypothetical protein	54
+NGEEOFDF_01175 hypothetical protein	122
+NGEEOFDF_01176 hypothetical protein	83
+NGEEOFDF_01177 hypothetical protein	90
+NGEEOFDF_01179 hypothetical protein	173
+NGEEOFDF_01182 hypothetical protein	98
+NGEEOFDF_01183 hypothetical protein	48
+NGEEOFDF_01184 hypothetical protein	299
+NGEEOFDF_01186 hypothetical protein	89
+NGEEOFDF_01187 hypothetical protein	92
+NGEEOFDF_01188 hypothetical protein	71
+NGEEOFDF_01189 hypothetical protein	78
+NGEEOFDF_01190 hypothetical protein	148
+NGEEOFDF_01191 hypothetical protein	175
+NGEEOFDF_01192 hypothetical protein	244
+NGEEOFDF_01208 hypothetical protein	71
+NGEEOFDF_01210 hypothetical protein	189
+NGEEOFDF_01214 hypothetical protein	67
+NGEEOFDF_01215 hypothetical protein	268
+NGEEOFDF_01216 hypothetical protein	568
+NGEEOFDF_01218 hypothetical protein	335
+NGEEOFDF_01219 hypothetical protein	404
+NGEEOFDF_01220 hypothetical protein	129
+NGEEOFDF_01221 hypothetical protein	153
+NGEEOFDF_01222 hypothetical protein	187
+NGEEOFDF_01223 hypothetical protein	216
+NGEEOFDF_01224 hypothetical protein	645
+NGEEOFDF_01225 hypothetical protein	89
+NGEEOFDF_01226 hypothetical protein	62
+NGEEOFDF_01227 hypothetical protein	541
+NGEEOFDF_01228 hypothetical protein	422
+NGEEOFDF_01229 hypothetical protein	92
+NGEEOFDF_01230 hypothetical protein	205
+NGEEOFDF_01233 hypothetical protein	133
+NGEEOFDF_01234 hypothetical protein	218
+NGEEOFDF_01235 hypothetical protein	148
+NGEEOFDF_01236 hypothetical protein	83
+NGEEOFDF_01237 hypothetical protein	421
+NGEEOFDF_01238 hypothetical protein	2793
+NGEEOFDF_01240 Protein YgiW	114
+NGEEOFDF_01241 hypothetical protein	70
+NGEEOFDF_01242 hypothetical protein	131
+NGEEOFDF_01244 hypothetical protein	72
+NGEEOFDF_01245 hypothetical protein	94
+NGEEOFDF_01260 hypothetical protein	447
+NGEEOFDF_01272 hypothetical protein	163
+NGEEOFDF_01282 tRNA nuclease CdiA-2	1270
+NGEEOFDF_01291 hypothetical protein	317
+NGEEOFDF_01293 hypothetical protein	218
+NGEEOFDF_01295 hypothetical protein	262
+NGEEOFDF_01296 hypothetical protein	462
+NGEEOFDF_01298 hypothetical protein	328
+NGEEOFDF_01300 hypothetical protein	605
+NGEEOFDF_01301 hypothetical protein	461
+NGEEOFDF_01302 hypothetical protein	187
+NGEEOFDF_01304 hypothetical protein	89
+NGEEOFDF_01311 hypothetical protein	83
+NGEEOFDF_01312 hypothetical protein	96
+NGEEOFDF_01334 hypothetical protein	109
+NGEEOFDF_01335 hypothetical protein	155
+NGEEOFDF_01337 hypothetical protein	318
+NGEEOFDF_01338 Cysteine protease StiP	359
+NGEEOFDF_01339 hypothetical protein	257
+NGEEOFDF_01350 hypothetical protein	72
+NGEEOFDF_01352 hypothetical protein	64
+NGEEOFDF_01354 hypothetical protein	90
+NGEEOFDF_01356 Elloramycin glycosyltransferase ElmGT	374
+NGEEOFDF_01358 hypothetical protein	152
+NGEEOFDF_01359 hypothetical protein	169
+NGEEOFDF_01360 hypothetical protein	207
+NGEEOFDF_01361 hypothetical protein	77
+NGEEOFDF_01362 hypothetical protein	63
+NGEEOFDF_01366 hypothetical protein	171
+NGEEOFDF_01370 hypothetical protein	214
+NGEEOFDF_01378 Clamp-binding protein CrfC	794
+NGEEOFDF_01379 hypothetical protein	301
+NGEEOFDF_01381 hypothetical protein	272
+NGEEOFDF_01382 Antirestriction protein KlcA	161
+NGEEOFDF_01384 hypothetical protein	73
+NGEEOFDF_01385 hypothetical protein	37
+NGEEOFDF_01388 hypothetical protein	163
+NGEEOFDF_01390 hypothetical protein	280
+NGEEOFDF_01394 Chaperone protein YcdY	184
+NGEEOFDF_01395 Inner membrane protein YcdZ	173
+NGEEOFDF_01403 putative protein YmdA	103
+NGEEOFDF_01404 O-acetyl-ADP-ribose deacetylase	177
+NGEEOFDF_01409 hypothetical protein	75
+NGEEOFDF_01414 Protein YceI	191
+NGEEOFDF_01416 putative protein YceO	37
+NGEEOFDF_01472 Inner membrane protein YcfT	357
+NGEEOFDF_01481 hypothetical protein	89
+NGEEOFDF_01483 hypothetical protein	171
+NGEEOFDF_01484 hypothetical protein	76
+NGEEOFDF_01487 hypothetical protein	141
+NGEEOFDF_01489 hypothetical protein	140
+NGEEOFDF_01491 hypothetical protein	105
+NGEEOFDF_01492 hypothetical protein	100
+NGEEOFDF_01493 hypothetical protein	105
+NGEEOFDF_01494 hypothetical protein	105
+NGEEOFDF_01495 hypothetical protein	145
+NGEEOFDF_01496 hypothetical protein	63
+NGEEOFDF_01497 hypothetical protein	195
+NGEEOFDF_01499 hypothetical protein	70
+NGEEOFDF_01504 hypothetical protein	55
+NGEEOFDF_01506 hypothetical protein	60
+NGEEOFDF_01507 hypothetical protein	89
+NGEEOFDF_01508 hypothetical protein	71
+NGEEOFDF_01511 hypothetical protein	189
+NGEEOFDF_01519 hypothetical protein	553
+NGEEOFDF_01521 hypothetical protein	73
+NGEEOFDF_01524 hypothetical protein	116
+NGEEOFDF_01525 hypothetical protein	148
+NGEEOFDF_01526 hypothetical protein	114
+NGEEOFDF_01527 hypothetical protein	238
+NGEEOFDF_01528 hypothetical protein	124
+NGEEOFDF_01529 hypothetical protein	69
+NGEEOFDF_01530 hypothetical protein	1080
+NGEEOFDF_01531 hypothetical protein	113
+NGEEOFDF_01532 hypothetical protein	232
+NGEEOFDF_01535 hypothetical protein	61
+NGEEOFDF_01537 hypothetical protein	782
+NGEEOFDF_01538 hypothetical protein	1133
+NGEEOFDF_01539 hypothetical protein	149
+NGEEOFDF_01544 hypothetical protein	453
+NGEEOFDF_01550 hypothetical protein	247
+NGEEOFDF_01551 hypothetical protein	65
+NGEEOFDF_01553 hypothetical protein	63
+NGEEOFDF_01555 hypothetical protein	99
+NGEEOFDF_01557 hypothetical protein	83
+NGEEOFDF_01559 hypothetical protein	90
+NGEEOFDF_01560 hypothetical protein	74
+NGEEOFDF_01563 hypothetical protein	391
+NGEEOFDF_01564 hypothetical protein	112
+NGEEOFDF_01565 hypothetical protein	98
+NGEEOFDF_01567 hypothetical protein	118
+NGEEOFDF_01568 hypothetical protein	553
+NGEEOFDF_01569 hypothetical protein	93
+NGEEOFDF_01579 hypothetical protein	78
+NGEEOFDF_01580 hypothetical protein	274
+NGEEOFDF_01582 hypothetical protein	100
+NGEEOFDF_01585 hypothetical protein	151
+NGEEOFDF_01586 hypothetical protein	56
+NGEEOFDF_01587 Putative nuclease YbcO	96
+NGEEOFDF_01589 putative protein YlcG	46
+NGEEOFDF_01591 hypothetical protein	101
+NGEEOFDF_01595 putative protein YdfO	136
+NGEEOFDF_01599 hypothetical protein	68
+NGEEOFDF_01600 hypothetical protein	533
+NGEEOFDF_01603 hypothetical protein	341
+NGEEOFDF_01604 hypothetical protein	132
+NGEEOFDF_01605 hypothetical protein	117
+NGEEOFDF_01606 hypothetical protein	192
+NGEEOFDF_01607 hypothetical protein	131
+NGEEOFDF_01609 hypothetical protein	140
+NGEEOFDF_01610 hypothetical protein	144
+NGEEOFDF_01612 hypothetical protein	109
+NGEEOFDF_01613 hypothetical protein	232
+NGEEOFDF_01616 hypothetical protein	1132
+NGEEOFDF_01618 hypothetical protein	971
+NGEEOFDF_01619 Prophage tail fiber assembly protein TfaE	193
+NGEEOFDF_01622 Protein YciF	166
+NGEEOFDF_01624 hypothetical protein	222
+NGEEOFDF_01625 hypothetical protein	82
+NGEEOFDF_01631 hypothetical protein	194
+NGEEOFDF_01634 putative autotransporter	236
+NGEEOFDF_01638 hypothetical protein	122
+NGEEOFDF_01639 Inhibitor of g-type lysozyme	133
+NGEEOFDF_01659 hypothetical protein	84
+NGEEOFDF_01662 Trans-aconitate 2-methyltransferase	214
+NGEEOFDF_01671 hypothetical protein	547
+NGEEOFDF_01729 hypothetical protein	63
+NGEEOFDF_01731 hypothetical protein	77
+NGEEOFDF_01732 hypothetical protein	135
+NGEEOFDF_01733 hypothetical protein	72
+NGEEOFDF_01737 hypothetical protein	183
+NGEEOFDF_01739 hypothetical protein	140
+NGEEOFDF_01744 hypothetical protein	85
+NGEEOFDF_01745 hypothetical protein	92
+NGEEOFDF_01749 hypothetical protein	65
+NGEEOFDF_01754 hypothetical protein	71
+NGEEOFDF_01755 hypothetical protein	114
+NGEEOFDF_01757 hypothetical protein	189
+NGEEOFDF_01760 hypothetical protein	75
+NGEEOFDF_01763 hypothetical protein	553
+NGEEOFDF_01765 hypothetical protein	73
+NGEEOFDF_01766 hypothetical protein	859
+NGEEOFDF_01768 hypothetical protein	116
+NGEEOFDF_01769 hypothetical protein	148
+NGEEOFDF_01770 hypothetical protein	114
+NGEEOFDF_01771 hypothetical protein	238
+NGEEOFDF_01772 hypothetical protein	124
+NGEEOFDF_01773 hypothetical protein	69
+NGEEOFDF_01775 hypothetical protein	113
+NGEEOFDF_01776 hypothetical protein	145
+NGEEOFDF_01777 hypothetical protein	1158
+NGEEOFDF_01779 hypothetical protein	437
+NGEEOFDF_01780 hypothetical protein	89
+NGEEOFDF_01781 hypothetical protein	111
+NGEEOFDF_01785 Effector protein NleF	189
+NGEEOFDF_01792 hypothetical protein	215
+NGEEOFDF_01794 hypothetical protein	169
+NGEEOFDF_01805 hypothetical protein	527
+NGEEOFDF_01813 Protein YmiA	42
+NGEEOFDF_01814 hypothetical protein	55
+NGEEOFDF_01824 hypothetical protein	57
+NGEEOFDF_01827 hypothetical protein	375
+NGEEOFDF_01829 HTH-type transcriptional regulator BetI	188
+NGEEOFDF_01839 hypothetical protein	81
+NGEEOFDF_01861 Myo-inositol 2-dehydrogenase	351
+NGEEOFDF_01880 hypothetical protein	85
+NGEEOFDF_01898 hypothetical protein	71
+NGEEOFDF_01902 hypothetical protein	91
+NGEEOFDF_01904 Killing protein KilR	73
+NGEEOFDF_01906 hypothetical protein	51
+NGEEOFDF_01907 putative protein YdaG	44
+NGEEOFDF_01909 hypothetical protein	84
+NGEEOFDF_01910 hypothetical protein	140
+NGEEOFDF_01914 hypothetical protein	140
+NGEEOFDF_01916 hypothetical protein	87
+NGEEOFDF_01917 hypothetical protein	53
+NGEEOFDF_01919 hypothetical protein	329
+NGEEOFDF_01921 hypothetical protein	199
+NGEEOFDF_01922 Putative nuclease YbcO	96
+NGEEOFDF_01923 hypothetical protein	184
+NGEEOFDF_01929 hypothetical protein	71
+NGEEOFDF_01930 hypothetical protein	114
+NGEEOFDF_01932 hypothetical protein	189
+NGEEOFDF_01935 hypothetical protein	75
+NGEEOFDF_01938 hypothetical protein	553
+NGEEOFDF_01940 hypothetical protein	73
+NGEEOFDF_01941 hypothetical protein	454
+NGEEOFDF_01944 hypothetical protein	116
+NGEEOFDF_01945 hypothetical protein	148
+NGEEOFDF_01946 hypothetical protein	114
+NGEEOFDF_01948 hypothetical protein	124
+NGEEOFDF_01949 hypothetical protein	69
+NGEEOFDF_01950 hypothetical protein	1026
+NGEEOFDF_01951 hypothetical protein	113
+NGEEOFDF_01952 hypothetical protein	232
+NGEEOFDF_01954 hypothetical protein	193
+NGEEOFDF_01956 hypothetical protein	1165
+NGEEOFDF_01958 hypothetical protein	437
+NGEEOFDF_01959 hypothetical protein	89
+NGEEOFDF_01960 hypothetical protein	191
+NGEEOFDF_01961 hypothetical protein	209
+NGEEOFDF_01962 hypothetical protein	213
+NGEEOFDF_01970 hypothetical protein	879
+NGEEOFDF_01971 hypothetical protein	61
+NGEEOFDF_01984 hypothetical protein	112
+NGEEOFDF_01985 hypothetical protein	143
+NGEEOFDF_01986 hypothetical protein	125
+NGEEOFDF_01987 Protein YdcF	266
+NGEEOFDF_01991 hypothetical protein	57
+NGEEOFDF_01995 putative protein	447
+NGEEOFDF_01999 hypothetical protein	326
+NGEEOFDF_02002 hypothetical protein	222
+NGEEOFDF_02004 HTH-type transcriptional regulator SutR	178
+NGEEOFDF_02006 hypothetical protein	56
+NGEEOFDF_02015 Orphan toxin OrtT	57
+NGEEOFDF_02016 putative protein YdcY	77
+NGEEOFDF_02022 putative protein YncE	353
+NGEEOFDF_02028 hypothetical protein	61
+NGEEOFDF_02030 ISAs1 family transposase ISEc5	59
+NGEEOFDF_02031 ISAs1 family transposase ISEc1	203
+NGEEOFDF_02033 hypothetical protein	147
+NGEEOFDF_02034 hypothetical protein	40
+NGEEOFDF_02043 hypothetical protein	419
+NGEEOFDF_02045 hypothetical protein	167
+NGEEOFDF_02056 Protein bdm	71
+NGEEOFDF_02071 hypothetical protein	790
+NGEEOFDF_02098 hypothetical protein	472
+NGEEOFDF_02099 hypothetical protein	119
+NGEEOFDF_02102 HTH-type transcriptional regulator GltR	293
+NGEEOFDF_02103 hypothetical protein	262
+NGEEOFDF_02104 hypothetical protein	82
+NGEEOFDF_02114 Small protein MgtS	31
+NGEEOFDF_02116 Protein YgiW	130
+NGEEOFDF_02121 Putative selenoprotein YdfZ	67
+NGEEOFDF_02124 hypothetical protein	104
+NGEEOFDF_02125 hypothetical protein	213
+NGEEOFDF_02126 hypothetical protein	209
+NGEEOFDF_02127 hypothetical protein	191
+NGEEOFDF_02128 hypothetical protein	89
+NGEEOFDF_02129 hypothetical protein	92
+NGEEOFDF_02132 hypothetical protein	1159
+NGEEOFDF_02135 hypothetical protein	232
+NGEEOFDF_02136 hypothetical protein	109
+NGEEOFDF_02138 hypothetical protein	137
+NGEEOFDF_02139 hypothetical protein	140
+NGEEOFDF_02142 hypothetical protein	177
+NGEEOFDF_02143 hypothetical protein	117
+NGEEOFDF_02144 hypothetical protein	132
+NGEEOFDF_02145 hypothetical protein	341
+NGEEOFDF_02148 hypothetical protein	533
+NGEEOFDF_02149 hypothetical protein	68
+NGEEOFDF_02152 hypothetical protein	104
+NGEEOFDF_02155 hypothetical protein	189
+NGEEOFDF_02157 hypothetical protein	114
+NGEEOFDF_02158 hypothetical protein	68
+NGEEOFDF_02160 hypothetical protein	55
+NGEEOFDF_02165 hypothetical protein	65
+NGEEOFDF_02166 hypothetical protein	184
+NGEEOFDF_02169 hypothetical protein	90
+NGEEOFDF_02170 Protein YgiW	114
+NGEEOFDF_02171 hypothetical protein	70
+NGEEOFDF_02172 hypothetical protein	185
+NGEEOFDF_02173 hypothetical protein	103
+NGEEOFDF_02174 hypothetical protein	75
+NGEEOFDF_02175 hypothetical protein	93
+NGEEOFDF_02177 hypothetical protein	153
+NGEEOFDF_02179 hypothetical protein	141
+NGEEOFDF_02182 hypothetical protein	77
+NGEEOFDF_02183 hypothetical protein	212
+NGEEOFDF_02186 hypothetical protein	62
+NGEEOFDF_02189 hypothetical protein	84
+NGEEOFDF_02197 hypothetical protein	216
+NGEEOFDF_02199 hypothetical protein	176
+NGEEOFDF_02200 hypothetical protein	89
+NGEEOFDF_02201 hypothetical protein	407
+NGEEOFDF_02203 hypothetical protein	71
+NGEEOFDF_02204 hypothetical protein	709
+NGEEOFDF_02205 hypothetical protein	391
+NGEEOFDF_02206 hypothetical protein	193
+NGEEOFDF_02208 hypothetical protein	232
+NGEEOFDF_02209 hypothetical protein	113
+NGEEOFDF_02210 hypothetical protein	1080
+NGEEOFDF_02211 hypothetical protein	69
+NGEEOFDF_02212 hypothetical protein	124
+NGEEOFDF_02214 hypothetical protein	114
+NGEEOFDF_02215 hypothetical protein	148
+NGEEOFDF_02216 hypothetical protein	116
+NGEEOFDF_02218 hypothetical protein	859
+NGEEOFDF_02219 hypothetical protein	73
+NGEEOFDF_02221 hypothetical protein	553
+NGEEOFDF_02224 hypothetical protein	75
+NGEEOFDF_02227 hypothetical protein	189
+NGEEOFDF_02229 hypothetical protein	114
+NGEEOFDF_02230 hypothetical protein	68
+NGEEOFDF_02232 hypothetical protein	55
+NGEEOFDF_02237 hypothetical protein	229
+NGEEOFDF_02240 hypothetical protein	70
+NGEEOFDF_02243 hypothetical protein	194
+NGEEOFDF_02244 hypothetical protein	131
+NGEEOFDF_02248 hypothetical protein	141
+NGEEOFDF_02249 hypothetical protein	100
+NGEEOFDF_02251 hypothetical protein	63
+NGEEOFDF_02254 hypothetical protein	72
+NGEEOFDF_02257 hypothetical protein	63
+NGEEOFDF_02259 hypothetical protein	78
+NGEEOFDF_02263 hypothetical protein	113
+NGEEOFDF_02266 putative protein YnfD	101
+NGEEOFDF_02271 Tat proofreading chaperone DmsD	204
+NGEEOFDF_02275 Hca operon transcriptional activator HcaR	297
+NGEEOFDF_02277 Acid shock protein	102
+NGEEOFDF_02284 Protein YdgH	314
+NGEEOFDF_02307 Divisome-associated membrane protein Blr	41
+NGEEOFDF_02309 Inner membrane protein YdgK	146
+NGEEOFDF_02327 hypothetical protein	78
+NGEEOFDF_02328 p-hydroxybenzoic acid efflux pump subunit AaeA	285
+NGEEOFDF_02342 putative protein YnhF	29
+NGEEOFDF_02349 putative autotransporter	418
+NGEEOFDF_02352 Putative monooxygenase YdhR	101
+NGEEOFDF_02353 hypothetical protein	534
+NGEEOFDF_02354 putative protein YdhT	254
+NGEEOFDF_02357 putative protein YdhW	212
+NGEEOFDF_02370 hypothetical protein	62
+NGEEOFDF_02391 putative protein YdiE	63
+NGEEOFDF_02406 putative protein YniD	35
+NGEEOFDF_02410 putative ketoamine kinase	286
+NGEEOFDF_02415 hypothetical protein	251
+NGEEOFDF_02436 hypothetical protein	225
+NGEEOFDF_02438 hypothetical protein	182
+NGEEOFDF_02445 hypothetical protein	90
+NGEEOFDF_02447 Inner membrane protein YnjI	346
+NGEEOFDF_02474 putative diguanylate cyclase CdgI	447
+NGEEOFDF_02478 HTH-type transcriptional regulator NimR	272
+NGEEOFDF_02480 hypothetical protein	115
+NGEEOFDF_02484 Protein YoaG	60
+NGEEOFDF_02485 putative protein YeaR	119
+NGEEOFDF_02498 hypothetical protein	99
+NGEEOFDF_02501 putative Nudix hydrolase NudL	192
+NGEEOFDF_02510 putative manganese efflux pump MntP	188
+NGEEOFDF_02514 hypothetical protein	79
+NGEEOFDF_02524 putative protein YebV	78
+NGEEOFDF_02525 hypothetical protein	91
+NGEEOFDF_02527 hypothetical protein	113
+NGEEOFDF_02537 Protein YebF	118
+NGEEOFDF_02553 hypothetical protein	200
+NGEEOFDF_02555 putative transcriptional regulatory protein YebC	246
+NGEEOFDF_02558 Isochorismatase family protein YecD	188
+NGEEOFDF_02559 hypothetical protein	272
+NGEEOFDF_02568 hypothetical protein	162
+NGEEOFDF_02592 hypothetical protein	83
+NGEEOFDF_02593 hypothetical protein	107
+NGEEOFDF_02595 hypothetical protein	79
+NGEEOFDF_02599 hypothetical protein	115
+NGEEOFDF_02600 hypothetical protein	216
+NGEEOFDF_02602 hypothetical protein	67
+NGEEOFDF_02603 hypothetical protein	116
+NGEEOFDF_02604 hypothetical protein	92
+NGEEOFDF_02605 hypothetical protein	80
+NGEEOFDF_02606 hypothetical protein	37
+NGEEOFDF_02607 hypothetical protein	138
+NGEEOFDF_02608 hypothetical protein	67
+NGEEOFDF_02609 hypothetical protein	88
+NGEEOFDF_02610 hypothetical protein	99
+NGEEOFDF_02611 hypothetical protein	76
+NGEEOFDF_02612 hypothetical protein	121
+NGEEOFDF_02613 hypothetical protein	940
+NGEEOFDF_02615 hypothetical protein	104
+NGEEOFDF_02618 Prophage tail fiber assembly protein TfaE	138
+NGEEOFDF_02621 hypothetical protein	233
+NGEEOFDF_02623 hypothetical protein	121
+NGEEOFDF_02651 SOS response-associated protein YedK	222
+NGEEOFDF_02670 Protein DsrB	62
+NGEEOFDF_02671 hypothetical protein	75
+NGEEOFDF_02674 hypothetical protein	60
+NGEEOFDF_02676 putative inner membrane transporter YedA	306
+NGEEOFDF_02691 hypothetical protein	217
+NGEEOFDF_02692 Secreted effector protein EspF(U)	337
+NGEEOFDF_02693 hypothetical protein	89
+NGEEOFDF_02694 hypothetical protein	437
+NGEEOFDF_02696 hypothetical protein	783
+NGEEOFDF_02697 hypothetical protein	391
+NGEEOFDF_02700 hypothetical protein	232
+NGEEOFDF_02701 hypothetical protein	109
+NGEEOFDF_02702 hypothetical protein	224
+NGEEOFDF_02704 hypothetical protein	137
+NGEEOFDF_02705 hypothetical protein	143
+NGEEOFDF_02707 hypothetical protein	88
+NGEEOFDF_02708 hypothetical protein	115
+NGEEOFDF_02710 hypothetical protein	530
+NGEEOFDF_02714 hypothetical protein	104
+NGEEOFDF_02719 hypothetical protein	114
+NGEEOFDF_02720 hypothetical protein	68
+NGEEOFDF_02729 hypothetical protein	229
+NGEEOFDF_02732 hypothetical protein	70
+NGEEOFDF_02734 hypothetical protein	187
+NGEEOFDF_02735 hypothetical protein	103
+NGEEOFDF_02737 hypothetical protein	118
+NGEEOFDF_02738 hypothetical protein	74
+NGEEOFDF_02740 hypothetical protein	140
+NGEEOFDF_02742 hypothetical protein	141
+NGEEOFDF_02745 hypothetical protein	50
+NGEEOFDF_02747 hypothetical protein	62
+NGEEOFDF_02749 hypothetical protein	67
+NGEEOFDF_02760 putative transcriptional regulatory protein YeeN	238
+NGEEOFDF_02778 hypothetical protein	293
+NGEEOFDF_02779 hypothetical protein	301
+NGEEOFDF_02781 hypothetical protein	227
+NGEEOFDF_02783 hypothetical protein	273
+NGEEOFDF_02784 Antirestriction protein KlcA	159
+NGEEOFDF_02786 hypothetical protein	73
+NGEEOFDF_02789 Protein YeeW	64
+NGEEOFDF_02811 GDP-perosamine N-acetyltransferase	221
+NGEEOFDF_02817 hypothetical protein	404
+NGEEOFDF_02841 hypothetical protein	279
+NGEEOFDF_02847 hypothetical protein	96
+NGEEOFDF_02855 Protein kinase YegI	646
+NGEEOFDF_02856 Serine/threonine-protein phosphatase 3	226
+NGEEOFDF_02866 hypothetical protein	105
+NGEEOFDF_02876 Putative nucleoside transporter YegT	425
+NGEEOFDF_02878 2-dehydro-3-deoxygluconokinase	321
+NGEEOFDF_02879 HTH-type transcriptional repressor NagR	248
+NGEEOFDF_02883 hypothetical protein	79
+NGEEOFDF_02888 Nickel/cobalt homeostasis protein RcnB	112
+NGEEOFDF_02897 hypothetical protein	963
+NGEEOFDF_02898 hypothetical protein	426
+NGEEOFDF_02899 hypothetical protein	579
+NGEEOFDF_02900 hypothetical protein	1209
+NGEEOFDF_02901 hypothetical protein	105
+NGEEOFDF_02904 hypothetical protein	509
+NGEEOFDF_02905 hypothetical protein	243
+NGEEOFDF_02907 hypothetical protein	745
+NGEEOFDF_02911 hypothetical protein	156
+NGEEOFDF_02914 DNA damage-inducible protein I	82
+NGEEOFDF_02915 hypothetical protein	89
+NGEEOFDF_02916 hypothetical protein	437
+NGEEOFDF_02918 hypothetical protein	781
+NGEEOFDF_02919 hypothetical protein	391
+NGEEOFDF_02922 hypothetical protein	232
+NGEEOFDF_02923 hypothetical protein	109
+NGEEOFDF_02925 hypothetical protein	102
+NGEEOFDF_02926 hypothetical protein	140
+NGEEOFDF_02928 hypothetical protein	132
+NGEEOFDF_02929 hypothetical protein	207
+NGEEOFDF_02930 hypothetical protein	93
+NGEEOFDF_02931 hypothetical protein	108
+NGEEOFDF_02936 hypothetical protein	500
+NGEEOFDF_02937 hypothetical protein	70
+NGEEOFDF_02938 hypothetical protein	707
+NGEEOFDF_02942 hypothetical protein	189
+NGEEOFDF_02944 hypothetical protein	71
+NGEEOFDF_02945 hypothetical protein	81
+NGEEOFDF_02950 hypothetical protein	160
+NGEEOFDF_02952 hypothetical protein	201
+NGEEOFDF_02955 hypothetical protein	175
+NGEEOFDF_02956 hypothetical protein	148
+NGEEOFDF_02957 hypothetical protein	78
+NGEEOFDF_02958 hypothetical protein	71
+NGEEOFDF_02959 hypothetical protein	92
+NGEEOFDF_02960 hypothetical protein	96
+NGEEOFDF_02968 hypothetical protein	90
+NGEEOFDF_02970 hypothetical protein	122
+NGEEOFDF_02971 hypothetical protein	54
+NGEEOFDF_02973 hypothetical protein	98
+NGEEOFDF_02976 hypothetical protein	60
+NGEEOFDF_02977 hypothetical protein	63
+NGEEOFDF_02978 hypothetical protein	71
+NGEEOFDF_02981 hypothetical protein	58
+NGEEOFDF_02982 hypothetical protein	118
+NGEEOFDF_02983 hypothetical protein	120
+NGEEOFDF_02984 hypothetical protein	80
+NGEEOFDF_02986 hypothetical protein	84
+NGEEOFDF_02989 hypothetical protein	35
+NGEEOFDF_03012 hypothetical protein	79
+NGEEOFDF_03025 hypothetical protein	349
+NGEEOFDF_03049 putative protein YejG	114
+NGEEOFDF_03058 putative autotransporter	863
+NGEEOFDF_03091 hypothetical protein	517
+NGEEOFDF_03115 putative HTH-type transcriptional regulator RhmR	260
+NGEEOFDF_03117 hypothetical protein	180
+NGEEOFDF_03119 Lipopolysaccharide core heptose(II)-phosphate phosphatase	200
+NGEEOFDF_03138 Protein YfbM	167
+NGEEOFDF_03162 hypothetical protein	492
+NGEEOFDF_03189 hypothetical protein	92
+NGEEOFDF_03196 putative protein YfcO	280
+NGEEOFDF_03198 putative fimbrial-like protein YfcQ	142
+NGEEOFDF_03199 putative fimbrial-like protein YfcR	166
+NGEEOFDF_03200 putative fimbrial chaperone YfcS	252
+NGEEOFDF_03201 Outer membrane usher protein PapC	879
+NGEEOFDF_03206 hypothetical protein	94
+NGEEOFDF_03208 hypothetical protein	343
+NGEEOFDF_03213 hypothetical protein	378
+NGEEOFDF_03214 hypothetical protein	226
+NGEEOFDF_03215 hypothetical protein	155
+NGEEOFDF_03216 hypothetical protein	189
+NGEEOFDF_03217 hypothetical protein	215
+NGEEOFDF_03218 hypothetical protein	470
+NGEEOFDF_03238 hypothetical protein	80
+NGEEOFDF_03279 hypothetical protein	110
+NGEEOFDF_03293 Acetyltransferase YpeA	141
+NGEEOFDF_03316 hypothetical protein	347
+NGEEOFDF_03323 hypothetical protein	66
+NGEEOFDF_03357 Protein YfgG	57
+NGEEOFDF_03359 hypothetical protein	179
+NGEEOFDF_03363 putative protein YfgJ	71
+NGEEOFDF_03379 hypothetical protein	258
+NGEEOFDF_03381 Protein IscX	66
+NGEEOFDF_03402 L-threonine 3-dehydrogenase	275
+NGEEOFDF_03413 Quorum-sensing regulator protein G	237
+NGEEOFDF_03458 hypothetical protein	120
+NGEEOFDF_03459 hypothetical protein	172
+NGEEOFDF_03474 Ribosome association toxin RatA	149
+NGEEOFDF_03477 DNA damage-inducible protein I	82
+NGEEOFDF_03479 hypothetical protein	216
+NGEEOFDF_03480 Effector protein hopW1-1	352
+NGEEOFDF_03481 hypothetical protein	135
+NGEEOFDF_03482 hypothetical protein	89
+NGEEOFDF_03490 hypothetical protein	71
+NGEEOFDF_03493 hypothetical protein	247
+NGEEOFDF_03496 hypothetical protein	203
+NGEEOFDF_03501 hypothetical protein	420
+NGEEOFDF_03502 hypothetical protein	137
+NGEEOFDF_03503 hypothetical protein	132
+NGEEOFDF_03504 hypothetical protein	543
+NGEEOFDF_03508 hypothetical protein	283
+NGEEOFDF_03509 putative autotransporter	1528
+NGEEOFDF_03521 hypothetical protein	52
+NGEEOFDF_03589 hypothetical protein	117
+NGEEOFDF_03605 Inner membrane protein YgbE	107
+NGEEOFDF_03693 hypothetical protein	48
+NGEEOFDF_03702 Octopine catabolism/uptake operon regulatory protein OccR	311
+NGEEOFDF_03709 hypothetical protein	210
+NGEEOFDF_03712 hypothetical protein	159
+NGEEOFDF_03716 Chaperone protein SicA	163
+NGEEOFDF_03719 hypothetical protein	133
+NGEEOFDF_03720 Transcriptional regulatory protein RcsB	210
+NGEEOFDF_03723 Oxygen-regulated invasion protein OrgA	193
+NGEEOFDF_03742 Invasion protein InvF	249
+NGEEOFDF_03743 hypothetical protein	59
+NGEEOFDF_03745 hypothetical protein	187
+NGEEOFDF_03770 putative protein YqfG	41
+NGEEOFDF_03800 hypothetical protein	103
+NGEEOFDF_03801 HTH-type transcriptional regulator HdfR	192
+NGEEOFDF_03822 hypothetical protein	243
+NGEEOFDF_03824 hypothetical protein	83
+NGEEOFDF_03845 putative Fe(2+)-trafficking protein	91
+NGEEOFDF_03859 hypothetical protein	329
+NGEEOFDF_03860 hypothetical protein	224
+NGEEOFDF_03862 hypothetical protein	433
+NGEEOFDF_03876 Hydrogenase-2 operon protein HybE	162
+NGEEOFDF_03882 hypothetical protein	95
+NGEEOFDF_03908 hypothetical protein	295
+NGEEOFDF_03924 Protein YqiD	56
+NGEEOFDF_03957 hypothetical protein	356
+NGEEOFDF_03975 Protein YqjC	122
+NGEEOFDF_03977 Inner membrane protein YqjE	134
+NGEEOFDF_03978 hypothetical protein	99
+NGEEOFDF_03981 Inner membrane protein YhaH	121
+NGEEOFDF_03985 hypothetical protein	54
+NGEEOFDF_04037 Ubiquinone biosynthesis accessory factor UbiJ	174
+NGEEOFDF_04039 hypothetical protein	292
+NGEEOFDF_04040 hypothetical protein	335
+NGEEOFDF_04053 Putative transferase YhbX	505
+NGEEOFDF_04094 Putative nuclease YhcG	349
+NGEEOFDF_04112 Multiple stress resistance protein BhsA	87
+NGEEOFDF_04154 hypothetical protein	85
+NGEEOFDF_04167 hypothetical protein	122
+NGEEOFDF_04206 Transcriptional regulator DauR	240
+NGEEOFDF_04223 putative protein YhfG	55
+NGEEOFDF_04230 hypothetical protein	55
+NGEEOFDF_04251 Putative membrane protein IgaA 	707
+NGEEOFDF_04272 hypothetical protein	92
+NGEEOFDF_04273 hypothetical protein	161
+NGEEOFDF_04281 hypothetical protein	200
+NGEEOFDF_04301 hypothetical protein	303
+NGEEOFDF_04310 hypothetical protein	248
+NGEEOFDF_04327 hypothetical protein	208
+NGEEOFDF_04331 hypothetical protein	185
+NGEEOFDF_04334 hypothetical protein	125
+NGEEOFDF_04336 hypothetical protein	240
+NGEEOFDF_04341 hypothetical protein	453
+NGEEOFDF_04359 Mannosyl-D-glycerate transport/metabolism system repressor MngR	248
+NGEEOFDF_04366 hypothetical protein	119
+NGEEOFDF_04367 hypothetical protein	91
+NGEEOFDF_04371 hypothetical protein	540
+NGEEOFDF_04372 hypothetical protein	536
+NGEEOFDF_04384 hypothetical protein	57
+NGEEOFDF_04388 hypothetical protein	371
+NGEEOFDF_04396 hypothetical protein	207
+NGEEOFDF_04430 Protein YhjR	62
+NGEEOFDF_04432 hypothetical protein	63
+NGEEOFDF_04433 Cellulose biosynthesis protein BcsG	559
+NGEEOFDF_04450 hypothetical protein	232
+NGEEOFDF_04456 hypothetical protein	236
+NGEEOFDF_04463 O-acetyltransferase WecH	331
+NGEEOFDF_04480 hypothetical protein	324
+NGEEOFDF_04510 Murein hydrolase activator EnvC	419
+NGEEOFDF_04515 Protein HtrL	290
+NGEEOFDF_04538 hypothetical protein	287
+NGEEOFDF_04547 hypothetical protein	288
+NGEEOFDF_04558 hypothetical protein	163
+NGEEOFDF_04560 hypothetical protein	113
+NGEEOFDF_04561 hypothetical protein	47
+NGEEOFDF_04566 hypothetical protein	92
+NGEEOFDF_04568 hypothetical protein	135
+NGEEOFDF_04570 hypothetical protein	374
+NGEEOFDF_04575 Tir chaperone	156
+NGEEOFDF_04578 hypothetical protein	127
+NGEEOFDF_04581 hypothetical protein	106
+NGEEOFDF_04584 hypothetical protein	117
+NGEEOFDF_04585 hypothetical protein	99
+NGEEOFDF_04588 hypothetical protein	151
+NGEEOFDF_04592 hypothetical protein	123
+NGEEOFDF_04593 hypothetical protein	152
+NGEEOFDF_04598 hypothetical protein	217
+NGEEOFDF_04599 hypothetical protein	199
+NGEEOFDF_04600 hypothetical protein	104
+NGEEOFDF_04601 hypothetical protein	72
+NGEEOFDF_04604 putative protein YjiK	272
+NGEEOFDF_04608 hypothetical protein	97
+NGEEOFDF_04610 hypothetical protein	117
+NGEEOFDF_04612 hypothetical protein	150
+NGEEOFDF_04631 Inner membrane protein YidI	149
+NGEEOFDF_04641 hypothetical protein	86
+NGEEOFDF_04644 hypothetical protein	218
+NGEEOFDF_04646 hypothetical protein	132
+NGEEOFDF_04660 HTH-type transcriptional regulator YidZ	319
+NGEEOFDF_04705 putative transport protein HsrA	475
+NGEEOFDF_04706 HTH-type transcriptional repressor NanR	230
+NGEEOFDF_04713 HTH-type transcriptional regulator HdfR	279
+NGEEOFDF_04731 hypothetical protein	72
+NGEEOFDF_04766 hypothetical protein	254
+NGEEOFDF_04768 hypothetical protein	163
+NGEEOFDF_04769 hypothetical protein	282
+NGEEOFDF_04778 Pyridoxal phosphate phosphatase YigL	266
+NGEEOFDF_04811 Protein YdgA	476
+NGEEOFDF_04812 putative acyltransferase YihG	310
+NGEEOFDF_04813 hypothetical protein	61
+NGEEOFDF_04818 putative protein YshB	36
+NGEEOFDF_04824 hypothetical protein	326
+NGEEOFDF_04841 hypothetical protein	297
+NGEEOFDF_04842 hypothetical protein	304
+NGEEOFDF_04843 hypothetical protein	72
+NGEEOFDF_04845 hypothetical protein	60
+NGEEOFDF_04852 hypothetical protein	351
+NGEEOFDF_04868 Protein YiiM	224
+NGEEOFDF_04878 hypothetical protein	199
+NGEEOFDF_04879 hypothetical protein	146
+NGEEOFDF_04880 hypothetical protein	99
+NGEEOFDF_04888 hypothetical protein	224
+NGEEOFDF_04901 hypothetical protein	202
+NGEEOFDF_04907 putative cystine transporter YijE	301
+NGEEOFDF_04954 Heat shock protein C	147
+NGEEOFDF_04967 hypothetical protein	211
+NGEEOFDF_04990 hypothetical protein	176
+NGEEOFDF_04995 hypothetical protein	93
+NGEEOFDF_04998 hypothetical protein	176
+NGEEOFDF_05000 hypothetical protein	177
+NGEEOFDF_05002 hypothetical protein	183
+NGEEOFDF_05007 hypothetical protein	169
+NGEEOFDF_05008 hypothetical protein	141
+NGEEOFDF_05010 hypothetical protein	166
+NGEEOFDF_05015 hypothetical protein	554
+NGEEOFDF_05016 hypothetical protein	529
+NGEEOFDF_05017 hypothetical protein	441
+NGEEOFDF_05018 hypothetical protein	157
+NGEEOFDF_05020 hypothetical protein	315
+NGEEOFDF_05022 hypothetical protein	139
+NGEEOFDF_05024 hypothetical protein	81
+NGEEOFDF_05025 hypothetical protein	500
+NGEEOFDF_05026 hypothetical protein	121
+NGEEOFDF_05032 hypothetical protein	145
+NGEEOFDF_05033 hypothetical protein	360
+NGEEOFDF_05034 hypothetical protein	186
+NGEEOFDF_05035 hypothetical protein	303
+NGEEOFDF_05036 hypothetical protein	173
+NGEEOFDF_05050 hypothetical protein	90
+NGEEOFDF_05053 hypothetical protein	80
+NGEEOFDF_05054 putative lipoprotein GfcB	212
+NGEEOFDF_05056 hypothetical protein	698
+NGEEOFDF_05065 hypothetical protein	526
+NGEEOFDF_05072 hypothetical protein	69
+NGEEOFDF_05074 hypothetical protein	298
+NGEEOFDF_05081 hypothetical protein	119
+NGEEOFDF_05083 hypothetical protein	138
+NGEEOFDF_05084 putative protein YjbR	118
+NGEEOFDF_05093 hypothetical protein	430
+NGEEOFDF_05095 Inner membrane protein YjcH	104
+NGEEOFDF_05111 hypothetical protein	91
+NGEEOFDF_05112 Putative alkyl/aryl-sulfatase YjcS	661
+NGEEOFDF_05120 Sensor histidine kinase RcsC	756
+NGEEOFDF_05121 hypothetical protein	109
+NGEEOFDF_05139 hypothetical protein	292
+NGEEOFDF_05148 Melibiose operon regulatory protein	302
+NGEEOFDF_05159 Toxin GhoT	57
+NGEEOFDF_05166 hypothetical protein	191
+NGEEOFDF_05175 hypothetical protein	117
+NGEEOFDF_05176 hypothetical protein	289
+NGEEOFDF_05214 hypothetical protein	219
+NGEEOFDF_05216 hypothetical protein	212
+NGEEOFDF_05230 hypothetical protein	91
+NGEEOFDF_05235 hypothetical protein	185
+NGEEOFDF_05247 hypothetical protein	312
+NGEEOFDF_05249 hypothetical protein	68
+NGEEOFDF_05254 Gamma-glutamylcyclotransferase family protein YtfP	113
+NGEEOFDF_05280 putative protein YjgL	590
+NGEEOFDF_05296 hypothetical protein	125
+NGEEOFDF_05297 hypothetical protein	110
+NGEEOFDF_05298 hypothetical protein	155
+NGEEOFDF_05300 hypothetical protein	438
+NGEEOFDF_05302 hypothetical protein	152
+NGEEOFDF_05305 N-acetylneuraminate epimerase	102
+NGEEOFDF_05309 hypothetical protein	1119
+NGEEOFDF_05315 IS4 family transposase ISCro3	81
+NGEEOFDF_05333 hypothetical protein	276
+NGEEOFDF_05343 putative protein YjiK	280
+NGEEOFDF_05345 hypothetical protein	88
+NGEEOFDF_05346 (R)-phenyllactate dehydratase activator	255
+NGEEOFDF_05353 hypothetical protein	54
+NGEEOFDF_05354 hypothetical protein	293
+NGEEOFDF_05355 hypothetical protein	387
+NGEEOFDF_05360 hypothetical protein	94
+NGEEOFDF_05361 hypothetical protein	452
+NGEEOFDF_05363 hypothetical protein	67
+NGEEOFDF_05365 hypothetical protein	180
+NGEEOFDF_05371 hypothetical protein	164
+NGEEOFDF_05379 hypothetical protein	78
+NGEEOFDF_05391 putative protein YjjI	81
+NGEEOFDF_05392 putative protein YjjI	422
+NGEEOFDF_05397 hypothetical protein	87
+NGEEOFDF_05402 hypothetical protein	55
