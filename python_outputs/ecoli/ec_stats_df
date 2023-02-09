@@ -1,0 +1,8 @@
+Q,A
+Total predictions EggNOG,5121.0
+Total predictions Kofamscan,4642.0
+Total predictions Kofamscan (no duplicates),4642.0
+Total proteins no KEGG (EggNOG),0.0
+Total proteins no KEGG (Kofamscan),0.0
+% proteins no KEGG (EggNOG),0.0
+% proteins no KEGG (Kofamscan),0.0
